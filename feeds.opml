@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · The most complete English RSS feed library</title>
-    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
+    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
   </head>
   <body>
     <outline text="🧠 AI Research &amp; Labs" title="🧠 AI Research &amp; Labs">
@@ -32,11 +32,15 @@
       <outline type="rss" text="ARENAS Research Presented at the World Congress of French Linguistics" title="ARENAS Research Presented at the World Congress of French Linguistics" xmlUrl="https://arenasproject.eu/feed" htmlUrl=""/>
       <outline type="rss" text="arXiv Computer Vision (cs.CV)" title="arXiv Computer Vision (cs.CV)" xmlUrl="https://arxiv.org/rss/cs.CV" htmlUrl="https://arxiv.org/list/cs.CV/new"/>
       <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="http://export.arxiv.org/rss/cs.AI" htmlUrl=""/>
+      <outline type="rss" text="arXiv cs.CL (Computation &amp; Language / NLP)" title="arXiv cs.CL (Computation &amp; Language / NLP)" xmlUrl="https://rss.arxiv.org/rss/cs.CL" htmlUrl=""/>
+      <outline type="rss" text="arXiv cs.CV (Computer Vision)" title="arXiv cs.CV (Computer Vision)" xmlUrl="https://rss.arxiv.org/rss/cs.CV" htmlUrl=""/>
       <outline type="rss" text="arXiv cs.LG" title="arXiv cs.LG" xmlUrl="http://export.arxiv.org/rss/cs.LG" htmlUrl=""/>
+      <outline type="rss" text="arXiv cs.LG (Machine Learning)" title="arXiv cs.LG (Machine Learning)" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl=""/>
       <outline type="rss" text="arXiv ML (cs.LG)" title="arXiv ML (cs.LG)" xmlUrl="https://arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/new"/>
       <outline type="rss" text="arXiv NLP (cs.CL)" title="arXiv NLP (cs.CL)" xmlUrl="https://arxiv.org/rss/cs.CL" htmlUrl="https://arxiv.org/list/cs.CL/new"/>
       <outline type="rss" text="arXiv Stat ML (stat.ML)" title="arXiv Stat ML (stat.ML)" xmlUrl="https://arxiv.org/rss/stat.ML" htmlUrl="https://arxiv.org/list/stat.ML/new"/>
       <outline type="rss" text="arXiv stat.ML" title="arXiv stat.ML" xmlUrl="http://export.arxiv.org/rss/stat.ML" htmlUrl=""/>
+      <outline type="rss" text="arXiv stat.ML (Statistics - ML)" title="arXiv stat.ML (Statistics - ML)" xmlUrl="https://rss.arxiv.org/rss/stat.ML" htmlUrl=""/>
       <outline type="rss" text="BBC News - Science &amp; Environment" title="BBC News - Science &amp; Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl=""/>
       <outline type="rss" text="Berkeley AI Research (BAIR)" title="Berkeley AI Research (BAIR)" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog"/>
       <outline type="rss" text="Berkeley AI Research(@berkeley_ai)" title="Berkeley AI Research(@berkeley_ai)" xmlUrl="https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009" htmlUrl=""/>

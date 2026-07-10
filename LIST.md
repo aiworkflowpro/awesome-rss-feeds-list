@@ -1,8 +1,8 @@
 # awesome-rss-feeds · Full Feed Index
 
-> Auto-generated 2026-07-10T19:19:44Z · **8949 live English feeds** across 21 categories. Every feed is HTTP-validated.
+> Auto-generated 2026-07-10T19:20:39Z · **8953 live English feeds** across 21 categories. Every feed is HTTP-validated.
 
-## 🧠 AI Research & Labs (250)
+## 🧠 AI Research & Labs (254)
 
 - [2.0.7 Mayte Li - Learning to climb: mountains and research](https://feed.podbean.com/ThePAMTalks/feed.xml)
 - [2026 JIRN Virtual Research Conference Thursday](https://jirn.org/feed)
@@ -30,11 +30,15 @@
 - [ARENAS Research Presented at the World Congress of French Linguistics](https://arenasproject.eu/feed)
 - [arXiv Computer Vision (cs.CV)](https://arxiv.org/rss/cs.CV)
 - [arXiv cs.AI](http://export.arxiv.org/rss/cs.AI)
+- [arXiv cs.CL (Computation & Language / NLP)](https://rss.arxiv.org/rss/cs.CL)
+- [arXiv cs.CV (Computer Vision)](https://rss.arxiv.org/rss/cs.CV)
 - [arXiv cs.LG](http://export.arxiv.org/rss/cs.LG)
+- [arXiv cs.LG (Machine Learning)](https://rss.arxiv.org/rss/cs.LG)
 - [arXiv ML (cs.LG)](https://arxiv.org/rss/cs.LG)
 - [arXiv NLP (cs.CL)](https://arxiv.org/rss/cs.CL)
 - [arXiv Stat ML (stat.ML)](https://arxiv.org/rss/stat.ML)
 - [arXiv stat.ML](http://export.arxiv.org/rss/stat.ML)
+- [arXiv stat.ML (Statistics - ML)](https://rss.arxiv.org/rss/stat.ML)
 - [BBC News - Science & Environment](http://feeds.bbci.co.uk/news/science_and_environment/rss.xml)
 - [Berkeley AI Research (BAIR)](https://bair.berkeley.edu/blog/feed.xml)
 - [Berkeley AI Research(@berkeley_ai)](https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009)

@@ -2,10 +2,10 @@
 
 # 🌐 awesome-rss-feeds
 
-> 💎 **8949+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
+> 💎 **8953+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-8949+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-8949-2188FF?style=for-the-badge)](#-quick-start)
+[![Live feeds](https://img.shields.io/badge/live_feeds-8953+-brightgreen?style=for-the-badge)](LIST.md)
+[![English only](https://img.shields.io/badge/English_only-8953-2188FF?style=for-the-badge)](#-quick-start)
 [![Categories](https://img.shields.io/badge/categories-21-orange?style=for-the-badge)](#-quick-start)
 [![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
 
@@ -15,7 +15,7 @@
 
 > 🎯 **Algorithms wrap you in a filter bubble, platforms chain you to a timeline, and AI-generated content is destroying the signal-to-noise ratio — RSS is the last pillar for taking back control of what you read.**
 >
-> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8949+ live feeds** across **21 categories**, with AI as a first-class focus.
+> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8953+ live feeds** across **21 categories**, with AI as a first-class focus.
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 | What you want to read | Category | Feeds |
 |---|---|---:|
-| 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **250** |
+| 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **254** |
 | ⚙️ AI Engineering & LLM | [feeds/en-ai-eng.opml](feeds/en-ai-eng.opml) | **232** |
 | 📡 AI News & Insights | [feeds/en-ai-news.opml](feeds/en-ai-news.opml) | **18** |
 | 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **482** |
