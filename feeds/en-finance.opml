@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Finance &amp; Investing</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://aiworldjournal.com/feed" title="https://aiworldjournal.com/feed" xmlUrl="https://aiworldjournal.com/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.geekwire.com/tag/ai/feed" title="https://www.geekwire.com/tag/ai/feed" xmlUrl="https://www.geekwire.com/tag/ai/feed" htmlUrl=""/>
     <outline type="rss" text="'Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day" title="'Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day" xmlUrl="https://www.techradar.com/feeds.xml" htmlUrl=""/>
     <outline type="rss" text="07.10.2026 iEthereum Commodity Technical Brief" title="07.10.2026 iEthereum Commodity Technical Brief" xmlUrl="https://rss.beehiiv.com/feeds/f2UumNTKP9.xml" htmlUrl=""/>
     <outline type="rss" text="1000003961" title="1000003961" xmlUrl="https://lisagrouette.journoportfolio.com/rss.xml" htmlUrl=""/>

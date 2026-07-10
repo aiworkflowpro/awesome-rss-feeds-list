@@ -1,9 +1,12 @@
 # awesome-rss-feeds · Full Feed Index
 
-> Auto-generated 2026-07-10T19:20:39Z · **8953 live English feeds** across 21 categories. Every feed is HTTP-validated.
+> Auto-generated 2026-07-10T19:31:27Z · **8985 live English feeds** across 21 categories. Every feed is HTTP-validated.
 
-## 🧠 AI Research & Labs (254)
+## 🧠 AI Research & Labs (257)
 
+- [https://research.google/blog/rss](https://research.google/blog/rss)
+- [https://www.kdnuggets.com/feed](https://www.kdnuggets.com/feed)
+- [https://nanonets.com/blog/rss](https://nanonets.com/blog/rss)
 - [2.0.7 Mayte Li - Learning to climb: mountains and research](https://feed.podbean.com/ThePAMTalks/feed.xml)
 - [2026 JIRN Virtual Research Conference Thursday](https://jirn.org/feed)
 - [2026 Research Updates: GI Symptoms & Behavior](https://autism.org/feed)
@@ -259,10 +262,26 @@
 - [World-class UK research organisations launch new group](https://www.bas.ac.uk/feed?post_type=news)
 - [Your Advocacy in Action: The Road to Increased Federal Research Funding](https://pancan.org/feed)
 
-## ⚙️ AI Engineering & LLM (232)
+## ⚙️ AI Engineering & LLM (248)
 
 - [https://techcrunch.com/category/artificial-intelligence/feed](https://techcrunch.com/category/artificial-intelligence/feed)
 - [https://www.technologyreview.com/topic/artificial-intelligence/feed](https://www.technologyreview.com/topic/artificial-intelligence/feed)
+- [https://news.mit.edu/rss/topic/artificial-intelligence2](https://news.mit.edu/rss/topic/artificial-intelligence2)
+- [http://www.eledia.org/e-air/feed](http://www.eledia.org/e-air/feed)
+- [https://www.theverge.com/rss/ai-artificial-intelligence/index.xml](https://www.theverge.com/rss/ai-artificial-intelligence/index.xml)
+- [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml)
+- [https://www.fastcompany.com/section/artificial-intelligence/rss](https://www.fastcompany.com/section/artificial-intelligence/rss)
+- [https://machinelearningmastery.com/blog/feed](https://machinelearningmastery.com/blog/feed)
+- [https://www.analyticsvidhya.com/feed](https://www.analyticsvidhya.com/feed)
+- [https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed)
+- [https://blogs.sas.com/content/topic/artificial-intelligence/feed](https://blogs.sas.com/content/topic/artificial-intelligence/feed)
+- [https://www.vue.ai/blog/feed](https://www.vue.ai/blog/feed)
+- [https://topmarketingai.com/feed](https://topmarketingai.com/feed)
+- [https://www.viact.ai/blog-feed.xml](https://www.viact.ai/blog-feed.xml)
+- [https://indianexpress.com/section/technology/artificial-intelligence/feed](https://indianexpress.com/section/technology/artificial-intelligence/feed)
+- [https://www.mygreatlearning.com/blog/artificial-intelligence/feed](https://www.mygreatlearning.com/blog/artificial-intelligence/feed)
+- [https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed)
+- [https://www.adweek.com/category/artificial-intelligence/feed](https://www.adweek.com/category/artificial-intelligence/feed)
 - [#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies](https://mixergy.com/?feed=mixergy_feed)
 - [(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, & DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak](https://braddelong.substack.com/feed)
 - [10 Claude Code Settings That Made Me a Faster Software Architect](https://jsdev.space/rss.xml)
@@ -2485,8 +2504,9 @@
 - [‘Time to go fight Big Pharma’: Navigating US health care system and high costs strains mental health of people with chronic disease](https://medillonthehill.medill.northwestern.edu/feed)
 - [⏰ Fix Your Input Latency](https://gamesbymason.com/feed.xml)
 
-## ☁️ DevOps & Data (80)
+## ☁️ DevOps & Data (81)
 
+- [https://deepcognition.ai/feed](https://deepcognition.ai/feed)
 - ['₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage](https://www.republicworld.com/rss/viral.xml)
 - [18 Most Beautiful Cities in Canada You Can’t Skip](https://sparknomad.com/feed)
 - [2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA](https://thecarton.net/setlists/feed)
@@ -2646,8 +2666,9 @@
 - [v0(@v0)](https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7)
 - [Wear OS 7: New Features Coming to Android Smartwatches in 2026](https://celest-watches.com/feed)
 
-## 🏗️ Engineering Team Blogs (275)
+## 🏗️ Engineering Team Blogs (276)
 
+- [https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed)
 - [.NET](https://devblogs.microsoft.com/dotnet/feed)
 - [0xADADA](https://0xadada.pub/rss.xml)
 - [8th Light](https://8thlight.com/insights/feed/rss.xml)
@@ -2955,8 +2976,9 @@
 - [Wrong answers only: Workshop at UX Scotland 2026](https://www.effortmark.co.uk/feed)
 - [X1r0z Blog](https://exp10it.io/index.xml)
 
-## 🔬 Science (261)
+## 🔬 Science (262)
 
+- [https://zerothprinciples.substack.com/feed](https://zerothprinciples.substack.com/feed)
 - [#58-Could epilepsy & seizures be genetic?](https://feed.podbean.com/allaccessdna/feed.xml)
 - [(Science-fiction philosophy) Why the Fulani transported to planet Vweialer didn’t convert from Christianity to Islam – an analysis based on power.](https://thismoonlesssky.wordpress.com/feed)
 - [/r/space: news, articles and discussion](https://www.reddit.com/r/space/.rss?format=xml)
@@ -3220,8 +3242,9 @@
 - [“I Am an Unabashed Optimist About the Long-Term Future of Science.”](https://issues.org/feed/atom)
 - [【Caitlin’s】ガザで、パレスチナ人は浄化され続けている](https://digital-humanities.space/feed)
 
-## 🚀 Startups & Indie Hackers (146)
+## 🚀 Startups & Indie Hackers (147)
 
+- [https://www.aiwire.net/feed](https://www.aiwire.net/feed)
 - [15 things I have learned launching AI projects - Part 4](https://puntofisso.net/blog//index.xml)
 - [15 Years of Indie Dev In 4 Bits of Advice](https://www.pentadact.com/feed)
 - [A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish](https://dailygalaxy.com/feed)
@@ -3369,8 +3392,10 @@
 - [ZED Airlines launches investigation into emergency landing with three people on board](https://haitiantimes.com/feed)
 - [“Interwoven Rosewood” Authors Launch Website](https://uapress.arizona.edu/feed)
 
-## 💰 Finance & Investing (222)
+## 💰 Finance & Investing (224)
 
+- [https://aiworldjournal.com/feed](https://aiworldjournal.com/feed)
+- [https://www.geekwire.com/tag/ai/feed](https://www.geekwire.com/tag/ai/feed)
 - ['Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day](https://www.techradar.com/feeds.xml)
 - [07.10.2026 iEthereum Commodity Technical Brief](https://rss.beehiiv.com/feeds/f2UumNTKP9.xml)
 - [1000003961](https://lisagrouette.journoportfolio.com/rss.xml)
@@ -3594,8 +3619,12 @@
 - [Youssef Sammouda (sam0) personal blog](https://ysamm.com/feed.xml)
 - [Zcash Surges 8% as the Ironwood Upgrade Reignites Privacy-Coin Hype](https://cryptoticker.io/en/feed)
 
-## 📰 News & Politics (1022)
+## 📰 News & Politics (1026)
 
+- [https://qudata.com/en/news/rss.xml](https://qudata.com/en/news/rss.xml)
+- [https://gptzero.me/news/rss](https://gptzero.me/news/rss)
+- [https://news.microsoft.com/source/topics/ai/feed](https://news.microsoft.com/source/topics/ai/feed)
+- [https://news.crunchbase.com/sections/ai/feed](https://news.crunchbase.com/sections/ai/feed)
 - ["Crackpot Empire"](https://www.unpopularfront.news/feed)
 - ["We are really disappointed." Satanic doo-wop duo Twin Temple removed from country tour dates after headliner realises they’re Satanic](https://www.loudersound.com/feeds/articletype/news)
 - [#BlogTour #Review – Dark Chronicles by Karmen Špiljak @rararesources](https://raereadsbookblog.wordpress.com/feed)
@@ -7269,10 +7298,12 @@
 - [𝐄𝐎𝐌: "𝐖𝐎𝐑𝐋𝐃 𝐂𝐔𝐏 𝐌𝐀𝐓𝐂𝐇𝐄𝐒 𝐅𝐄𝐋𝐓 𝐋𝐈𝐊𝐄 𝐁𝐈𝐆 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐈𝐄𝐒, 𝐒𝐎 𝐈 𝐃𝐈𝐃𝐍'𝐓 𝐅𝐄𝐄𝐋 𝐒𝐎 𝐍𝐄𝐑𝐕𝐎𝐔𝐒..."](https://www.fansnetwork.co.uk/football/swanseacity/rss)
 - [🌍 The Week in International Sport](https://www.plottheball.com/feed)
 
-## 🌿 Life & Culture (1554)
+## 🌿 Life & Culture (1556)
 
 - [https://www.artlimited.net/feed/f-gallery.xml](https://www.artlimited.net/feed/f-gallery.xml)
 - [https://www.bookclubcookbook.com/feed](https://www.bookclubcookbook.com/feed)
+- [https://aihub.org/feed?cat=-473](https://aihub.org/feed?cat=-473)
+- [https://theaisummer.com/feed.xml](https://theaisummer.com/feed.xml)
 - ["Get the Colonoscopy": One Woman's Stage 4 Colon Cancer Journey and the Fight to Be Heard](https://www.ymyhealth.com/blog?format=rss)
 - ["Murakami" (Munetake Murakami) Chicago White Sox - Officially Licensed MLB Print - Limited Release METALLIC GOLD ARTIST AUTO 1/1](https://laurentaylorillustrations.com/collections/july-2024-new-releases.atom)
 - ["We Always Pray" MMIW 3/4 sleeve raglan shirt](https://arts360.nativearts360.org/collections/mmiw-awareness.atom)
@@ -8975,8 +9006,9 @@
 - [WordPress 7.1 Release Schedule](https://www.wppodcast.org/feed/podcast)
 - [ZUCast: The Zelda Universe Podcast – June 2026) Arguing the Zelda Timeline](https://zeldauniverse.net/feed/podcast)
 
-## 📬 Newsletters (43)
+## 📬 Newsletters (44)
 
+- [https://intelligence.org/feed](https://intelligence.org/feed)
 - [2026 Newsletters so far….](https://paulregan.studio/feed)
 - [A balanced review of Math Academy](https://newsletter.ozwrites.com/feed)
 - [ACAT’s June Newsletter](https://www.akaction.org/feed)

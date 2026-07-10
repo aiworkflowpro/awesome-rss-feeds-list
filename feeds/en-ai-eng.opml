@@ -2,11 +2,27 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Engineering &amp; LLM</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://techcrunch.com/category/artificial-intelligence/feed" title="https://techcrunch.com/category/artificial-intelligence/feed" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" htmlUrl=""/>
     <outline type="rss" text="https://www.technologyreview.com/topic/artificial-intelligence/feed" title="https://www.technologyreview.com/topic/artificial-intelligence/feed" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://news.mit.edu/rss/topic/artificial-intelligence2" title="https://news.mit.edu/rss/topic/artificial-intelligence2" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl=""/>
+    <outline type="rss" text="http://www.eledia.org/e-air/feed" title="http://www.eledia.org/e-air/feed" xmlUrl="http://www.eledia.org/e-air/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" title="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl=""/>
+    <outline type="rss" text="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" title="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="https://www.fastcompany.com/section/artificial-intelligence/rss" title="https://www.fastcompany.com/section/artificial-intelligence/rss" xmlUrl="https://www.fastcompany.com/section/artificial-intelligence/rss" htmlUrl=""/>
+    <outline type="rss" text="https://machinelearningmastery.com/blog/feed" title="https://machinelearningmastery.com/blog/feed" xmlUrl="https://machinelearningmastery.com/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.analyticsvidhya.com/feed" title="https://www.analyticsvidhya.com/feed" xmlUrl="https://www.analyticsvidhya.com/feed" htmlUrl=""/>
+    <outline type="rss" text="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" title="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" xmlUrl="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://blogs.sas.com/content/topic/artificial-intelligence/feed" title="https://blogs.sas.com/content/topic/artificial-intelligence/feed" xmlUrl="https://blogs.sas.com/content/topic/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.vue.ai/blog/feed" title="https://www.vue.ai/blog/feed" xmlUrl="https://www.vue.ai/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="https://topmarketingai.com/feed" title="https://topmarketingai.com/feed" xmlUrl="https://topmarketingai.com/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.viact.ai/blog-feed.xml" title="https://www.viact.ai/blog-feed.xml" xmlUrl="https://www.viact.ai/blog-feed.xml" htmlUrl=""/>
+    <outline type="rss" text="https://indianexpress.com/section/technology/artificial-intelligence/feed" title="https://indianexpress.com/section/technology/artificial-intelligence/feed" xmlUrl="https://indianexpress.com/section/technology/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" title="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" xmlUrl="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" title="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" xmlUrl="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.adweek.com/category/artificial-intelligence/feed" title="https://www.adweek.com/category/artificial-intelligence/feed" xmlUrl="https://www.adweek.com/category/artificial-intelligence/feed" htmlUrl=""/>
     <outline type="rss" text="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" title="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" xmlUrl="https://mixergy.com/?feed=mixergy_feed" htmlUrl=""/>
     <outline type="rss" text="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" title="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" xmlUrl="https://braddelong.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="10 Claude Code Settings That Made Me a Faster Software Architect" title="10 Claude Code Settings That Made Me a Faster Software Architect" xmlUrl="https://jsdev.space/rss.xml" htmlUrl=""/>

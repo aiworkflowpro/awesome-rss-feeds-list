@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Engineering Team Blogs</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" title="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" xmlUrl="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" htmlUrl=""/>
     <outline type="rss" text=".NET" title=".NET" xmlUrl="https://devblogs.microsoft.com/dotnet/feed" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>
     <outline type="rss" text="0xADADA" title="0xADADA" xmlUrl="https://0xadada.pub/rss.xml" htmlUrl="https://0xadada.pub/"/>
     <outline type="rss" text="8th Light" title="8th Light" xmlUrl="https://8thlight.com/insights/feed/rss.xml" htmlUrl="https://8thlight.com/blog/"/>

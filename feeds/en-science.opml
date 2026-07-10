@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Science</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://zerothprinciples.substack.com/feed" title="https://zerothprinciples.substack.com/feed" xmlUrl="https://zerothprinciples.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="#58-Could epilepsy &amp; seizures be genetic?" title="#58-Could epilepsy &amp; seizures be genetic?" xmlUrl="https://feed.podbean.com/allaccessdna/feed.xml" htmlUrl=""/>
     <outline type="rss" text="(Science-fiction philosophy) Why the Fulani transported to planet Vweialer didn’t convert from Christianity to Islam – an analysis based on power." title="(Science-fiction philosophy) Why the Fulani transported to planet Vweialer didn’t convert from Christianity to Islam – an analysis based on power." xmlUrl="https://thismoonlesssky.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" htmlUrl=""/>

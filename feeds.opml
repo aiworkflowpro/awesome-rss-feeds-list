@@ -2,10 +2,13 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · The most complete English RSS feed library</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
     <outline text="🧠 AI Research &amp; Labs" title="🧠 AI Research &amp; Labs">
+      <outline type="rss" text="https://research.google/blog/rss" title="https://research.google/blog/rss" xmlUrl="https://research.google/blog/rss" htmlUrl=""/>
+      <outline type="rss" text="https://www.kdnuggets.com/feed" title="https://www.kdnuggets.com/feed" xmlUrl="https://www.kdnuggets.com/feed" htmlUrl=""/>
+      <outline type="rss" text="https://nanonets.com/blog/rss" title="https://nanonets.com/blog/rss" xmlUrl="https://nanonets.com/blog/rss" htmlUrl=""/>
       <outline type="rss" text="2.0.7 Mayte Li - Learning to climb: mountains and research" title="2.0.7 Mayte Li - Learning to climb: mountains and research" xmlUrl="https://feed.podbean.com/ThePAMTalks/feed.xml" htmlUrl=""/>
       <outline type="rss" text="2026 JIRN Virtual Research Conference Thursday" title="2026 JIRN Virtual Research Conference Thursday" xmlUrl="https://jirn.org/feed" htmlUrl=""/>
       <outline type="rss" text="2026 Research Updates: GI Symptoms &amp; Behavior" title="2026 Research Updates: GI Symptoms &amp; Behavior" xmlUrl="https://autism.org/feed" htmlUrl=""/>
@@ -264,6 +267,22 @@
     <outline text="⚙️ AI Engineering &amp; LLM" title="⚙️ AI Engineering &amp; LLM">
       <outline type="rss" text="https://techcrunch.com/category/artificial-intelligence/feed" title="https://techcrunch.com/category/artificial-intelligence/feed" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" htmlUrl=""/>
       <outline type="rss" text="https://www.technologyreview.com/topic/artificial-intelligence/feed" title="https://www.technologyreview.com/topic/artificial-intelligence/feed" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://news.mit.edu/rss/topic/artificial-intelligence2" title="https://news.mit.edu/rss/topic/artificial-intelligence2" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl=""/>
+      <outline type="rss" text="http://www.eledia.org/e-air/feed" title="http://www.eledia.org/e-air/feed" xmlUrl="http://www.eledia.org/e-air/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" title="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl=""/>
+      <outline type="rss" text="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" title="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/artificial-intelligence/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="https://www.fastcompany.com/section/artificial-intelligence/rss" title="https://www.fastcompany.com/section/artificial-intelligence/rss" xmlUrl="https://www.fastcompany.com/section/artificial-intelligence/rss" htmlUrl=""/>
+      <outline type="rss" text="https://machinelearningmastery.com/blog/feed" title="https://machinelearningmastery.com/blog/feed" xmlUrl="https://machinelearningmastery.com/blog/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.analyticsvidhya.com/feed" title="https://www.analyticsvidhya.com/feed" xmlUrl="https://www.analyticsvidhya.com/feed" htmlUrl=""/>
+      <outline type="rss" text="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" title="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" xmlUrl="https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://blogs.sas.com/content/topic/artificial-intelligence/feed" title="https://blogs.sas.com/content/topic/artificial-intelligence/feed" xmlUrl="https://blogs.sas.com/content/topic/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.vue.ai/blog/feed" title="https://www.vue.ai/blog/feed" xmlUrl="https://www.vue.ai/blog/feed" htmlUrl=""/>
+      <outline type="rss" text="https://topmarketingai.com/feed" title="https://topmarketingai.com/feed" xmlUrl="https://topmarketingai.com/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.viact.ai/blog-feed.xml" title="https://www.viact.ai/blog-feed.xml" xmlUrl="https://www.viact.ai/blog-feed.xml" htmlUrl=""/>
+      <outline type="rss" text="https://indianexpress.com/section/technology/artificial-intelligence/feed" title="https://indianexpress.com/section/technology/artificial-intelligence/feed" xmlUrl="https://indianexpress.com/section/technology/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" title="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" xmlUrl="https://www.mygreatlearning.com/blog/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" title="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" xmlUrl="https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.adweek.com/category/artificial-intelligence/feed" title="https://www.adweek.com/category/artificial-intelligence/feed" xmlUrl="https://www.adweek.com/category/artificial-intelligence/feed" htmlUrl=""/>
       <outline type="rss" text="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" title="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" xmlUrl="https://mixergy.com/?feed=mixergy_feed" htmlUrl=""/>
       <outline type="rss" text="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" title="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" xmlUrl="https://braddelong.substack.com/feed" htmlUrl=""/>
       <outline type="rss" text="10 Claude Code Settings That Made Me a Faster Software Architect" title="10 Claude Code Settings That Made Me a Faster Software Architect" xmlUrl="https://jsdev.space/rss.xml" htmlUrl=""/>
@@ -2482,6 +2501,7 @@
       <outline type="rss" text="⏰ Fix Your Input Latency" title="⏰ Fix Your Input Latency" xmlUrl="https://gamesbymason.com/feed.xml" htmlUrl=""/>
     </outline>
     <outline text="☁️ DevOps &amp; Data" title="☁️ DevOps &amp; Data">
+      <outline type="rss" text="https://deepcognition.ai/feed" title="https://deepcognition.ai/feed" xmlUrl="https://deepcognition.ai/feed" htmlUrl=""/>
       <outline type="rss" text="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" title="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" xmlUrl="https://www.republicworld.com/rss/viral.xml" htmlUrl=""/>
       <outline type="rss" text="18 Most Beautiful Cities in Canada You Can’t Skip" title="18 Most Beautiful Cities in Canada You Can’t Skip" xmlUrl="https://sparknomad.com/feed" htmlUrl=""/>
       <outline type="rss" text="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" title="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" xmlUrl="https://thecarton.net/setlists/feed" htmlUrl=""/>
@@ -2641,6 +2661,7 @@
       <outline type="rss" text="Wear OS 7: New Features Coming to Android Smartwatches in 2026" title="Wear OS 7: New Features Coming to Android Smartwatches in 2026" xmlUrl="https://celest-watches.com/feed" htmlUrl=""/>
     </outline>
     <outline text="🏗️ Engineering Team Blogs" title="🏗️ Engineering Team Blogs">
+      <outline type="rss" text="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" title="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" xmlUrl="https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/feed" htmlUrl=""/>
       <outline type="rss" text=".NET" title=".NET" xmlUrl="https://devblogs.microsoft.com/dotnet/feed" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>
       <outline type="rss" text="0xADADA" title="0xADADA" xmlUrl="https://0xadada.pub/rss.xml" htmlUrl="https://0xadada.pub/"/>
       <outline type="rss" text="8th Light" title="8th Light" xmlUrl="https://8thlight.com/insights/feed/rss.xml" htmlUrl="https://8thlight.com/blog/"/>
@@ -2948,6 +2969,7 @@
       <outline type="rss" text="X1r0z Blog" title="X1r0z Blog" xmlUrl="https://exp10it.io/index.xml" htmlUrl=""/>
     </outline>
     <outline text="🔬 Science" title="🔬 Science">
+      <outline type="rss" text="https://zerothprinciples.substack.com/feed" title="https://zerothprinciples.substack.com/feed" xmlUrl="https://zerothprinciples.substack.com/feed" htmlUrl=""/>
       <outline type="rss" text="#58-Could epilepsy &amp; seizures be genetic?" title="#58-Could epilepsy &amp; seizures be genetic?" xmlUrl="https://feed.podbean.com/allaccessdna/feed.xml" htmlUrl=""/>
       <outline type="rss" text="(Science-fiction philosophy) Why the Fulani transported to planet Vweialer didn’t convert from Christianity to Islam – an analysis based on power." title="(Science-fiction philosophy) Why the Fulani transported to planet Vweialer didn’t convert from Christianity to Islam – an analysis based on power." xmlUrl="https://thismoonlesssky.wordpress.com/feed" htmlUrl=""/>
       <outline type="rss" text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" htmlUrl=""/>
@@ -3213,6 +3235,7 @@
       <outline type="rss" text="【Caitlin’s】ガザで、パレスチナ人は浄化され続けている" title="【Caitlin’s】ガザで、パレスチナ人は浄化され続けている" xmlUrl="https://digital-humanities.space/feed" htmlUrl=""/>
     </outline>
     <outline text="🚀 Startups &amp; Indie Hackers" title="🚀 Startups &amp; Indie Hackers">
+      <outline type="rss" text="https://www.aiwire.net/feed" title="https://www.aiwire.net/feed" xmlUrl="https://www.aiwire.net/feed" htmlUrl=""/>
       <outline type="rss" text="15 things I have learned launching AI projects - Part 4" title="15 things I have learned launching AI projects - Part 4" xmlUrl="https://puntofisso.net/blog//index.xml" htmlUrl=""/>
       <outline type="rss" text="15 Years of Indie Dev In 4 Bits of Advice" title="15 Years of Indie Dev In 4 Bits of Advice" xmlUrl="https://www.pentadact.com/feed" htmlUrl=""/>
       <outline type="rss" text="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" title="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" xmlUrl="https://dailygalaxy.com/feed" htmlUrl=""/>
@@ -3361,6 +3384,8 @@
       <outline type="rss" text="“Interwoven Rosewood” Authors Launch Website" title="“Interwoven Rosewood” Authors Launch Website" xmlUrl="https://uapress.arizona.edu/feed" htmlUrl=""/>
     </outline>
     <outline text="💰 Finance &amp; Investing" title="💰 Finance &amp; Investing">
+      <outline type="rss" text="https://aiworldjournal.com/feed" title="https://aiworldjournal.com/feed" xmlUrl="https://aiworldjournal.com/feed" htmlUrl=""/>
+      <outline type="rss" text="https://www.geekwire.com/tag/ai/feed" title="https://www.geekwire.com/tag/ai/feed" xmlUrl="https://www.geekwire.com/tag/ai/feed" htmlUrl=""/>
       <outline type="rss" text="'Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day" title="'Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day" xmlUrl="https://www.techradar.com/feeds.xml" htmlUrl=""/>
       <outline type="rss" text="07.10.2026 iEthereum Commodity Technical Brief" title="07.10.2026 iEthereum Commodity Technical Brief" xmlUrl="https://rss.beehiiv.com/feeds/f2UumNTKP9.xml" htmlUrl=""/>
       <outline type="rss" text="1000003961" title="1000003961" xmlUrl="https://lisagrouette.journoportfolio.com/rss.xml" htmlUrl=""/>
@@ -3585,6 +3610,10 @@
       <outline type="rss" text="Zcash Surges 8% as the Ironwood Upgrade Reignites Privacy-Coin Hype" title="Zcash Surges 8% as the Ironwood Upgrade Reignites Privacy-Coin Hype" xmlUrl="https://cryptoticker.io/en/feed" htmlUrl=""/>
     </outline>
     <outline text="📰 News &amp; Politics" title="📰 News &amp; Politics">
+      <outline type="rss" text="https://qudata.com/en/news/rss.xml" title="https://qudata.com/en/news/rss.xml" xmlUrl="https://qudata.com/en/news/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="https://gptzero.me/news/rss" title="https://gptzero.me/news/rss" xmlUrl="https://gptzero.me/news/rss" htmlUrl=""/>
+      <outline type="rss" text="https://news.microsoft.com/source/topics/ai/feed" title="https://news.microsoft.com/source/topics/ai/feed" xmlUrl="https://news.microsoft.com/source/topics/ai/feed" htmlUrl=""/>
+      <outline type="rss" text="https://news.crunchbase.com/sections/ai/feed" title="https://news.crunchbase.com/sections/ai/feed" xmlUrl="https://news.crunchbase.com/sections/ai/feed" htmlUrl=""/>
       <outline type="rss" text="&quot;Crackpot Empire&quot;" title="&quot;Crackpot Empire&quot;" xmlUrl="https://www.unpopularfront.news/feed" htmlUrl=""/>
       <outline type="rss" text="&quot;We are really disappointed.&quot; Satanic doo-wop duo Twin Temple removed from country tour dates after headliner realises they’re Satanic" title="&quot;We are really disappointed.&quot; Satanic doo-wop duo Twin Temple removed from country tour dates after headliner realises they’re Satanic" xmlUrl="https://www.loudersound.com/feeds/articletype/news" htmlUrl=""/>
       <outline type="rss" text="#BlogTour #Review – Dark Chronicles by Karmen Špiljak @rararesources" title="#BlogTour #Review – Dark Chronicles by Karmen Špiljak @rararesources" xmlUrl="https://raereadsbookblog.wordpress.com/feed" htmlUrl=""/>
@@ -7259,6 +7288,8 @@
     <outline text="🌿 Life &amp; Culture" title="🌿 Life &amp; Culture">
       <outline type="rss" text="https://www.artlimited.net/feed/f-gallery.xml" title="https://www.artlimited.net/feed/f-gallery.xml" xmlUrl="https://www.artlimited.net/feed/f-gallery.xml" htmlUrl=""/>
       <outline type="rss" text="https://www.bookclubcookbook.com/feed" title="https://www.bookclubcookbook.com/feed" xmlUrl="https://www.bookclubcookbook.com/feed" htmlUrl=""/>
+      <outline type="rss" text="https://aihub.org/feed?cat=-473" title="https://aihub.org/feed?cat=-473" xmlUrl="https://aihub.org/feed?cat=-473" htmlUrl=""/>
+      <outline type="rss" text="https://theaisummer.com/feed.xml" title="https://theaisummer.com/feed.xml" xmlUrl="https://theaisummer.com/feed.xml" htmlUrl=""/>
       <outline type="rss" text="&quot;Get the Colonoscopy&quot;: One Woman's Stage 4 Colon Cancer Journey and the Fight to Be Heard" title="&quot;Get the Colonoscopy&quot;: One Woman's Stage 4 Colon Cancer Journey and the Fight to Be Heard" xmlUrl="https://www.ymyhealth.com/blog?format=rss" htmlUrl=""/>
       <outline type="rss" text="&quot;Murakami&quot; (Munetake Murakami) Chicago White Sox - Officially Licensed MLB Print - Limited Release METALLIC GOLD ARTIST AUTO 1/1" title="&quot;Murakami&quot; (Munetake Murakami) Chicago White Sox - Officially Licensed MLB Print - Limited Release METALLIC GOLD ARTIST AUTO 1/1" xmlUrl="https://laurentaylorillustrations.com/collections/july-2024-new-releases.atom" htmlUrl=""/>
       <outline type="rss" text="&quot;We Always Pray&quot; MMIW 3/4 sleeve raglan shirt" title="&quot;We Always Pray&quot; MMIW 3/4 sleeve raglan shirt" xmlUrl="https://arts360.nativearts360.org/collections/mmiw-awareness.atom" htmlUrl=""/>
@@ -8962,6 +8993,7 @@
       <outline type="rss" text="ZUCast: The Zelda Universe Podcast – June 2026) Arguing the Zelda Timeline" title="ZUCast: The Zelda Universe Podcast – June 2026) Arguing the Zelda Timeline" xmlUrl="https://zeldauniverse.net/feed/podcast" htmlUrl=""/>
     </outline>
     <outline text="📬 Newsletters" title="📬 Newsletters">
+      <outline type="rss" text="https://intelligence.org/feed" title="https://intelligence.org/feed" xmlUrl="https://intelligence.org/feed" htmlUrl=""/>
       <outline type="rss" text="2026 Newsletters so far…." title="2026 Newsletters so far…." xmlUrl="https://paulregan.studio/feed" htmlUrl=""/>
       <outline type="rss" text="A balanced review of Math Academy" title="A balanced review of Math Academy" xmlUrl="https://newsletter.ozwrites.com/feed" htmlUrl=""/>
       <outline type="rss" text="ACAT’s June Newsletter" title="ACAT’s June Newsletter" xmlUrl="https://www.akaction.org/feed" htmlUrl=""/>

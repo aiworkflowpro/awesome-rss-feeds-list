@@ -2,9 +2,13 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · News &amp; Politics</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://qudata.com/en/news/rss.xml" title="https://qudata.com/en/news/rss.xml" xmlUrl="https://qudata.com/en/news/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="https://gptzero.me/news/rss" title="https://gptzero.me/news/rss" xmlUrl="https://gptzero.me/news/rss" htmlUrl=""/>
+    <outline type="rss" text="https://news.microsoft.com/source/topics/ai/feed" title="https://news.microsoft.com/source/topics/ai/feed" xmlUrl="https://news.microsoft.com/source/topics/ai/feed" htmlUrl=""/>
+    <outline type="rss" text="https://news.crunchbase.com/sections/ai/feed" title="https://news.crunchbase.com/sections/ai/feed" xmlUrl="https://news.crunchbase.com/sections/ai/feed" htmlUrl=""/>
     <outline type="rss" text="&quot;Crackpot Empire&quot;" title="&quot;Crackpot Empire&quot;" xmlUrl="https://www.unpopularfront.news/feed" htmlUrl=""/>
     <outline type="rss" text="&quot;We are really disappointed.&quot; Satanic doo-wop duo Twin Temple removed from country tour dates after headliner realises they’re Satanic" title="&quot;We are really disappointed.&quot; Satanic doo-wop duo Twin Temple removed from country tour dates after headliner realises they’re Satanic" xmlUrl="https://www.loudersound.com/feeds/articletype/news" htmlUrl=""/>
     <outline type="rss" text="#BlogTour #Review – Dark Chronicles by Karmen Špiljak @rararesources" title="#BlogTour #Review – Dark Chronicles by Karmen Špiljak @rararesources" xmlUrl="https://raereadsbookblog.wordpress.com/feed" htmlUrl=""/>

@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · DevOps &amp; Data</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://deepcognition.ai/feed" title="https://deepcognition.ai/feed" xmlUrl="https://deepcognition.ai/feed" htmlUrl=""/>
     <outline type="rss" text="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" title="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" xmlUrl="https://www.republicworld.com/rss/viral.xml" htmlUrl=""/>
     <outline type="rss" text="18 Most Beautiful Cities in Canada You Can’t Skip" title="18 Most Beautiful Cities in Canada You Can’t Skip" xmlUrl="https://sparknomad.com/feed" htmlUrl=""/>
     <outline type="rss" text="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" title="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" xmlUrl="https://thecarton.net/setlists/feed" htmlUrl=""/>

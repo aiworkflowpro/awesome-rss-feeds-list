@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Startups &amp; Indie Hackers</title>
-    <dateCreated>2026-07-10T19:20:39Z</dateCreated>
+    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://www.aiwire.net/feed" title="https://www.aiwire.net/feed" xmlUrl="https://www.aiwire.net/feed" htmlUrl=""/>
     <outline type="rss" text="15 things I have learned launching AI projects - Part 4" title="15 things I have learned launching AI projects - Part 4" xmlUrl="https://puntofisso.net/blog//index.xml" htmlUrl=""/>
     <outline type="rss" text="15 Years of Indie Dev In 4 Bits of Advice" title="15 Years of Indie Dev In 4 Bits of Advice" xmlUrl="https://www.pentadact.com/feed" htmlUrl=""/>
     <outline type="rss" text="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" title="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" xmlUrl="https://dailygalaxy.com/feed" htmlUrl=""/>
