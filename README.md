@@ -2,11 +2,11 @@
 
 # 🌐 awesome-rss-feeds
 
-> 💎 **3234+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
+> 💎 **17792+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-3234+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-3234-2188FF?style=for-the-badge)](#-quick-start)
-[![Categories](https://img.shields.io/badge/categories-16-orange?style=for-the-badge)](#-quick-start)
+[![Live feeds](https://img.shields.io/badge/live_feeds-17792+-brightgreen?style=for-the-badge)](LIST.md)
+[![English only](https://img.shields.io/badge/English_only-17792-2188FF?style=for-the-badge)](#-quick-start)
+[![Categories](https://img.shields.io/badge/categories-20-orange?style=for-the-badge)](#-quick-start)
 [![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
 
 </div>
@@ -15,7 +15,7 @@
 
 > 🎯 **Algorithms wrap you in a filter bubble, platforms chain you to a timeline, and AI-generated content is destroying the signal-to-noise ratio — RSS is the last pillar for taking back control of what you read.**
 >
-> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **3234+ live feeds** across **16 categories**, with AI as a first-class focus.
+> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **17792+ live feeds** across **20 categories**, with AI as a first-class focus.
 
 <div align="center">
 
@@ -30,23 +30,29 @@
 | What you want to read | Category | Feeds |
 |---|---|---:|
 | 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **127** |
-| 🧩 AI Tools & Agents | [feeds/en-ai-tools.opml](feeds/en-ai-tools.opml) | **107** |
+| 🧩 AI Tools & Agents | [feeds/en-ai-tools.opml](feeds/en-ai-tools.opml) | **505** |
 | 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **817** |
 | ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **735** |
-| 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **262** |
+| 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **399** |
 | 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **82** |
 | ☁️ DevOps & Data | [feeds/en-devops-data.opml](feeds/en-devops-data.opml) | **23** |
 | 📱 Mobile Development | [feeds/en-mobile.opml](feeds/en-mobile.opml) | **70** |
 | 🏗️ Engineering Team Blogs | [feeds/en-tech-teams.opml](feeds/en-tech-teams.opml) | **470** |
 | 🎨 Product Design & UX | [feeds/en-product-design.opml](feeds/en-product-design.opml) | **62** |
+| 🔬 Science | [feeds/en-science.opml](feeds/en-science.opml) | **199** |
 | 🚀 Startups & Indie Hackers | [feeds/en-startups.opml](feeds/en-startups.opml) | **65** |
-| 💰 Finance & Investing | [feeds/en-finance.opml](feeds/en-finance.opml) | **37** |
-| ✍️ Essays & Ideas | [feeds/en-essays.opml](feeds/en-essays.opml) | **78** |
-| 🌿 Life & Culture | [feeds/en-lifestyle.opml](feeds/en-lifestyle.opml) | **208** |
+| 💰 Finance & Investing | [feeds/en-finance.opml](feeds/en-finance.opml) | **180** |
+| 📰 News & Politics | [feeds/en-news.opml](feeds/en-news.opml) | **998** |
+| ✍️ Essays & Ideas | [feeds/en-essays.opml](feeds/en-essays.opml) | **1696** |
+| 🎬 Entertainment | [feeds/en-entertainment.opml](feeds/en-entertainment.opml) | **248** |
+| 🏆 Sports | [feeds/en-sports.opml](feeds/en-sports.opml) | **106** |
+| 🌿 Life & Culture | [feeds/en-lifestyle.opml](feeds/en-lifestyle.opml) | **10919** |
 | 🎧 Podcasts & Audio | [feeds/en-podcasts.opml](feeds/en-podcasts.opml) | **80** |
 | 📬 Newsletters | [feeds/en-newsletters.opml](feeds/en-newsletters.opml) | **11** |
 
 > 💡 **Import everything at once:** [feeds.opml](feeds.opml) · **Full feed list:** [LIST.md](LIST.md)
+>
+> ⚠️ **Life & Culture (~10K feeds)** aggregates the full-web crawl (tfederman dataset) — broad coverage but uneven quality (local news, personal blogs, niche hobbies). Browse [LIST.md](LIST.md) and pick what you need rather than importing the whole category at once.
 
 ---
 
