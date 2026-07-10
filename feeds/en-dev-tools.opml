@@ -2,52 +2,109 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Developer Tools</title>
-    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
+    <dateCreated>2026-07-10T21:22:21Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="2026-07-06 Emacs news" title="2026-07-06 Emacs news" xmlUrl="https://sachachua.com/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="2026.27 TRF Lives!" title="2026.27 TRF Lives!" xmlUrl="https://rakudoweekly.blog/feed" htmlUrl=""/>
     <outline type="rss" text="6 Open Source Tools to Query OpenStreetMap" title="6 Open Source Tools to Query OpenStreetMap" xmlUrl="https://wcedmisten.fyi/feed.xml" htmlUrl=""/>
     <outline type="rss" text="&lt;img src=&quot;https://cdn.ttgtmedia.com/customvisuals/customsite/embdellpowerone_icon3a.png&quot;&gt; Confidential Containers Pattern - Intel TDX Support" title="&lt;img src=&quot;https://cdn.ttgtmedia.com/customvisuals/customsite/embdellpowerone_icon3a.png&quot;&gt; Confidential Containers Pattern - Intel TDX Support" xmlUrl="https://www.theserverside.com/rss/ContentSyndication.xml" htmlUrl=""/>
-    <outline type="rss" text="[PREORDER] DX Gochizo Party Set - Kamen Rider Gavv Ver 03" title="[PREORDER] DX Gochizo Party Set - Kamen Rider Gavv Ver 03" xmlUrl="https://tokullectibles.com/collections/kamen-rider-gavv.atom" htmlUrl=""/>
+    <outline type="rss" text="[$] An update on the scraper situation" title="[$] An update on the scraper situation" xmlUrl="https://lwn.net/headlines/rss" htmlUrl=""/>
+    <outline type="rss" text="ALSA Scarlett GUI 1.0beta9" title="ALSA Scarlett GUI 1.0beta9" xmlUrl="https://librearts.org/index.xml" htmlUrl=""/>
     <outline type="rss" text="Augmented Code" title="Augmented Code" xmlUrl="https://augmentedcode.io/feed" htmlUrl=""/>
     <outline type="rss" text="bogdanthegeek.github.io" title="bogdanthegeek.github.io" xmlUrl="https://bogdanthegeek.github.io/blog/index.xml" htmlUrl="https://bogdanthegeek.github.io"/>
     <outline type="rss" text="BREAKDEV" title="BREAKDEV" xmlUrl="http://breakdev.org/rss" htmlUrl="https://breakdev.org/"/>
-    <outline type="rss" text="CALL FOR TENDERS: Consultancy services to produce the Universal Jurisdiction Annual Review 2027" title="CALL FOR TENDERS: Consultancy services to produce the Universal Jurisdiction Annual Review 2027" xmlUrl="https://trialinternational.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Canonical Brings Upstream Open Source Kubeflow to Azure" title="Canonical Brings Upstream Open Source Kubeflow to Azure" xmlUrl="https://www.opensourceforu.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Building a Developer Community from Scratch" title="Building a Developer Community from Scratch" xmlUrl="https://dev.to/feed/jacobd242" htmlUrl=""/>
     <outline type="rss" text="CESI Open Café: Open source and open education: democratising computer literacy" title="CESI Open Café: Open source and open education: democratising computer literacy" xmlUrl="https://www.cesi.ie/feed" htmlUrl=""/>
+    <outline type="rss" text="Component Cartography: Fixing moonlight in record time" title="Component Cartography: Fixing moonlight in record time" xmlUrl="https://moonlight-mod.github.io/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="https://www.dereuromark.de/feed" htmlUrl="http://www.dereuromark.de/"/>
+    <outline type="rss" text="DEV Community" title="DEV Community" xmlUrl="https://dev.to/feed" htmlUrl="https://dev.to/"/>
+    <outline type="rss" text="Domenico Luciani" title="Domenico Luciani" xmlUrl="https://domenicoluciani.com/feed.xml" htmlUrl="https://domenicoluciani.com"/>
+    <outline type="rss" text="Dragan Djuric" title="Dragan Djuric" xmlUrl="https://dragan.rocks/feed.xml" htmlUrl="http://dragan.rocks"/>
+    <outline type="rss" text="Drew DeVault" title="Drew DeVault" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com/"/>
+    <outline type="rss" text="Edgar Aroutiounian" title="Edgar Aroutiounian" xmlUrl="https://hyegar.com/index.xml" htmlUrl="https://hyegar.com/"/>
+    <outline type="rss" text="Evan Miller" title="Evan Miller" xmlUrl="http://www.evanmiller.org/news.xml" htmlUrl="http://www.evanmiller.org/"/>
+    <outline type="rss" text="Exploring scikit-maad – False Colour Spectrum analysis" title="Exploring scikit-maad – False Colour Spectrum analysis" xmlUrl="https://wranglingintheantipodes.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="https://borischerny.com/feed.xml" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="https://iamfran.com/feed.rss" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="http://johnkeefe.net/posts.atom" htmlUrl=""/>
+    <outline type="rss" text="feed" title="feed" xmlUrl="https://github.blog/all.atom" htmlUrl=""/>
     <outline type="rss" text="Firecrawl(@firecrawl_dev)" title="Firecrawl(@firecrawl_dev)" xmlUrl="https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614" htmlUrl=""/>
     <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://www.freecodecamp.org/news/rss" htmlUrl=""/>
+    <outline type="rss" text="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" title="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" xmlUrl="https://www.codecademy.com/resources/blog/feed" htmlUrl=""/>
     <outline type="rss" text="Geek(@geekbb)" title="Geek(@geekbb)" xmlUrl="https://api.xgo.ing/rss/user/9cb3b60e689e4445a7fbdfd0be144126" htmlUrl=""/>
+    <outline type="rss" text="GitHub Changelog" title="GitHub Changelog" xmlUrl="https://github.blog/changelog/feed" htmlUrl=""/>
     <outline type="rss" text="GitHub(@github)" title="GitHub(@github)" xmlUrl="https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190" htmlUrl=""/>
     <outline type="rss" text="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" title="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" xmlUrl="https://www.sovereign.tech/feed.rss" htmlUrl=""/>
     <outline type="rss" text="Google Open Source Blog" title="Google Open Source Blog" xmlUrl="http://feeds.feedburner.com/GoogleOpenSourceBlog" htmlUrl="http://opensource.googleblog.com/"/>
-    <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl=""/>
+    <outline type="rss" text="Henrik Lau Eriksson" title="Henrik Lau Eriksson" xmlUrl="https://conductofcode.io/feed.xml" htmlUrl="https://conductofcode.io/"/>
+    <outline type="rss" text="Henrik Warne" title="Henrik Warne" xmlUrl="https://henrikwarne.com/feed" htmlUrl="https://henrikwarne.com/"/>
     <outline type="rss" text="hidecloud(@hidecloud)" title="hidecloud(@hidecloud)" xmlUrl="https://api.xgo.ing/rss/user/23d41992b29340788aa3d09d8364c5f5" htmlUrl=""/>
     <outline type="rss" text="How to fill cracks and drainage holes in resin 3D prints" title="How to fill cracks and drainage holes in resin 3D prints" xmlUrl="https://savimade.ca/feed" htmlUrl=""/>
     <outline type="rss" text="HTTP Toolkit" title="HTTP Toolkit" xmlUrl="https://httptoolkit.tech/rss.xml" htmlUrl="https://httptoolkit.com/blog/"/>
+    <outline type="rss" text="Huon Wilson" title="Huon Wilson" xmlUrl="http://huonw.github.io/blog/atom.xml" htmlUrl="http://huonw.github.io/"/>
+    <outline type="rss" text="Ian Hummel" title="Ian Hummel" xmlUrl="https://themodernlife.github.io/feed.xml" htmlUrl="https://themodernlife.github.io/"/>
+    <outline type="rss" text="Idontgetoutmuch's Weblog" title="Idontgetoutmuch's Weblog" xmlUrl="https://idontgetoutmuch.wordpress.com/feed" htmlUrl="https://idontgetoutmuch.wordpress.com/"/>
+    <outline type="rss" text="Implementing a custom GitHub token broker" title="Implementing a custom GitHub token broker" xmlUrl="https://blog.martincostello.com/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Inkscape supports German petition to recognize Open Source volunteers" title="Inkscape supports German petition to recognize Open Source volunteers" xmlUrl="https://inkscape.org/news/feed" htmlUrl=""/>
+    <outline type="rss" text="Itamar Turner-Trauring" title="Itamar Turner-Trauring" xmlUrl="https://codewithoutrules.com/atom.xml" htmlUrl="https://codewithoutrules.com"/>
+    <outline type="rss" text="Jacopo Tarantino" title="Jacopo Tarantino" xmlUrl="https://jack.ofspades.com/rss/index.html" htmlUrl="https://jack.ofspades.com/"/>
+    <outline type="rss" text="James Hague" title="James Hague" xmlUrl="http://prog21.dadgum.com/atom.xml" htmlUrl="http://prog21.dadgum.com/"/>
+    <outline type="rss" text="Java Annotated Monthly – July 2026" title="Java Annotated Monthly – July 2026" xmlUrl="https://blog.jetbrains.com/idea/feed" htmlUrl=""/>
+    <outline type="rss" text="Jesal Gadhia" title="Jesal Gadhia" xmlUrl="https://jes.al/atom.xml" htmlUrl="https://jes.al/"/>
     <outline type="rss" text="JetBrains News | JetBrains Blog" title="JetBrains News | JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="Joel Hooks — Egghead.io &amp; ex Head of Education @Vercel, dev education and staying true to your values" title="Joel Hooks — Egghead.io &amp; ex Head of Education @Vercel, dev education and staying true to your values" xmlUrl="https://www.js-craft.io/feed" htmlUrl=""/>
+    <outline type="rss" text="Johannes Brodwall" title="Johannes Brodwall" xmlUrl="http://johannesbrodwall.com/index.xml" htmlUrl="http://johannesbrodwall.com/"/>
+    <outline type="rss" text="June 2026: Custom dashboard improvements and an MCP server" title="June 2026: Custom dashboard improvements and an MCP server" xmlUrl="https://www.debugbear.com/changelog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Kevin Burke" title="Kevin Burke" xmlUrl="https://kevin.burke.dev/feed" htmlUrl="https://kev.inburke.com/"/>
     <outline type="rss" text="keygen.sh" title="keygen.sh" xmlUrl="https://keygen.sh/blog/feed.xml" htmlUrl="https://keygen.sh"/>
+    <outline type="rss" text="Kirill Shevchenko" title="Kirill Shevchenko" xmlUrl="https://medium.com/feed/@kirill_shevch" htmlUrl="https://medium.com/@kirill_shevch"/>
+    <outline type="rss" text="Larry Land" title="Larry Land" xmlUrl="https://lg.io/feed.xml" htmlUrl="https://lg.io/"/>
+    <outline type="rss" text="Lazarus Lazaridis" title="Lazarus Lazaridis" xmlUrl="https://iridakos.com/feed.xml" htmlUrl="https://iridakos.com"/>
     <outline type="rss" text="Linux Foundation Blogs" title="Linux Foundation Blogs" xmlUrl="https://www.linuxfoundation.org/blog/rss.xml" htmlUrl="https://www.linuxfoundation.org"/>
+    <outline type="rss" text="Mary Rose Cook" title="Mary Rose Cook" xmlUrl="https://maryrosecook.com/blog/feed.xml" htmlUrl="https://maryrosecook.com/blog/"/>
     <outline type="rss" text="Migrate your data with the Tigris CLI" title="Migrate your data with the Tigris CLI" xmlUrl="https://www.tigrisdata.com/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Miguel Quinones" title="Miguel Quinones" xmlUrl="https://www.miqu.me/atom.xml" htmlUrl="https://www.miqu.me/"/>
+    <outline type="rss" text="Mike Fogus" title="Mike Fogus" xmlUrl="http://blog.fogus.me/feed" htmlUrl="http://blog.fogus.me/"/>
+    <outline type="rss" text="Miro Cupak" title="Miro Cupak" xmlUrl="https://mirocupak.com/feed.xml" htmlUrl="https://mirocupak.com/"/>
+    <outline type="rss" text="Monstermuffin" title="Monstermuffin" xmlUrl="https://blog.monstermuffin.org/index.xml" htmlUrl="https://blog.monstermuffin.org/"/>
+    <outline type="rss" text="Mykhailo Kozik" title="Mykhailo Kozik" xmlUrl="http://feeds.feedburner.com/mishadoff" htmlUrl="http://mishadoff.com/"/>
     <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl=""/>
     <outline type="rss" text="Open Source Hardware Certifications for June 2026" title="Open Source Hardware Certifications for June 2026" xmlUrl="https://makezine.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs" title="Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs" xmlUrl="http://feeds.libsyn.com/254861/rss" htmlUrl=""/>
     <outline type="rss" text="Overview of Haskell security tooling" title="Overview of Haskell security tooling" xmlUrl="https://blog.haskell.org/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Portland’s Best Mexican Restaurants and Food Carts" title="Portland’s Best Mexican Restaurants and Food Carts" xmlUrl="https://pdx.eater.com/rss/index.xml" htmlUrl=""/>
-    <outline type="rss" text="Quinn Emanuel News – UK Court of Appeal Upholds Illiquidx Victory in Venezuelan Debt Fund Dispute" title="Quinn Emanuel News – UK Court of Appeal Upholds Illiquidx Victory in Venezuelan Debt Fund Dispute" xmlUrl="https://www.lawfuel.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Paweł Chudzik" title="Paweł Chudzik" xmlUrl="https://blog.pchudzik.com/index.xml" htmlUrl="https://blog.pchudzik.com/"/>
+    <outline type="rss" text="Peteris Krumins" title="Peteris Krumins" xmlUrl="https://catonmat.net/feed" htmlUrl="http://www.catonmat.net/blog/"/>
+    <outline type="rss" text="Pete’s PDF to MD: Turning PDFs into AI-Ready Markdown" title="Pete’s PDF to MD: Turning PDFs into AI-Ready Markdown" xmlUrl="https://www.beens.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="Petr Mitrichev" title="Petr Mitrichev" xmlUrl="https://blog.mitrichev.ch/feeds/posts/default" htmlUrl="http://petr-mitrichev.blogspot.com/"/>
+    <outline type="rss" text="phpMyAdmin 5.2.3 is released" title="phpMyAdmin 5.2.3 is released" xmlUrl="https://www.phpmyadmin.net/news/feed" htmlUrl=""/>
+    <outline type="rss" text="PostCSS Preset Env - CSSTools" title="PostCSS Preset Env - CSSTools" xmlUrl="https://preset-env.cssdb.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Prettier Blog" title="Prettier Blog" xmlUrl="https://prettier.io/blog/atom.xml" htmlUrl="https://prettier.io/blog"/>
+    <outline type="rss" text="Radek Pazdera" title="Radek Pazdera" xmlUrl="http://radek.io/rss" htmlUrl="http://radek.io"/>
+    <outline type="rss" text="Regular Geek" title="Regular Geek" xmlUrl="https://regulargeek.com/feed" htmlUrl="http://regulargeek.com/"/>
+    <outline type="rss" text="Release notes from autoprefixer" title="Release notes from autoprefixer" xmlUrl="https://github.com/postcss/autoprefixer/releases.atom" htmlUrl="https://github.com/postcss/autoprefixer/releases"/>
+    <outline type="rss" text="Release notes from babel" title="Release notes from babel" xmlUrl="https://github.com/babel/babel/releases.atom" htmlUrl="https://github.com/babel/babel/releases"/>
+    <outline type="rss" text="Release notes from gulp" title="Release notes from gulp" xmlUrl="https://github.com/gulpjs/gulp/releases.atom" htmlUrl="https://github.com/gulpjs/gulp/releases"/>
+    <outline type="rss" text="Release notes from html5-boilerplate" title="Release notes from html5-boilerplate" xmlUrl="https://github.com/h5bp/html5-boilerplate/releases.atom" htmlUrl="https://github.com/h5bp/html5-boilerplate/releases"/>
+    <outline type="rss" text="Replit ⠕(@Replit)" title="Replit ⠕(@Replit)" xmlUrl="https://api.xgo.ing/rss/user/613f859e4bc440c5a28f40732840f5cf" htmlUrl=""/>
+    <outline type="rss" text="Sandia National Labs SA3000 8085 CPU" title="Sandia National Labs SA3000 8085 CPU" xmlUrl="https://www.cpushack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Scaling variables in R" title="Scaling variables in R" xmlUrl="https://mattkmiecik.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Sentry Blog RSS" title="Sentry Blog RSS" xmlUrl="https://blog.sentry.io/feed.xml" htmlUrl="https://blog.sentry.io"/>
+    <outline type="rss" text="SFP#53: FSFE is turning 25! Come and celebrate with us!" title="SFP#53: FSFE is turning 25! Come and celebrate with us!" xmlUrl="https://fsfe.org/news/news.en.rss" htmlUrl=""/>
     <outline type="rss" text="Show Hacker News" title="Show Hacker News" xmlUrl="https://news.ycombinator.com/showrss" htmlUrl="https://news.ycombinator.com/show"/>
+    <outline type="rss" text="Speedier type checks in TypeScript 7.0 as first stable Go release ships" title="Speedier type checks in TypeScript 7.0 as first stable Go release ships" xmlUrl="https://devclass.com/feed" htmlUrl=""/>
     <outline type="rss" text="splinter_code blog" title="splinter_code blog" xmlUrl="https://antoniococo.github.io/rss.xml" htmlUrl="https://splintercod3.blogspot.com/"/>
     <outline type="rss" text="Sr Account Manager - CA" title="Sr Account Manager - CA" xmlUrl="https://opensourcejobhub.com/rss" htmlUrl=""/>
+    <outline type="rss" text="StackBlitz Blog" title="StackBlitz Blog" xmlUrl="https://blog.stackblitz.com/rss.xml" htmlUrl="https://blog.stackblitz.com/"/>
+    <outline type="rss" text="Summer Sale: Cryptomator at half price – only until July 7th!" title="Summer Sale: Cryptomator at half price – only until July 7th!" xmlUrl="https://cryptomator.org/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Tauri Board Elections 2026" title="Tauri Board Elections 2026" xmlUrl="https://v2.tauri.app/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="The bsky-docker script" title="The bsky-docker script" xmlUrl="https://ingram-braun.net/erga/feed" htmlUrl=""/>
-    <outline type="rss" text="The Crumbling Crown EP4" title="The Crumbling Crown EP4" xmlUrl="https://opensourcesoul.substack.com/feed?sectionId=197497" htmlUrl=""/>
-    <outline type="rss" text="The Open-Source Piano Teacher" title="The Open-Source Piano Teacher" xmlUrl="https://donwatkins.info/feed" htmlUrl=""/>
-    <outline type="rss" text="The Splinter Report: July 10th" title="The Splinter Report: July 10th" xmlUrl="https://www.popularwoodworking.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.blog/feed" htmlUrl=""/>
+    <outline type="rss" text="The Item Details Assistant in ArcGIS Online will greatly aid in creating metadata and determining fitness for use" title="The Item Details Assistant in ArcGIS Online will greatly aid in creating metadata and determining fitness for use" xmlUrl="https://spatialreserves.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Tim's Tech Blog" title="Tim's Tech Blog" xmlUrl="https://timtech.blog/feed/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Tiny Helpers" title="Tiny Helpers" xmlUrl="https://tiny-helpers.dev/feed.xml" htmlUrl="https://tiny-helpers.dev/"/>
     <outline type="rss" text="UN Open Source Week, AI Fellowship, and 2025 Annual Report" title="UN Open Source Week, AI Fellowship, and 2025 Annual Report" xmlUrl="https://opensource.org/feed" htmlUrl=""/>
-    <outline type="rss" text="WRTC 2026" title="WRTC 2026" xmlUrl="https://www.dx-world.net/feed" htmlUrl=""/>
-    <outline type="rss" text="‘Buddy’ Teaser Trailer – First Look at Casper Kelly’s Twisted Horror Nightmare Starring Topher Grace, Keegan-Michael Key, Michael Shannon" title="‘Buddy’ Teaser Trailer – First Look at Casper Kelly’s Twisted Horror Nightmare Starring Topher Grace, Keegan-Michael Key, Michael Shannon" xmlUrl="https://vimooz.com/feed" htmlUrl=""/>
+    <outline type="rss" text="User-Definable Key Mapping for the PET 2001 Emulator" title="User-Definable Key Mapping for the PET 2001 Emulator" xmlUrl="https://www.masswerk.at/nowgobang/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Visual Studio Code" title="Visual Studio Code" xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="https://code.visualstudio.com/"/>
+    <outline type="rss" text="What's cooking on SourceHut? Q2 2026" title="What's cooking on SourceHut? Q2 2026" xmlUrl="https://sourcehut.org/blog/index.xml" htmlUrl=""/>
   </body>
 </opml>
