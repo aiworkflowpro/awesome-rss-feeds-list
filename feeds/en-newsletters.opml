@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>📬 Newsletters - awesome-rss-feeds</title>
-    <dateCreated>Fri, 08 May 2026 02:53:22 +0000</dateCreated>
+    <title>awesome-rss-feeds · Newsletters</title>
+    <dateCreated>2026-07-10T18:06:08Z</dateCreated>
   </head>
   <body>
-    <outline type="rss" text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" xmlUrl="https://blog.bytebytego.com/feed" />
-    <outline type="rss" text="Android Weekly" title="Android Weekly" xmlUrl="https://androidweekly.net/rss.xml" />
-    <outline type="rss" text="dailydevlinks" title="dailydevlinks" xmlUrl="https://unicornclub.dev/feed" />
-    <outline type="rss" text="Golang Weekly" title="Golang Weekly" xmlUrl="https://golangweekly.com/rss" />
-    <outline type="rss" text="This Week in Rust" title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/atom.xml" />
-    <outline type="rss" text="tedium.co" title="tedium.co" xmlUrl="https://feed.tedium.co/" />
-    <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" />
+    <outline type="rss" text="Android Weekly" title="Android Weekly" xmlUrl="https://androidweekly.net/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl=""/>
+    <outline type="rss" text="dailydevlinks" title="dailydevlinks" xmlUrl="https://unicornclub.dev/feed" htmlUrl=""/>
+    <outline type="rss" text="Everything Is Amazing" title="Everything Is Amazing" xmlUrl="https://everythingisamazing.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Firefox Archives - gHacks Tech News" title="Firefox Archives - gHacks Tech News" xmlUrl="https://www.ghacks.net/category/firefox/feed" htmlUrl=""/>
+    <outline type="rss" text="Golang Weekly" title="Golang Weekly" xmlUrl="https://golangweekly.com/rss" htmlUrl=""/>
+    <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" htmlUrl=""/>
+    <outline type="rss" text="Tech TLDR;" title="Tech TLDR;" xmlUrl="http://www.alexkras.com/feed" htmlUrl=""/>
+    <outline type="rss" text="tedium.co" title="tedium.co" xmlUrl="https://feed.tedium.co/" htmlUrl=""/>
+    <outline type="rss" text="This Week in Rust" title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="Yangyi(@Yangyixxxx)" title="Yangyi(@Yangyixxxx)" xmlUrl="https://api.xgo.ing/rss/user/66c40de71a9842fda4853b7d9d1d20da" htmlUrl=""/>
   </body>
 </opml>

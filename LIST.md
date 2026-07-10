@@ -1,1264 +1,2810 @@
-# Full Feed List
+# awesome-rss-feeds · Full Feed Index
 
+> Auto-generated 2026-07-10T18:06:08Z · **2759 live English feeds** across 16 categories. Every feed is HTTP-validated.
 
-> 2000 feeds total · 793 Chinese · 1207 English
+## 🧠 AI Research & Labs (127)
 
+- [A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning](https://paulhcleverley.com/feed)
+- [AI at Meta(@AIatMeta)](https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4)
+- [AI Roadmap Institute Blog – Medium](https://medium.com/feed/ai-roadmap-institute)
+- [Ai2 News (Allen Institute for AI)](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/allenai-news.xml)
+- [AISI Blog (AI Security Institute)](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/aisi-blog.xml)
+- [AK(@_akhaliq)](https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e)
+- [Alex Albert(@alexalbert__)](https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df)
+- [Allen Institute for Artificial Intelligence (AI2) - YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ)
+- [Amazon Science Homepage](https://www.amazon.science/index.rss)
+- [Andrej Karpathy(@karpathy)](https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524)
+- [Andrew Ng(@AndrewYNg)](https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d)
+- [Anthropic(@AnthropicAI)](https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5)
+- [Archie.AI – Medium](https://medium.com/feed/archieai)
+- [Arthur Mensch(@arthurmensch)](https://api.xgo.ing/rss/user/d8121d969fb34c7daad2dd2aac4ba270)
+- [Artificial Intelligence News — Newsletter on Deep Learning & AI](http://aiweekly.co/issues.rss)
+- [Artificial Intelligence Resources](http://airesources.blogspot.com/feeds/posts/default?alt=rss)
+- [arXiv AI](https://rss.arxiv.org/rss/cs.AI)
+- [AWS Machine Learning](https://aws.amazon.com/blogs/machine-learning/feed)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/ai/feed)
+- [Berkeley AI Research(@berkeley_ai)](https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009)
+- [Blog - Singularity Weblog](https://www.singularityweblog.com/blog/feed)
+- [Blog - Yseop](https://yseop.com/feed)
+- [Blog AI ML - Seita's Place](https://danieltakeshi.github.io/feed.xml)
+- [Blog AI Paper Review David Stutz](http://davidstutz.de/feed)
+- [Blog Andrej Karpathy](https://medium.com/feed/@karpathy)
+- [Blog inFERENCe](https://www.inference.vc/rss)
+- [Blog Jay Alammar](https://jalammar.github.io/feed.xml)
+- [Blog literature review](https://vitalab.github.io/feed.xml)
+- [Blog on Machine Learning, Statistics & Software Development](http://blog.datumbox.com/feed)
+- [Blog on Text Analytics - Provalis Research](https://provalisresearch.com/feed)
+- [BLOG – LEEDS NEURAL NETWORKS](https://leedsneuralnetworks.wordpress.com/blog/feed)
+- [Chain Of Thought](https://vrungta.substack.com/feed)
+- [computational biology blog](https://computationalbiologyblog.com/feed)
+- [Computational Intelligence](http://computational-intelligence.blogspot.com/feeds/posts/default)
+- [Dario Amodei(@DarioAmodei)](https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5)
+- [DataRobot Blog](https://www.datarobot.com/blog/feed)
+- [DeepLearningAI](https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w)
+- [DeepSeek(@deepseek_ai)](https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86)
+- [Demis Hassabis(@demishassabis)](https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a)
+- [Distill](http://distill.pub/rss.xml)
+- [Distill — Latest articles about machine learning](https://distill.pub/rss.xml)
+- [Eric Jang](http://blog.evjang.com/feeds/posts/default?alt=rss)
+- [Eric Jang](https://evjang.com/feed)
+- [Fei-Fei Li(@drfeifei)](https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5)
+- [Gary Marcus(@GaryMarcus)](https://api.xgo.ing/rss/user/35a38c5646d946fb894d8c30c1d9629e)
+- [Geoffrey Hinton(@geoffreyhinton)](https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686)
+- [Google AI Blog](http://feeds.feedburner.com/blogspot/gJZg)
+- [Google AI Blog](http://googleresearch.blogspot.com/atom.xml)
+- [Google AI Blog](https://blog.google/technology/ai/rss)
+- [Google AI(@GoogleAI)](https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7)
+- [Google DeepMind Blog](https://deepmind.com/blog/feed/basic)
+- [Google DeepMind Blog](https://deepmind.google/blog/rss.xml)
+- [Google DeepMind(@GoogleDeepMind)](https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec)
+- [Greg Brockman(@gdb)](https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268)
+- [Hello Paperspace](https://blog.paperspace.com/feed)
+- [Hunyuan(@TXhunyuan)](https://api.xgo.ing/rss/user/6e8e7b42cb434818810f87bcf77d86fb)
+- [Ian Goodfellow(@goodfellow_ian)](https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84)
+- [Jan Leike(@janleike)](https://api.xgo.ing/rss/user/dceb5cd131b34c72a8376cba8ea5d864)
+- [Jeff Dean(@JeffDean)](https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054)
+- [Jim Fan(@DrJimFan)](https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840)
+- [JMLR recent papers](http://proceedings.mlr.press//feed.xml)
+- [Junyang Lin(@JustinLin610)](https://api.xgo.ing/rss/user/082097117b4543e9a741cd2580f936d3)
+- [Letting neural networks be weird](http://aiweirdness.com/rss)
+- [Lexalytics - Blog](https://www.lexalytics.com/lexablog/feed)
+- [Lil'Log](https://lilianweng.github.io/index.xml)
+- [Lilian Weng(@lilianweng)](https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498)
+- [Lil’Log](https://lilianweng.github.io/lil-log/feed.xml)
+- [lmarena.ai(@lmarena_ai)](https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5)
+- [Machine Learning](http://www.reddit.com/r/MachineLearning/.rss)
+- [Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/feed)
+- [Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/feed)
+- [Machine, Think!](http://machinethink.net/blog/index.xml)
+- [Magenta](http://magenta.tensorflow.org/feed.xml)
+- [Marketing Artificial Intelligence Institute](http://www.marketingaiinstitute.com/blog/rss.xml)
+- [Michael Nielsen](https://michaelnielsen.org/blog/feed)
+- [Microsoft Research Blog](http://research.microsoft.com/rss/news.xml)
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/feed)
+- [Microsoft Research(@MSFTResearch)](https://api.xgo.ing/rss/user/61f4b78554fb4b8fa5653ec5d924d15a)
+- [Mila News (Quebec AI Institute)](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/mila-news.xml)
+- [Mistral AI(@MistralAI)](https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1)
+- [MIT News - Artificial intelligence](http://news.mit.edu/rss/topic/artificial-intelligence2)
+- [MIT News - Machine learning](https://news.mit.edu/topic/mitmachine-learning-rss.xml)
+- [MIT Technology Review](https://www.technologyreview.com/feed)
+- [MITCSAIL - YouTube](https://www.youtube.com/feeds/videos.xml?user=MITCSAIL)
+- [Mustafa Suleyman(@mustafasuleyman)](https://api.xgo.ing/rss/user/394acfaff8c44e09936f5bc0b8504f2c)
+- [neural network - Hackaday](https://hackaday.com/tag/neural-network/feed)
+- [Nicholas Carlini](https://nicholas.carlini.com/writing/feed.xml)
+- [NVIDIA AI Blog](https://blogs.nvidia.com/feed)
+- [NVIDIA AI Blog](http://feeds.feedburner.com/nvidiablog)
+- [NVIDIA AI(@NVIDIAAI)](https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390)
+- [Nvidia Developer Blog](https://developer.nvidia.com/blog/feed)
+- [On GATE, Text and Social Media Analysis, and Detecting Misinformation Online](https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss)
+- [OpenAI Blog](https://openai.com/blog/rss.xml)
+- [OpenAI Blog](https://openai.com/news/rss.xml)
+- [OpenAI(@OpenAI)](https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049)
+- [Qwen(@Alibaba_Qwen)](https://api.xgo.ing/rss/user/80032d016d654eb4afe741ff34b7643d)
+- [Recurrent Neural Networks](https://www.kdnuggets.com/tag/recurrent-neural-networks/feed)
+- [Richard Socher(@RichardSocher)](https://api.xgo.ing/rss/user/4d2d4165a7524217a08d3f57f27fa190)
+- [RL paper review](https://dtransposed.github.io/feed.xml)
+- [RL Reddit](https://www.reddit.com/r/reinforcementlearning/.rss?format=xml)
+- [Sebastian Raschka](https://magazine.sebastianraschka.com/feed)
+- [Skywork(@Skywork_ai)](https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6)
+- [Stanford AI Lab(@StanfordAILab)](https://api.xgo.ing/rss/user/d5fc365556e641cba2278f501e8c6f92)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/paul-graham.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/fintualist.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/wenweipo-hongkong.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/paulgraham.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/wenweipo.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/deepmind-blog.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/mekongasean.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/podcast.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/cloudflare-com.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/windsurf.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/openclaw-releases.xml)
+- [Text Mining, Semantics & Data Intelligence - SciBite](https://www.scibite.com/feed)
+- [The Batch](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/the-batch.xml)
+- [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/feed.xml)
+- [the morning paper](https://blog.acolyer.org/feed)
+- [The singularity is nearer](https://geohot.github.io/blog/feed.xml)
+- [Thomas Wolf(@Thom_Wolf)](https://api.xgo.ing/rss/user/4918efb13c47459b8dcaa79cfdf72d09)
+- [TLDR AI](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/tldr-ai.xml)
+- [Towards Data Science - Medium](https://towardsdatascience.com/feed)
+- [Turing Blog (Alan Turing Institute)](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/turing-blog.xml)
+- [Turing News (Alan Turing Institute)](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/turing-news.xml)
+- [Unsupervised Thinking](http://unsupervisedthinkingpodcast.blogspot.com/feeds/posts/default?alt=rss)
+- [xAI(@xai)](https://api.xgo.ing/rss/user/3953aa71e87a422eb9d7bf6ff1c7c43e)
+- [Yann LeCun(@ylecun)](https://api.xgo.ing/rss/user/f5f4f928dede472ea55053672ad27ab6)
 
-## ⭐ Featured
+## 🧩 AI Tools & Agents (107)
 
-- [AI Workflow Pro](https://aiworkflowpro.com/rss/) — `https://aiworkflowpro.com/rss/` — Practical AI workflows for makers: Claude Code, Skills, agent automation, and video editing tutorials.
+- [Aadit Sheth(@aaditsh)](https://api.xgo.ing/rss/user/179bcc4b8e5d4274b6e9e935f9fd4434)
+- [AI Breakfast(@AiBreakfast)](https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b)
+- [AI Copilot - Telegram Channel](https://rsshub.imlg.co/telegram/channel/AI_Copilot_Channel)
+- [AI Engineer(@aiDotEngineer)](https://api.xgo.ing/rss/user/7d19a619a1cc4a9896129211269d2c85)
+- [AI Reddit](https://www.reddit.com/r/artificial/.rss)
+- [AI SDK(@aisdk)](https://api.xgo.ing/rss/user/22af005b21ec45b1a4503acca777b7f0)
+- [Aman Sanger(@amanrsanger)](https://api.xgo.ing/rss/user/a02496979a0e4d86baf2b72c24db52a4)
+- [Anthropic News](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-news.xml)
+- [Anthropic Research](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml)
+- [Aravind Srinivas(@AravSrinivas)](https://api.xgo.ing/rss/user/59e6b63ae9684d11be0ae13d9e7420f2)
+- [Augment Code(@augmentcode)](https://api.xgo.ing/rss/user/e153fdd077df458b8298d975c060dcc3)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/amazon-ai/feed)
+- [Barsee 🐶(@heyBarsee)](https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4)
+- [Ben's Bites](https://www.bensbites.com/feed)
+- [Blog AI Trends](https://www.aitrends.com/feed)
+- [Blog AI Weirdness](https://aiweirdness.com/rss)
+- [Browser Use(@browser_use)](https://api.xgo.ing/rss/user/b8d7530f0b294405825013bbc1cc198f)
+- [Character.AI(@character_ai)](https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d)
+- [ChatGPT(@ChatGPTapp)](https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4)
+- [Claude Blog](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/claude-blog.xml)
+- [Claude(@claudeai)](https://api.xgo.ing/rss/user/01f60d63a61b44d692cc35c7feb0b4a4)
+- [clem 🤗(@ClementDelangue)](https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b)
+- [Cognition(@cognition_labs)](https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7)
+- [Cohere Blog](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/cohere-blog.xml)
+- [cohere(@cohere)](https://api.xgo.ing/rss/user/462aa134ed914f98b3491680ad9b36ed)
+- [Cursor(@cursor_ai)](https://api.xgo.ing/rss/user/5287b4e0e13a4ab7ab7b1d56f9d88960)
+- [DeepLearning.AI(@DeepLearningAI)](https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177)
+- [Dify(@dify_ai)](https://api.xgo.ing/rss/user/0be252fedbe84ad7bea21be44b18da89)
+- [ElevenLabs Blog](https://api.bestblogs.dev/feed/elevenLabsBlog)
+- [ElevenLabs(@elevenlabsio)](https://api.xgo.ing/rss/user/1897eed387064dfab443764d6da50bc6)
+- [Eric Jing(@ericjing_ai)](https://api.xgo.ing/rss/user/ddfdcdd4e390495c942f0b5da62af0fb)
+- [Fellou(@FellouAI)](https://api.xgo.ing/rss/user/326763c2f6154826babcfd71c5ab0f70)
+- [Firecrawl(@firecrawl_dev)](https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614)
+- [Fireworks AI(@FireworksAI_HQ)](https://api.xgo.ing/rss/user/9f35c76341554bd78c2b9e63dc4fa5d8)
+- [FlowiseAI(@FlowiseAI)](https://api.xgo.ing/rss/user/be74da51698d4cefb12b39830d6cd201)
+- [Genspark(@genspark_ai)](https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011)
+- [Google AI Developers(@googleaidevs)](https://api.xgo.ing/rss/user/69d925d4a8d44221b03eecbe07bd0f74)
+- [Google Gemini App(@GeminiApp)](https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d)
+- [Grammarly Blog](https://www.grammarly.com/blog/feed)
+- [Groq Inc(@GroqInc)](https://api.xgo.ing/rss/user/771b32075fe54a83bdb6966de9647b4f)
+- [Hacker News AI](https://hnrss.org/newest?q=AI)
+- [Hailuo AI (MiniMax)(@Hailuo_AI)](https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8)
+- [Harrison Chase(@hwchase17)](https://api.xgo.ing/rss/user/f299207df53745bca04a03db8d11c5aa)
+- [HeyGen(@HeyGen_Official)](https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db)
+- [Hugging Face(@huggingface)](https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f)
+- [Ideogram(@ideogram_ai)](https://api.xgo.ing/rss/user/a719880fe66e4156a111187f50dae91b)
+- [Jina AI(@JinaAI_)](https://api.xgo.ing/rss/user/f510f6e7eecf456ca7e2895a46752888)
+- [Julien Chaumond(@julien_c)](https://api.xgo.ing/rss/user/44d9fa384087448a94d3c8595f8d535e)
+- [Kevin Weil 🇺🇸(@kevinweil)](https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c)
+- [Kling AI(@Kling_ai)](https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888)
+- [LangChain(@LangChainAI)](https://api.xgo.ing/rss/user/862fee50a745423c87e2633b274caf1d)
+- [Last Week in AI](https://lastweekin.ai/feed)
+- [LlamaIndex 🦙(@llama_index)](https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2)
+- [Logan Kilpatrick(@OfficialLoganK)](https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe)
+- [Lovable(@lovable_dev)](https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767)
+- [LovartAI(@lovart_ai)](https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2)
+- [Machine Learning Mastery](http://machinelearningmastery.com/blog/feed)
+- [ManusAI(@ManusAI_HQ)](https://api.xgo.ing/rss/user/320181c4651a41a08015946b55f704ab)
+- [Medium - Artificial Intelligence Magazine](https://becominghuman.ai/feed)
+- [mem0(@mem0ai)](https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116)
+- [Midjourney(@midjourney)](https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d)
+- [Milvus(@milvusio)](https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade)
+- [minimaxir (Max Woolf)](https://minimaxir.com/index.xml)
+- [Mistral News](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/mistral-news.xml)
+- [ML in production](https://mlinproduction.com/feed)
+- [NotebookLM(@NotebookLM)](https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0)
+- [ollama(@ollama)](https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2)
+- [OpenAI Developers(@OpenAIDevs)](https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55)
+- [OpenRouter(@OpenRouterAI)](https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4)
+- [orange.ai(@oran_ge)](https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7)
+- [Patrick Loeber(@patloeber)](https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f)
+- [Paul Couvert(@itsPaulAi)](https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f)
+- [Perplexity(@perplexity_ai)](https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c)
+- [Philipp Schmid(@_philschmid)](https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2)
+- [Pika(@pika_labs)](https://api.xgo.ing/rss/user/3306d8b253ec4e03aca3c2e9967e7119)
+- [Poe(@poe_platform)](https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28)
+- [PromptLayer](https://blog.promptlayer.com/rss)
+- [PyTorch](https://pytorch.org/feed)
+- [Qdrant](https://qdrant.tech/index.xml)
+- [Qdrant(@qdrant_engine)](https://api.xgo.ing/rss/user/a55f6e33dd224235aabaabaaf9d58a06)
+- [Recraft(@recraftai)](https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b)
+- [Reddit NN, DL, ML](https://www.reddit.com/r/neuralnetworks/.rss?format=xml)
+- [Replicate(@replicate)](https://api.xgo.ing/rss/user/12eba9c3db4940c5ab2a72bd00f9ff2c)
+- [Rowan Cheung(@rowancheung)](https://api.xgo.ing/rss/user/a636de3cbda0495daabd15b9fd298614)
+- [Runway(@runwayml)](https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820)
+- [Sam Altman(@sama)](https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927)
+- [Science Daily AI News](https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml)
+- [Scott Wu(@ScottWu46)](https://api.xgo.ing/rss/user/5fca8ccd87344d388bc863304ed6fd86)
+- [Simon Willison's Weblog](https://simonwillison.net/atom/everything)
+- [Simon Willison(@simonw)](https://api.xgo.ing/rss/user/30ad80be93c84e44acc37d5ddf31db57)
+- [Singularity Hub](https://singularityhub.com/feed)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/claude.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/stability-ai.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/humanlayer.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/composio.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/groq-news.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/cursor-blog.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/anthropic.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/aihero-dev.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/claude-code-releases.xml)
+- [Subscribe](https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/hermes-agent-releases.xml)
+- [Tame the Bots Blog Posts](https://tamethebots.com/rss)
+- [The Gradient](https://thegradient.pub/rss)
+- [The Rundown AI(@TheRundownAI)](https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7)
+- [VentureBeat AI](https://venturebeat.com/category/ai/feed)
+- [Windsurf(@windsurf_ai)](https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf)
+- [Yummy 😋 - Telegram Channel](https://rsshub.imlg.co/telegram/channel/GodlyNews1)
 
-## 🌍 English (1207 feeds)
+## 🔐 Cybersecurity (712)
 
+- [#!/slash/note](https://leonjza.github.io/index.xml)
+- [(B)(F)uzzing on my world](http://spa-s3c.blogspot.com/feeds/posts/default)
+- [(gdb) break *0x972](http://blog.0x972.info/rss.php)
+- [(Slightly) Random Broken Thoughts](http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default)
+- [./ewby](https://ewby.github.io/feed.xml)
+- [.Trash](https://blog.tonkatsu.info/feed.xml)
+- [/dev/random](https://blog.rootshell.be/feed)
+- [0kami's Blog](https://blog.0kami.cn/feed_rss_created.xml)
+- [0x41414141 in ?? ()](https://abiondo.me/feed.xml)
+- [0xacb](https://0xacb.com/feed.xml)
+- [0xdf hacks stuff](https://0xdf.gitlab.io/feed.xml)
+- [0xRick’s Blog](https://0xrick.github.io/feed.xml)
+- [128 nops and counting](https://carstein.github.io/feed.xml)
+- [1oecho.github.io](https://1oecho.github.io/atom.xml)
+- [2019's blog](https://mem2019.github.io/feed.xml)
+- [404 Media](https://www.404media.co/rss)
+- [4uuu Nya HomePage](https://qvq.im/atom.xml)
+- [> root@saelo](https://saelo.github.io/feed.xml)
+- [@D00m3dr4v3n](http://www.doomedraven.com/feeds/posts/default?alt=rss)
+- [[ robert swiecki's blog ]](http://blog.swiecki.net/feeds/posts/default)
+- [A box of chocolate](http://dakutenpura.hatenablog.com/feed)
+- [A developer's notes in the world of security research and bug bounty, by pmnh](https://h1pmnh.github.io/index.xml)
+- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/feeds/posts/default)
+- [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/feed)
+- [abortretry.fail](https://www.abortretry.fail/feed)
+- [Active Directory Security](http://adsecurity.org/?feed=rss2)
+- [Adam Caudill](http://adamcaudill.com/atom.xml)
+- [Adam Shostack & friends](https://adam.shostack.org/blog/feed)
+- [Add / Xor / Rol](http://addxorrol.blogspot.com/feeds/posts/default)
+- [Adepts of 0xCC](https://adepts.of0x.cc/feed.xml)
+- [Advisories on STAR Labs](https://starlabs.sg/advisories/index.xml)
+- [Alex Ionescu’s Blog](http://alex-ionescu.com/?feed=rss2)
+- [Alexander Popov](https://a13xp0p0v.github.io/feed.xml)
+- [Alexander V. Leonov](https://avleonov.com/feed)
+- [All Posts - Malicious Link - Blog by mubix - Rob Fuller](https://malicious.link/post/index.xml)
+- [allysonomalley.com](https://www.allysonomalley.com/feed)
+- [Almost Secure](https://palant.info/rss.xml)
+- [An7i Security](http://an7isec.blogspot.com/feeds/posts/default?alt=rss)
+- [and-rev](https://and-rev.blogspot.com/feeds/posts/default)
+- [Andrea Cardaci](https://cardaci.xyz/feed.xml)
+- [Andrea Draghetti](http://feeds.feedburner.com/OverSecurity)
+- [Andrew Ayer - Blog](https://www.agwa.name/blog/feed)
+- [Andrew Hay](http://feeds.feedburner.com/andrewhayca)
+- [Andrew's Research](https://blog.jmpesp.org/feeds/posts/default?alt=rss)
+- [Android Explorations](http://nelenkov.blogspot.com/feeds/posts/default)
+- [Android Reversing](http://androidreversing.blogspot.com/feeds/posts/default)
+- [anti-virus rants](http://feeds.feedburner.com/Anti-virusRants)
+- [API Security News » Feed](https://apisecurity.io/feed/index.xml)
+- [Application and Cybersecurity Blog](https://blog.securityinnovation.com/rss.xml)
+- [AppSec-Labs | Application Security](https://appsec-labs.com/blog/feed)
+- [Apr4h.github.io](https://apr4h.github.io/feed.xml)
+- [aresluna.org](https://aresluna.org/main.rss)
+- [Aris' Blog](http://blog.0xbadc0de.be/feed)
+- [Arne Swinnen's Security Blog](http://www.arneswinnen.net/feed)
+- [Articles on Podalirius](https://podalirius.net/en/articles/index.xml)
+- [Articles | InfoStealers](https://www.infostealers.com/learn-info-stealers/feed)
+- [Artsploit](https://artsploit.blogspot.com/feeds/posts/default)
+- [Arturo Di Corinto](http://www.dicorinto.it/feed)
+- [Astr0baby's not so random thoughts _____ rand() % 100;](https://astr0baby.wordpress.com/feed)
+- [Attack & Defense](https://blog.mozilla.org/attack-and-defense/feed)
+- [Attack and Defense Labs](http://blog.andlabs.org/feeds/posts/default?alt=rss)
+- [Attack and Defense Labs](http://feeds.feedburner.com/AttackAndDefenseLabs?format=xml)
+- [Attify Blog - IoT Security, Pentesting and Exploitation](https://blog.attify.com/rss)
+- [AWS Security Blog](http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss)
+- [Azeria Labs](https://azeria-labs.com/feed)
+- [BackBox Linux blogs](http://www.backbox.org/blog/feed)
+- [Bad Sector Labs Blog](https://blog.badsectorlabs.com/feeds/all.atom.xml)
+- [BalalaikaCr3w](http://ctfcrew.org/rss.xml)
+- [Barak Tawily](https://quitten.github.io/feed.xml)
+- [bazad.github.io](https://bazad.github.io/feed.xml)
+- [Ben Hayak - Security Blog](http://www.benhayak.com/feeds/posts/default)
+- [Bernardo Dag](http://feeds2.feedburner.com/BernardoDamele)
+- [Between Extremes](http://joevennix.com/atom.xml)
+- [Bey0nd 's Blog](https://www.beysec.com/atom.xml)
+- [Bill Demirkapi’s Blog](https://billdemirkapi.me/rss)
+- [binary foray](http://binaryforay.blogspot.com/feeds/posts/default)
+- [Binary Ninja](https://binary.ninja/feed.xml)
+- [Bitdefender Labs](https://www.bitdefender.com/blog/api/rss/labs)
+- [Blaze's Security Blog](https://bartblaze.blogspot.com/feeds/posts/default)
+- [BleepingComputer](http://www.bleepingcomputer.com/feed)
+- [Blog Archives - VoidSec](https://voidsec.com/category/blog/feed)
+- [Blog postings from honeynet.org](http://feeds2.feedburner.com/HoneynetProjectAggregated)
+- [Blog – Flashpoint](https://www.flashpoint-intel.com/blog/feed)
+- [blog.avast.com EN](https://blog.avast.com/feed)
+- [blog.dornea.nu](https://blog.dornea.nu/feed.xml)
+- [blog.tetrane.com](https://blog.tetrane.com/feed.xml)
+- [Blogs on dade](https://0xda.de/blog/index.xml)
+- [Blogs on Kryptos Logic](https://www.kryptoslogic.com/blog/index.xml)
+- [Blogs on STAR Labs](https://starlabs.sg/blog/index.xml)
+- [blogs.microsoft.com](https://blogs.microsoft.com/microsoftsecure/feed)
+- [bogdanthegeek.github.io](https://bogdanthegeek.github.io/blog/index.xml)
+- [BorderGate](https://www.bordergate.co.uk/feed)
+- [borretti.me](https://borretti.me/feed.xml)
+- [Boschko Security Blog](https://boschko.ca/rss)
+- [br3akp0int](https://br3akp0int.blogspot.com/feeds/posts/default?alt=rss)
+- [BREAKDEV](http://breakdev.org/rss)
+- [Brett Buerhaus](http://buer.haus/feed)
+- [Bruce's Blog](https://www.heyuan110.com/posts/index.xml)
+- [brutecat.com](https://brutecat.com/rss.xml)
+- [bs](https://br-sn.github.io/feed.xml)
+- [Bug Bounty in InfoSec Write-ups on Medium](https://medium.com/feed/bugbountywriteup/tagged/bug-bounty)
+- [Bug Bounty POC](http://bugbountypoc.com/feed)
+- [BugiX - Security Research](http://bugix-security.blogspot.com/feeds/posts/default)
+- [bunnie's blog](https://www.bunniestudios.com/blog?feed=rss2)
+- [byt3bl33d3r](https://byt3bl33d3r.github.io/feeds/all.rss.xml)
+- [C-skills](http://c-skills.blogspot.com/feeds/posts/default)
+- [c0nradsc0rner](https://c0nradsc0rner.wordpress.com/feed)
+- [Carnal0wnage & Attack Research Blog](http://carnal0wnage.attackresearch.com/feeds/posts/default)
+- [cat /dev/brain](https://naehrdine.blogspot.com/feeds/posts/default?alt=rss)
+- [cawan's blog](http://cawanblog.blogspot.com/feeds/posts/default)
+- [CCC Event Blog](https://events.ccc.de/feed)
+- [CENSUS](https://census-labs.com/news/feeds/rss)
+- [Cerbero Blog](http://cerbero-blog.com/?feed=rss2)
+- [CERT Blogs](https://insights.sei.cmu.edu/cert/rss.xml)
+- [CERT Recently Published Vulnerability Notes](http://www.kb.cert.org/vulfeed)
+- [chadnauseam.com](https://chadnauseam.com/rss.xml)
+- [Check Point Research](https://research.checkpoint.com/feed)
+- [Check Point Software](http://blog.checkpoint.com/feed)
+- [Checkmarx.com](https://checkmarx.com/feed)
+- [Cheesy Rumbles](https://rastamouse.me/feed)
+- [chiark.greenend.org.uk/~sgtatham](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml)
+- [Christophe Tafani-Dereeper](https://blog.christophetd.fr/feed)
+- [CISA Alerts](https://www.us-cert.gov/ncas/alerts.xml)
+- [CISA News](https://www.cisa.gov/news.xml)
+- [Cisco Threat Blogs](http://blogs.cisco.com/security/talos/feed)
+- [ClevCode](http://www.clevcode.org/feed)
+- [cloud world](https://cloudsjhan.github.io/atom.xml)
+- [codeblog](http://www.outflux.net/blog/feed)
+- [CodeWatch](https://codewatch.org/feed)
+- [Coding (In)Security](http://coding-insecurity.blogspot.com/feeds/posts/default)
+- [Collin R. Mulliner](http://www.mulliner.org/blog/blosxom.cgi?flav=rss)
+- [Colt's Blog](http://coltf.blogspot.com/feeds/posts/default)
+- [Computer Forensics](http://www.reddit.com/r/computerforensics/.rss)
+- [computer.rip](https://computer.rip/rss.xml)
+- [Confessions of a Penetration Tester](http://feeds.feedburner.com/blogspot/qnNMU)
+- [Confessions of a Penetration Tester](http://pentesterconfessions.blogspot.com/feeds/posts/default)
+- [contagio](http://contagiodump.blogspot.com/feeds/posts/default)
+- [contagio mobile](http://contagiominidump.blogspot.com/feeds/posts/default)
+- [Copperhead](https://copperhead.co/rss.xml)
+- [Core Dump](http://roundcube3.blogspot.com/feeds/posts/default)
+- [Corelan Cybersecurity Research](https://www.corelan.be/index.php/feed)
+- [CrowdStrike](https://www.crowdstrike.com/blog/feed)
+- [CTF Hacker](http://ctfhacker.com/feed.xml)
+- [CTFtime.org: New writeups](https://ctftime.org/writeups/rss)
+- [CTFtime.org: upcoming CTF events](https://ctftime.org/event/list/upcoming/rss)
+- [CXSECURITY Database RSS Feed - CXSecurity.com](http://securityreason.com/rss/SecurityAlert)
+- [CXSecurity: World Laboratory of Bugtraq 2](https://cxsecurity.com/wlb/rss/all)
+- [CYBER ARMS](http://feeds.feedburner.com/CyberArms)
+- [Cyber Attacks, Cyber Crime and Cyber Security](https://www.reddit.com/r/cyb3rs3c/.rss)
+- [Cyber Division](https://cyberdivision.net/feed)
+- [Cyber Kendra](https://www.cyberkendra.com/feeds/posts/default)
+- [Cyber Security Blog](https://securitytrails.com/blog.rss)
+- [Cyber Security Blog](http://www.cyber-security-blog.com/feeds/posts/default?alt=rss)
+- [Cyber Strategies for a World at War](http://cyberstrategies.wordpress.com/feed)
+- [Cyber Wardog Lab](https://cyberwardog.blogspot.com/feeds/posts/default)
+- [CyberCrime & Doing Time](http://garwarner.blogspot.com/feeds/posts/default)
+- [Cybersecurity Blog](http://feeds.feedburner.com/ChintanGurjarsBlog)
+- [Cybersecurity News](https://securityonline.info/feed)
+- [Cyberwarzone](http://cyberwarzone.com/feed)
+- [CyberWatch](https://whitehatcheryl.wordpress.com/feed)
+- [D3Lab](https://www.d3lab.net/feed)
+- [Dancho Danchev's Blog - Mind Streams of Information Security Knowledge](http://feeds.feedburner.com/DanchoDanchevOnSecurityAndNewMedia)
+- [Daniel Miessler](https://danielmiessler.com/feed)
+- [danielchasehooper.com](https://danielchasehooper.com/feed.xml)
+- [danieldelaney.net](https://danieldelaney.net/feed)
+- [danielwirtz.com](https://danielwirtz.com/rss.xml)
+- [darice.org](http://www.darice.org/feed)
+- [Darren Martyn](https://darrenmartyn.ie/feed)
+- [Data Breach](https://securityaffairs.co/wordpress/category/data-breach/feed)
+- [DataBreaches.net](http://feeds.feedburner.com/OfficeOfInadequateSecurity)
+- [David Longenecker](https://feeds.feedburner.com/DavidLongenecker)
+- [DeadPixelSec](https://deadpixelsec.com/feed)
+- [Deep Web](http://www.reddit.com/r/deepweb/.rss)
+- [defend.network](https://defend.network/feed.xml)
+- [Dhaval Kapil](https://dhavalkapil.com/atom.xml)
+- [Dhole Moments](https://soatok.blog/feed)
+- [Diary of a reverse-engineer](https://doar-e.github.io/feeds/atom.xml)
+- [Didier Stevens](http://blog.didierstevens.com/feed)
+- [DigiNinja](http://www.digininja.org/rss.xml)
+- [DigiNinja](https://digi.ninja/rss.xml)
+- [Dillon Franke Security](https://www.dillonfrankesecurity.com/index.xml)
+- [Dividead’s Blog](http://dividead.wordpress.com/feed)
+- [DoomsDay Vault - Articles](https://x-c3ll.github.io/rss.xml)
+- [Doonsec's feed](https://wechat.doonsec.com/rss.xml)
+- [dotcppfile's Blog](https://dotcppfile.wordpress.com/feed)
+- [Down the Security Rabbithole Blog - Supplemental](http://feeds.feedburner.com/FollowingTheWh1t3Rabbit)
+- [Dragon Sector](https://blog.dragonsector.pl/feeds/posts/default)
+- [Dragon Threat Labs](http://blog.dragonthreatlabs.com/feeds/posts/default)
+- [DuckDuckGo Blog](https://spreadprivacy.com/feed)
+- [DummyKitty's blog](https://dummykitty.github.io/feed.xml)
+- [EdOverflow | Web Developer, Security Researcher, and Author of security.txt on EdOverflow](https://edoverflow.com/index.xml)
+- [EFF](https://www.eff.org/rss/updates.xml)
+- [Egor Homakov](http://homakov.blogspot.com/feeds/posts/default)
+- [ElcomSoft blog](http://blog.elcomsoft.com/feed)
+- [EM_386](http://em386.blogspot.com/feeds/posts/default)
+- [Emergent Minds | paddo.dev](https://paddo.dev/rss.xml)
+- [enigma0x3](http://enigma0x3.wordpress.com/feed)
+- [enigma0x3](https://enigma0x3.net/feed)
+- [entropicthoughts.com](https://entropicthoughts.com/feed.xml)
+- [Eric Conrad](http://www.ericconrad.com/feeds/posts/default)
+- [Eric Lawrence](https://textslashplain.com/feed)
+- [ericmigi.com](https://ericmigi.com/rss.xml)
+- [Errata Security](http://erratasec.blogspot.com/feeds/posts/default)
+- [Errata Security](https://blog.erratasec.com/feeds/posts/default)
+- [ETenal](https://etenal.me/feed)
+- [Ethical hacking and penetration testing](https://miloserdov.org/?feed=rss2)
+- [evilsocket](https://www.evilsocket.net/atom.xml)
+- [Evonide's Information Security Blog](https://www.evonide.com/feed)
+- [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/commits/master.atom)
+- [Exodus Intelligence](https://blog.exodusintel.com/feed)
+- [Extending Privacy](https://sammacbeth.eu/feed)
+- [Eyal Itkin](https://eyalitkin.wordpress.com/feed)
+- [Ezequiel Pereira](https://www.ezequiel.tech/feeds/posts/default)
+- [f4d3.io [Bourne Again]](https://f4d3.io/feed.xml)
+- [feed.xml](https://micahflee.com/feed.xml)
+- [Fidelis Security](https://fidelissecurity.com/feed)
+- [Filippo Valsorda](https://blog.filippo.io/rss)
+- [Fingerprint Blog RSS Feed](https://fingerprintjs.com/rss.xml)
+- [FireShell Security Team](https://fireshellsecurity.team/feed.xml)
+- [Firmware hacking](http://fwhacking.blogspot.com/feeds/posts/default)
+- [Firzens Blog](https://firzen.de/feed)
+- [Flexera Blog - Feed](http://feeds.feedburner.com/SecuniaResearch)
+- [forensic blog](http://forensics.spreitzenbarth.de/feed)
+- [Forensic Focus](http://www.forensicfocus.com/rss/news2.php)
+- [Fortinet All Blogs](http://feeds.feedburner.com/fortinet/blogs)
+- [Fortinet Blog](https://feeds.fortinet.com/fortinet/blog/threat-research)
+- [Fox-IT International blog](http://blog.fox-it.com/feed)
+- [FoxGlove Security](http://foxglovesecurity.com/feed)
+- [Frederik Braun](https://frederik-braun.com/feeds/all.atom.xml)
+- [Furoner.CAT](https://furoner.wordpress.com/feed)
+- [Future of Privacy Forum](http://www.futureofprivacy.org/feed)
+- [Fuzzing Labs](https://webassembly-security.com/feed)
+- [Fzuckerman©](https://fzuckerman.wordpress.com/feed)
+- [g0tmi1k](http://blog.g0tmi1k.com/atom.xml)
+- [Gamozo Labs Blog](https://gamozolabs.github.io/feed.xml)
+- [GC Cybermonks](https://gccybermonks.com/index.xml)
+- [GDTR](http://gdtr.wordpress.com/feed)
+- [Geek Freak](https://dhiyaneshgeek.github.io/feed.xml)
+- [Geek Girl](https://shreyapohekar.com/blogs/feed)
+- [GeoSn0w](https://geosn0w.github.io/feed.xml)
+- [Going on my way…](http://domonkos.tomcsanyi.net/?feed=rss2)
+- [Google Online Security Blog](http://googleonlinesecurity.blogspot.com/atom.xml)
+- [Google Online Security Blog](http://googleonlinesecurity.blogspot.com/feeds/posts/default)
+- [Google Online Security Blog](https://feeds.feedburner.com/GoogleOnlineSecurityBlog)
+- [Google Security Blog](https://security.googleblog.com/atom.xml)
+- [Graham Cluley](http://feeds.feedburner.com/GrahamCluleysBlog)
+- [Graham Cluley](https://www.grahamcluley.com/feed)
+- [GuidePoint Security](https://www.guidepointsecurity.com/feed)
+- [Guido Vranken](https://guidovranken.wordpress.com/feed)
+- [gynvael.coldwind//vx.log (en)](http://feeds.feedburner.com/GynvaelColdwindEN)
+- [Hack The World](http://jcjc-dev.com/atom.xml)
+- [hackademix.net](https://hackademix.net/feed)
+- [Hacker Street](https://0x221b.github.io/feed.xml)
+- [Hackerman's Hacking Tutorials](https://parsiya.net/index.xml)
+- [HackerOne disclosure timeline](http://h1.nobbd.de/reports_rss.xml)
+- [HackerOne Hacker Activity](https://rss.ricterz.me/hacktivity)
+- [Hacking Articles](http://www.hackingarticles.in/feed)
+- [Hacking Dream](https://www.hackingdream.net/feeds/posts/default?alt=rss)
+- [Hacking Exposed Computer Forensics Blog](http://www.hecfblog.com/feeds/posts/default)
+- [Hacking the planet...](http://hexkyz.blogspot.com/feeds/posts/default)
+- [Hacking Tutorials](https://www.hackingtutorials.org/feed)
+- [HACKMAGEDDON](http://hackmageddon.com/feed)
+- [hackndo](https://en.hackndo.com/feed.xml)
+- [HackRead](http://feeds.feedburner.com/hackread)
+- [HAHWUL](http://feeds.feedburner.com/hahwul)
+- [hakers.info](http://hakers.info/site/feed/index.html)
+- [Hanno's blog](http://www.hboeck.de/feeds/index.rss2)
+- [Happy Hacking!](https://xavibel.com/feed)
+- [harmj0y](https://blog.harmj0y.net/feed)
+- [hasherezade's 1001 nights](https://hshrzd.wordpress.com/feed)
+- [Have I Been Pwned latest breaches](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
+- [Haxolot.com](https://haxolot.com/index.xml)
+- [Heimdal Security Blog](http://feeds.feedburner.com/HeimdalSecurityBlog)
+- [Heimdal Security Blog](https://heimdalsecurity.com/blog/feed)
+- [Help Net Security](http://feeds2.feedburner.com/HelpNetSecurity)
+- [Help Net Security](https://www.helpnetsecurity.com/feed)
+- [herman.bearblog.dev](https://herman.bearblog.dev/feed)
+- [Hex Detective](http://hexdetective.blogspot.com/feeds/posts/default)
+- [Hexacorn](http://www.hexacorn.com/blog/feed)
+- [hexlab Feed](https://hexlab.xyz/feed.xml)
+- [hey.paris](https://hey.paris/index.xml)
+- [HighOn.Coffee](https://highon.coffee/feed.xml)
+- [HIPAA News, Web & Email Security Tips & News - Plus More | LuxSci](https://luxsci.com/blog/feed)
+- [Ho1y_Sunny's blog](http://ho1ysunny.blogspot.com/feeds/posts/default)
+- [Hoang Nguyen](https://hngnh.com/feed.xml)
+- [Honra.io Insights](https://www.honra.io/articles/rss.xml)
+- [Horizon3.ai](https://www.horizon3.ai/feed)
+- [HowToHack](http://www.reddit.com/r/HowToHack/.rss)
+- [https://www.darkreading.com/rss.xml](https://www.darkreading.com/rss.xml)
+- [I CAN'T HACK IT …OR CAN I?](https://icanthackit.wordpress.com/feed)
+- [I hack, therefore I am](http://blog.ikotler.org/feeds/posts/default)
+- [ICT Security Magazine](http://www.ictsecuritymagazine.com/feed)
+- [idiallo.com](https://idiallo.com/feed.rss)
+- [Immunity Products](http://immunityproducts.blogspot.com/feeds/posts/default)
+- [Immunity Services](https://immunityservices.blogspot.com/feeds/posts/default)
+- [ImperialViolet](http://www.imperialviolet.org/iv-rss.xml)
+- [Imperva Cyber Security Blog](http://feeds.feedburner.com/Imperviews?format=xml)
+- [IMQ Minded Security Blog](http://blog.mindedsecurity.com/feeds/posts/default)
+- [Include Security Research Blog](https://blog.includesecurity.com/feed)
+- [Indistinguishable from Jesse](http://www.squarefree.com/feed/atom)
+- [Information Security](http://www.reddit.com/r/Information_Security/.rss)
+- [Infosec Blog](https://ninetyn1ne.github.io/feed.xml)
+- [InfoSec Write-ups - Medium](https://infosecwriteups.com/feed)
+- [InfoSec Write-ups - Medium](https://medium.com/feed/bugbountywriteup)
+- [InfosecMatter](https://www.infosecmatter.com/feed)
+- [infosecurity-magazine.com:443](http://www.infosecurity-magazine.com/rss/news)
+- [inputzero](https://www.inputzero.io/feeds/posts/default)
+- [Insinuator.net](http://www.insinuator.net/feed)
+- [IntelTechniques](https://inteltechniques.com/blog/feed)
+- [Intercept the planet!](https://intercepter-ng.blogspot.com/feeds/posts/default?alt=rss)
+- [Intezer](http://www.intezer.com/feed)
+- [Intigriti](https://blog.intigriti.com/feed)
+- [INulledMyself](http://www.inulledmyself.com/feeds/posts/default)
+- [Irongeek's Security Site](https://feeds.feedburner.com/IrongeeksSecuritySite)
+- [it-notes.dragas.net](https://it-notes.dragas.net/feed)
+- [Ivan Fratric's Security Blog](http://ifsec.blogspot.com/feeds/posts/default)
+- [j00ru//vx tech blog](http://j00ru.vexillium.org/?feed=rss2)
+- [j00ru//vx tech blog](https://j00ru.vexillium.org/feed)
+- [Jack](https://fin1te.net/feed.xml)
+- [Jack](https://whitton.io/feed.xml)
+- [Jack Hacks](https://jhalon.github.io/feed.xml)
+- [Javvad Malik](http://feeds.feedburner.com/J4vv4d)
+- [Jay Bosamiya](https://www.jaybosamiya.com/blog/atom.xml)
+- [jayd.ml](https://jayd.ml/feed.xml)
+- [Jenny from the blog](https://xheni.me/feed.xml)
+- [Jeremiah Grossman](http://feeds.feedburner.com/JeremiahGrossman)
+- [JestersCourt](http://th3j35t3r.wordpress.com/feed)
+- [JesuX Blog](https://jesux.es/feed.xml)
+- [jndok's blog](http://jndok.github.io/atom.xml)
+- [joanwestenberg.com](https://joanwestenberg.com/rss)
+- [Joe's Security Blog](http://www.gironsec.com/blog/feed)
+- [JonLuca’s Blog](https://blog.jonlu.ca/feed.xml)
+- [Joseph Thacker](https://rez0.blog/feed.xml)
+- [Jump ESP, jump!](http://jumpespjump.blogspot.com/feeds/posts/default)
+- [JUMPSEC | CREST Accredited](http://www.jumpsec.com/feed)
+- [Jussi Judin's weblog](https://feeds.feedburner.com/jussijudin)
+- [jyn.dev](https://jyn.dev/atom.xml)
+- [Kaibro's blog](https://blog.kaibro.tw/atom.xml)
+- [Kali Linux](https://www.kali.org/feed)
+- [Kali Linux](https://www.kali.org/rss.xml)
+- [Kali Linux Tutorials](https://kalilinuxtutorials.com/feed)
+- [Kaspersky official blog](http://blog.kaspersky.com/feed)
+- [kciredor’s engineering and security blog](https://kciredor.com/index.xml)
+- [Keen Security Lab Blog](http://keenlab.tencent.com/en/atom.xml)
+- [KernelPicnic](http://www.kernelpicnic.net/feed.xml)
+- [Kerner on Security](http://www.kerneronsec.com/feeds/posts/default)
+- [Kevin Chung](https://blog.kchung.co/rss)
+- [khr@sh#: echo $GREETING](http://khr0x40sh.wordpress.com/feed)
+- [Kleiton Kurti - Personal Infosec Blog](https://kleiton0x00.github.io/feed)
+- [Krebs on Security](http://feeds.feedburner.com/KrebsOnSecurity)
+- [Krebs on Security](http://krebsonsecurity.com/feed)
+- [Krypt3ia](http://krypt3ia.wordpress.com/feed)
+- [Lab of a Penetration Tester](http://www.labofapenetrationtester.com/feeds/posts/default)
+- [Labs PortCullis](https://labs.portcullis.co.uk/feed)
+- [landave's blog](https://landave.io/post/index.xml)
+- [Laplinker](http://www.laplinker.com/feeds/posts/default)
+- [LastKnight.com Feed](http://feeds.feedburner.com/LastknightDotCom)
+- [Latest topics for ZDNet in Security](http://www.zdnet.com/topic-security/rss.xml)
+- [Lazy Project](https://blog.l4ys.tw/feed.xml)
+- [lcamtuf (Michal Zalewski)](https://lcamtuf.substack.com/feed)
+- [lcamtuf's old blog](https://lcamtuf.blogspot.com/feeds/posts/default?alt=rss)
+- [Legacyy](http://legacyy.xyz/feed.xml)
+- [Lenny Zeltser](https://zeltser.com/feed)
+- [Lexfo's security blog](https://blog.lexfo.fr/feeds/all.atom.xml)
+- [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/feed)
+- [LightBulbOne](https://lightbulbone.com/index.xml)
+- [LockBoxx](http://lockboxx.blogspot.com/feeds/posts/default)
+- [Low-level Shenanigans](https://ihack4falafel.github.io/feed.xml)
+- [Luca Mercatanti](http://feeds.feedburner.com/blogmercatanti)
+- [Lyon's blog](http://www.youngroe.com/atom.xml)
+- [m0d9's blog](http://m0d9.me/atom.xml)
+- [m3rcer - Hacking/Security Blog](https://m3rcer.github.io/feed.xml)
+- [M4t35Z's Blog](https://m4t3sz.gitlab.io/index.xml)
+- [Malware Analysis: The Final Frontier](http://malwageddon.blogspot.com/feeds/posts/default)
+- [MALware FORensics SECurity](http://malforsec.blogspot.com/feeds/posts/default)
+- [Malware Must Die!](http://blog.malwaremustdie.org/atom.xml)
+- [Malware-Traffic-Analysis.net - Blog Entries](http://malware-traffic-analysis.net/blog-entries.rss)
+- [Malwarebytes Labs](http://blog.malwarebytes.org/feed)
+- [MalwareJake](http://malwarejake.blogspot.com/feeds/posts/default)
+- [MalwareTech](http://www.malwaretech.com/feed?alt=rss)
+- [MalwareTech](http://www.malwaretech.com/feeds/posts/default)
+- [Marco Ramilli Web Corner](https://marcoramilli.com/feed)
+- [marcograss' blog](https://marcograss.github.io/feed.xml)
+- [markitzeroday.com](https://markitzeroday.com/feed.xml)
+- [Martin Vigo](http://www.martinvigo.com/feed)
+- [martinalderson.com](https://martinalderson.com/feed.xml)
+- [Mas0n's blog](https://mas0n.org/feed)
+- [matduggan.com](https://matduggan.com/rss)
+- [maurycyz.com](https://maurycyz.com/index.xml)
+- [Max Justicz](https://justi.cz/feed.xml)
+- [Max Kersten](https://maxkersten.nl/feed)
+- [Maxiee Blog](https://maxieewong.com/atom.xml)
+- [Mayfly](https://mayfly277.github.io/feed.xml)
+- [MDSec](https://www.mdsec.co.uk/category/penetration-testing/feed)
+- [memset's blog](http://memset.wordpress.com/feed)
+- [micahflee.com](https://micahflee.com/feed)
+- [Michele Spagnuolo](https://miki.it/blog/feed.atom)
+- [Microsoft Browser Vulnerability Research](https://microsoftedge.github.io/edgevr/feed.xml)
+- [Microsoft Security](https://cloudblogs.microsoft.com/microsoftsecure/feed)
+- [Microsoft Security Blog](https://www.microsoft.com/security/blog/feed)
+- [Milo2012's Security Blog](http://milo2012.wordpress.com/feed)
+- [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/data/rss)
+- [modexp](https://modexp.wordpress.com/feed)
+- [Mozilla Security Blog](http://blog.mozilla.com/security/feed)
+- [Mozilla Security Blog](https://blog.mozilla.org/security/feed)
+- [muellis blog](https://blogs.gnome.org/muelli/feed)
+- [Muuu Nya's Blog](https://lvm.me/index.xml)
+- [My infected computer](http://zairon.wordpress.com/feed)
+- [mykter.com](https://mykter.com/feed.xml)
+- [Myne-us](http://myne-us.blogspot.com/feeds/posts/default)
+- [NahamSec.com](https://nahamsec.com/posts?format=rss)
+- [Nat McHugh](https://natmchugh.blogspot.com/feeds/posts/default?alt=rss)
+- [Neal Poole](https://nealpoole.com/blog/feeds/all.rss.xml)
+- [nesbitt.io](https://nesbitt.io/feed.xml)
+- [NETRESEC Network Security Blog](http://www.netresec.com/rss.ashx)
+- [NetRoc's blog](http://blog.dbgtech.net/blog?feed=rss2)
+- [Netsec](http://www.reddit.com/r/netsec/.rss)
+- [Netsecstudents](http://www.reddit.com/r/netsecstudents/.rss)
+- [NetSPI Blog](https://www.netspi.com/feed)
+- [News and Events Feed by Topic](https://www.nist.gov/news-events/information%20technology/rss.xml)
+- [Nibble Security](http://blog.nibblesec.org/feeds/posts/default)
+- [Nikhil Mittal's Blog](http://c0d3g33k.blogspot.com/feeds/posts/default)
+- [NomanAli181 | BugBaba](https://bugbaba.blogspot.com/feeds/posts/default?alt=rss)
+- [Noncombatant](https://noncombatant.org/feed)
+- [Noob Ninja!](http://www.noob.ninja/feeds/posts/default?alt=rss)
+- [noob-hackers](http://feeds.feedburner.com/noob-hackers/uRyN)
+- [NowSecure](https://www.nowsecure.com/feed)
+- [NVISO Labs](https://blog.nviso.be/feed?alt=rss)
+- [NVISO Labs](https://blog.nviso.eu/feed)
+- [Objective-See's Blog](https://objective-see.com/rss.xml)
+- [Oddvar Moe's Blog](https://oddvar.moe/feed)
+- [Offensi](https://offensi.com/feed)
+- [Offensive OSINT](https://www.offensiveosint.io/rss)
+- [OJ's Perspective](https://buffered.io/index.xml)
+- [oldvcr.blogspot.com](https://oldvcr.blogspot.com/feeds/posts/default)
+- [OpnSec](https://opnsec.com/feed)
+- [Orange Cyberdefense](https://sensepost.com/rss.xml)
+- [Orange Tsai](http://feeds.feedburner.com/blogspot/Aohx)
+- [OS X and iOS Internals - The RSS Feed](http://newosxbook.com/index.php?format=rss)
+- [Out of Bounds Access](https://fuzion24.github.io/feed.xml)
+- [Packet Guru](http://packetguru.blogspot.com/feeds/posts/default)
+- [Palo Alto Networks Blog](http://researchcenter.paloaltonetworks.com/feed)
+- [PANOPTICON ESCAPE](https://panopticonescape.wordpress.com/feed)
+- [Patrik Hudak](https://0xpatrik.com/rss)
+- [Paulos Yibelo - Blog](http://feeds.feedburner.com/PaulosYibelo-OfficalBlog)
+- [payatu](http://payatu.com/feed)
+- [PC's Xcetra Support](http://pcsxcetrasupport3.wordpress.com/feed)
+- [PCI Perspectives](https://blog.pcisecuritystandards.org/rss.xml)
+- [Pen Test Partners](https://www.pentestpartners.com/feed)
+- [Pentest Blog](https://pentest.blog/feed)
+- [PenTest Labs](http://securityblog.gr/feed)
+- [pentest-n00b](http://pentestn00b.wordpress.com/feed)
+- [Pentester Land](https://pentester.land/blog/index.xml)
+- [Pentesting](https://www.reddit.com/r/Pentesting/.rss)
+- [pentestmonkey](http://feeds.feedburner.com/pentestmonkey)
+- [Pentura Labs's Blog](http://penturalabs.wordpress.com/feed)
+- [Personnal security blog](https://thibaud-robin.fr/index.xml)
+- [philiplaine.com](https://philiplaine.com/index.xml)
+- [phillips321.co.uk](http://www.phillips321.co.uk/feed)
+- [phoenhex team](https://phoenhex.re/feed.xml)
+- [phpMyAdmin security announcements](http://www.phpmyadmin.net/home_page/security/index.xml)
+- [PICTUROKU](http://picturoku.blogspot.com/feeds/posts/default)
+- [pirogue](http://pirogue.org/atom.xml)
+- [Podalirius](https://podalirius.net/en/index.xml)
+- [Pop Pop Ret](http://poppopret.blogspot.com/feeds/posts/default)
+- [PortSwigger Blog](http://blog.portswigger.net/feeds/posts/default)
+- [PortSwigger Blog](https://portswigger.net/blog/rss)
+- [PortSwigger Research](https://portswigger.net/research/rss)
+- [Positive Security | IT Security research and happy coincidences](https://positive.security/blog/rss.xml)
+- [Positive Technologies - learn and secure](http://feeds.feedburner.com/positiveTechnologiesResearchLab)
+- [Posts on BananaMafia](https://bananamafia.dev/post/index.xml)
+- [Posts on Maurice's Blog 🐍](https://momo5502.com/posts/index.xml)
+- [povcfe's blog](https://www.povcfe.site/index.xml)
+- [Prateek Gianchandani](https://highaltitudehacks.com/feed.xml)
+- [procfs’s blog](https://pr0cf5.github.io/feed.xml)
+- [ProjectDiscovery.io | Blog](https://blog.projectdiscovery.io/rss)
+- [Proofpoint News Feed](https://www.proofpoint.com/us/rss.xml)
+- [Psycho’s Corner](https://sparkes.zone/blog/feed.xml)
+- [Publications on STAR Labs](https://starlabs.sg/publications/index.xml)
+- [Publications | Outflank](https://outflank.nl/blog/feed)
+- [Pure randomness](https://mbechler.github.io/feed.xml)
+- [Push the Red Button](http://moyix.blogspot.com/feeds/posts/default)
+- [pwnaccelerator BLOG](https://pwnaccelerator.github.io/feed.xml)
+- [PwnDefend](https://www.pwndefend.com/feed)
+- [PwnDizzle](http://pwndizzle.blogspot.com/feeds/posts/default)
+- [Pwnies Awards](https://pwnies.com/feed)
+- [pwning.systems](https://pwning.systems/index.xml)
+- [Quarkslab's blog](https://blog.quarkslab.com/feeds/all.rss.xml)
+- [radi::blog](http://radi.r-n-d.org/feeds/posts/default)
+- [rakhim.exotext.com](https://rakhim.exotext.com/rss.xml)
+- [Ran Menscher's Blog](https://menschers.com/feed)
+- [randhome.io](https://randhome.io/index.xml)
+- [random](https://xerub.github.io/feed.xml)
+- [random dross](http://randomdross.blogspot.com/feeds/posts/default)
+- [Random stuff by yappare](https://c0rni3sm.blogspot.com/feeds/posts/default)
+- [Randy Westergren](http://randywestergren.com/feed)
+- [RBleug](https://regilero.github.io/feed.xml)
+- [rdist](https://rdist.root.org/feed)
+- [Re4son](https://whitedome.com.au/re4son/feed)
+- [Recent Commits to cve:main](https://github.com/trickest/cve/commits/main.atom)
+- [Recorded Future](https://www.recordedfuture.com/feed)
+- [Red Team Security](https://www.reddit.com/r/redteamsec/.rss)
+- [Red Teaming](https://redteaming.co.uk/feed)
+- [Red XOR Blue](http://blog.redxorblue.com/feeds/posts/default?alt=rss)
+- [RedPacket Security](https://www.redpacketsecurity.com/feed)
+- [REDTEAM.PL TECHBLOG](https://blog.redteam.pl/feeds/posts/default)
+- [RET2 Systems Blog](https://blog.ret2.io/feed.xml)
+- [Reusable Security](https://reusablesec.blogspot.com/feeds/posts/default?alt=rss)
+- [Reverse Engineering](http://www.reddit.com/r/ReverseEngineering/.rss)
+- [Reverse Engineering](https://reverse.put.as/index.xml)
+- [ReWolf's blog](http://blog.rewolf.pl/blog?feed=rss2)
+- [Rhynorater's InfoSec Blog](https://rhynorater.github.io/feed.xml)
+- [Riccardo Ancarani - Red Team Adventures](https://riccardoancarani.github.io/feed.xml)
+- [righto.com](https://www.righto.com/feeds/posts/default)
+- [Robert Heaton | Blog](https://robertheaton.com/feed.xml)
+- [Roee Hay](http://roeehay.blogspot.com/feeds/posts/default)
+- [Ronnie's Blog](https://blog.spookysec.net/feed)
+- [Roy Castillo](http://www.blogger.com/feeds/6256080996814574917/posts/default)
+- [RSS: Hanno's blog -](https://blog.hboeck.de/feeds/index.rss2)
+- [RSS: The Fuzzing Project - Blog and Advisories](https://blog.fuzzing-project.org/feeds/index.rss2)
+- [RyotaK's Blog](https://blog.ryotak.me/index.xml)
+- [S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/feed.xml)
+- [Sandfly Security Blog RSS Feed](https://www.sandflysecurity.com/feed)
+- [SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu/rssfeed.xml)
+- [Schneier on Security](http://www.schneier.com/blog/index.rdf)
+- [Schneier on Security](https://www.schneier.com/blog/atom.xml)
+- [Schneier on Security](https://www.schneier.com/feed)
+- [Scott Helme](https://scotthelme.co.uk/feed)
+- [Scott Helme](https://scotthelme.co.uk/rss)
+- [scriptkidd1e](https://scriptkidd1e.wordpress.com/feed)
+- [Sean Heelan's Blog](https://sean.heelan.io/feed)
+- [SecDr](http://secdr.github.io/atom.xml)
+- [SecLists - Full Disclosure](https://seclists.org/rss/fulldisclosure.rss)
+- [secret club](https://secret.club/feed.xml)
+- [Secure Belief](http://amolnaik4.blogspot.com/feeds/posts/default)
+- [Secure Thoughts](http://feeds2.feedburner.com/securethoughts)
+- [Securelist](http://www.securelist.com/en/rss/allupdates)
+- [Securelist](https://securelist.com/feed)
+- [Security Affairs](http://securityaffairs.co/wordpress/feed)
+- [Security and risk](http://feeds.feedburner.com/SecurityAndRisk)
+- [Security Engineering Blog](https://bughunters.google.com/feed/en)
+- [Security Intelligence and Big Data](http://feeds.feedburner.com/RaffysComputerSecurityBlog)
+- [Security Latest](https://www.wired.com/feed/category/security/latest/rss)
+- [Security Obscurity Blog](http://security-obscurity.blogspot.com/feeds/posts/default)
+- [Security on TechRepublic](http://www.techrepublic.com/rssfeeds/topic/security?feedType=rssfeeds)
+- [Security on the edge](http://edge-security.blogspot.com/feeds/posts/default)
+- [Security on the edge](http://feeds.feedburner.com/SecurityOnTheEdge)
+- [Security Reliks](http://securityreliks.wordpress.com/feed)
+- [Security Simplified!!!](http://nileshkapoor.blogspot.com/feeds/posts/default)
+- [Security Through Education](http://www.social-engineer.org/feed)
+- [Security Training](http://www.securitytut.com/feed)
+- [Security Uncorked](http://securityuncorked.com/feed)
+- [Security – Cisco Blogs](https://feeds.feedburner.com/CiscoBlogSecurity)
+- [Security, Privacy & Tech Inquiries](https://blog.lukaszolejnik.com/rss)
+- [Securityinfo.it](http://securityinfo.it/feed)
+- [securityresear.ch](https://securityresear.ch/feed.xml)
+- [SecurityTube.Net](http://feeds.feedburner.com/SecurityTube)
+- [SecurityWeek](http://feeds.feedburner.com/Securityweek)
+- [SecurityWeek » Feed](https://www.securityweek.com/feed)
+- [SentinelOne](https://www.sentinelone.com/feed)
+- [SerHack – Security research on SerHack – Security researcher](https://serhack.me/index.xml)
+- [Shell is coming ...](http://www.shelliscoming.com/feeds/posts/default?alt=rss)
+- [Shells.Systems](https://shells.systems/feed)
+- [Shielder](https://www.shielder.it/blog/index.xml)
+- [shift or die](https://shiftordie.de/feed.xml)
+- [Shodan Blog](http://blog.shodan.io/rss)
+- [Shortjump!](http://0xeb.net/feed)
+- [Shubham Shah](https://shubs.io/rss)
+- [siberas blog](http://siberas.blogspot.com/feeds/posts/default)
+- [Sick Codes – Security Research, Hardware & Software Hacking, Consulting, Linux, IoT, Cloud, Embedded, Arch, Tweaks & Tips!](https://sick.codes/feed)
+- [Signal Blog](https://signal.org/blog/rss.xml)
+- [Silendo](http://silendo.org/feed)
+- [Silent Signal Techblog](http://blog.silentsignal.eu/feed)
+- [simone.org](https://simone.org/feed)
+- [Sina & Shahriar's Blog](https://rayanfam.com/feed)
+- [Sina & Shahriar's Blog](https://rayanfam.com/feed.xml)
+- [sirdarckcat](http://feeds.feedburner.com/sirdarckcat)
+- [Site Title](https://hoangkien1020.wordpress.com/feed)
+- [Skeleton Scribe](https://www.skeletonscribe.net/feeds/posts/default)
+- [skyfall.dev](https://skyfall.dev/rss.xml)
+- [Slonser Notes](https://blog.slonser.info/index.xml)
+- [Smartphone Security](http://smartphone-attack-vector.de/feed)
+- [Social Engineering](http://www.reddit.com/r/SocialEngineering/.rss)
+- [Source Code Auditing, Reversing, Web Security](https://hiddencodes.wordpress.com/feed)
+- [Source Incite](https://srcincite.io/feed.xml)
+- [splinter_code blog](https://antoniococo.github.io/rss.xml)
+- [sploitF-U-N](https://sploitfun.wordpress.com/feed)
+- [spylogic.net](http://feeds.feedburner.com/spylogic)
+- [Staaldraad](https://staaldraad.github.io/index.xml)
+- [StalkR's Blog](http://blog.stalkr.net/feeds/posts/default)
+- [StefLan's Security Blog](https://steflan-security.com/feed)
+- [StopBadware blogs](http://feeds.feedburner.com/StopbadwareBlog)
+- [Stories by @radekk on Medium](https://medium.com/feed/@radekk)
+- [Stories by Eslam Akl on Medium](https://medium.com/feed/@eslam3kl)
+- [Stories by Harsh Bothra on Medium](https://medium.com/feed/@hbothra22)
+- [Stories by Kevin Beaumont on Medium](https://medium.com/feed/@networksecurity)
+- [Stories by Rodolfo Assis (Brute) on Medium](https://medium.com/feed/@rodoassis)
+- [Stories by SAFARAS K A on Medium](https://medium.com/feed/@safaras)
+- [Stories by SAP Security Research on Medium](https://medium.com/feed/@sap.security.research)
+- [Stories by Scott J Roberts on Medium](https://medium.com/feed/@sroberts)
+- [Stories by theMiddle on Medium](https://medium.com/feed/@themiddleblue)
+- [Sturmflut's blog](https://sturmflut.github.io/feed.xml)
+- [Sucuri Blog](http://feeds.feedburner.com/sucuri/blog)
+- [Sucuri Blog](https://blog.sucuri.net/feed)
+- [SumSec's Blog](https://sumsec.me/resources/rss.xml)
+- [susam.net](https://susam.net/feed.xml)
+- [SuspeKt](https://www.suspekt.org/feed)
+- [Suyoung Lee](https://leeswimming.com/feed.xml)
+- [SWAP - The Most Advanced Web Protection I Cloudbric](https://www.cloudbric.com/feed)
+- [sysexit](https://sysexit.wordpress.com/feed)
+- [tail -f /var/log/messages | grep vegard](http://vegardno.blogspot.com/feeds/posts/default)
+- [TaoSecurity](http://taosecurity.blogspot.com/atom.xml)
+- [TaoSecurity Blog](https://taosecurity.blogspot.com/feeds/posts/default?alt=rss)
+- [Taszk Labs on taszk.io labs](https://labs.taszk.io/index.xml)
+- [Tavis Ormandy](http://blog.cmpxchg8b.com/feeds/posts/default)
+- [Taxodium](https://taxodium.ink/index.xml)
+- [Team82 Disclosure Dashboard](https://claroty.com/team82/disclosure-dashboard/feed/atom)
+- [Tech Vomit](https://techvomit.net/index.xml)
+- [Techorganic](https://blog.techorganic.com/atom.xml)
+- [Techy Zilla](http://techyzilla.blogspot.com/feeds/posts/default)
+- [Teddy Katz’s Blog](https://blog.teddykatz.com/feed.xml)
+- [Telekom Security](https://github.security.telekom.com/atom.xml)
+- [Telekom Security](https://telekomsecurity.github.io/atom.xml)
+- [Tenable Blog](https://feeds.feedburner.com/tenable/qaXL)
+- [terriblesoftware.org](https://terriblesoftware.org/feed)
+- [tessrijogo](http://feeds.feedburner.com/blogspot/CqwP)
+- [The Akamai Blog (https://blogs.akamai.com/feeds.html)](https://feeds.feedburner.com/akamai/blog)
+- [The blog of malweisse's corruptions](https://andreafioraldi.github.io/atom.xml)
+- [The Cobra Den Blog](http://blog.thecobraden.com/feeds/posts/default)
+- [The Decoder](https://the-decoder.com/feed)
+- [The DFIR Report](https://thedfirreport.com/feed)
+- [the Forensics Ferret Blog](http://forensicsferret.wordpress.com/feed)
+- [The Hacker Blog](https://thehackerblog.com/feed.xml)
+- [The Hacker News](http://thehackernews.com/feeds/posts/default)
+- [The Hacker News](http://feeds.feedburner.com/TheHackersNews)
+- [The Honeynet Project blogs](https://www.honeynet.org/feed)
+- [The Last Watchdog](http://lastwatchdog.com/feed)
+- [The Recurity Lablog](https://blog.recurity-labs.com/atom.xml)
+- [The Register - Security](http://www.theregister.co.uk/security/headlines.atom)
+- [The Safe Mac](http://reedcorner.net/feed)
+- [The Sakurity Blog](http://sakurity.com/blog/feed.xml)
+- [The Security Shoggoth](http://secshoggoth.blogspot.com/feeds/posts/default)
+- [the world. according to koto](http://blog.kotowicz.net/feeds/posts/default)
+- [the world. according to koto](http://feeds.feedburner.com/TheWorldAccordingToKoto)
+- [the_nenad_x](http://the-nenad-x.blogspot.com/feeds/posts/default)
+- [TheGeryCorner](http://thegreycorner.com/feed.xml)
+- [This is a One Way Ride.](http://h3ysatan.blogspot.com/feeds/posts/default)
+- [Thoughts on Security](http://www.scriptjunkie.us/feed)
+- [ThreatConnect | Intelligence-Driven Security Operations](http://www.threatconnect.com/feed)
+- [Threatninja.net](https://threatninja.net/feed)
+- [ThreatPost](https://threatpost.com/feed)
+- [timsh.org](https://timsh.org/rss)
+- [tint0](https://blog.tint0.com/feeds/posts/default?alt=rss)
+- [Tinyhack.com](https://tinyhack.com/feed)
+- [tomrenner.com](https://tomrenner.com/index.xml)
+- [Trail of Bits Blog](https://blog.trailofbits.com/feed)
+- [Travis Goodspeed's Blog](http://travisgoodspeed.blogspot.com/feeds/posts/default)
+- [Trend Micro - Security Advisories](http://feeds.trendmicro.com/TrendMicroSecurityAdvisories)
+- [Trend Micro Simply Security](http://feeds.trendmicro.com/TrendMicroSimplySecurity)
+- [Trin Tragula 0x2A](https://trintragulablog.wordpress.com/feed)
+- [Troy Hunt's Blog](http://feeds.feedburner.com/TroyHunt)
+- [troyhunt.com](https://www.troyhunt.com/rss)
+- [Trustlook](https://blog.trustlook.com/rss)
+- [Trustlook blog](http://blog.trustlook.com/feed)
+- [tssci-security](http://www.tssci-security.com/feed.atom)
+- [Tw1sm](https://tw1sm.github.io/feed.xml)
+- [Tyranid's Lair](http://tyranidslair.blogspot.com/feeds/posts/default)
+- [Unauthorized Access Blog](https://blog.unauthorizedaccess.nl/feed.xml)
+- [Unit42](http://feeds.feedburner.com/Unit42)
+- [vibrio’s personal infosec blog](https://ricardojba.github.io/feed.xml)
+- [Vickie Li’s Security Blog](https://vickieli.dev/feed.xml)
+- [Vimeo / Offensive Security’s videos](http://vimeo.com/offsec/videos/rss)
+- [Virus Bulletin's blog](http://www.virusbtn.com/library/feeds/news.rdf)
+- [Virus Bulletin's blog](https://www.virusbulletin.com/rss)
+- [Vlad Tsyrklevich's blog](http://tsyrklevich.net/feed.xml)
+- [VMRay](https://www.vmray.com/feed)
+- [VoidSec](http://voidsec.com/feed)
+- [voidsecurity](http://v0ids3curity.blogspot.com/feeds/posts/default)
+- [Volatility Labs](http://volatility-labs.blogspot.com/feeds/posts/default)
+- [Vulnerabilities and Threat Research – Qualys Security Blog](https://blog.qualys.com/feed)
+- [Vulnerabilities – Threatpost](https://threatpost.com/category/vulnerabilities/feed)
+- [Vulnerable Security](http://vulnsec.com/feed.xml)
+- [Vulners.com RSS Feed](https://vulners.com/rss.xml)
+- [VulnHub ~ Entries](https://www.vulnhub.com/feeds/added/rss)
+- [vulnserver](https://github.com/stephenbradshaw/vulnserver/commits/master.atom)
+- [VUSec](https://www.vusec.net/feed)
+- [Wallarm](https://lab.wallarm.com/feed)
+- [WeLiveSecurity](http://feeds.feedburner.com/eset/blog)
+- [Wh0ale's Blog](https://wh0ale.github.io/atom.xml)
+- [What's in your silicon?](http://siliconblade.blogspot.com/feeds/posts/default)
+- [WHITE HAT - WRITE UPS - RSS](https://whwriteups.blogspot.com/feeds/posts/default?alt=rss)
+- [WhiteScope IO](http://blog.whitescope.io/feeds/posts/default)
+- [Wikimedia Security Team](https://phabricator.wikimedia.org/phame/blog/feed/13)
+- [Wiremask's Feed](https://wiremask.eu/atom.xml)
+- [WitCoat Security Blog](http://witcoat.blogspot.com/feeds/posts/default)
+- [X1r0z Blog](https://exp10it.io/index.xml)
+- [x9090's Blog](http://x9090.blogspot.com/feeds/posts/default)
+- [xorl %eax, %eax](http://xorl.wordpress.com/feed)
+- [XPN InfoSec Blog](https://blog.xpnsec.com/rss)
+- [XPN InfoSec Blog](https://blog.xpnsec.com/rss.xml)
+- [Y4tacker's Blog](https://y4tacker.github.io/atom.xml)
+- [Yassine Aboukir](https://www.yassineaboukir.com/feed.xml)
+- [Yoroi Warning Archive Feed](https://us9.campaign-archive.com/feed?id=74c8e9d528&u=00093dab1cf5ca5a1d3d08535)
+- [Youssef Sammouda (sam0) personal blog](https://ysamm.com/feed.xml)
+- [Yubico](https://www.yubico.com/feed)
+- [Z3r0 H4x0r](http://0haxor.blogspot.com/feeds/posts/default)
+- [ZDNet | security RSS](http://www.zdnet.com/blog/security/rss)
+- [Zdziarski](http://www.zdziarski.com/blog?feed=rss2)
+- [ZeroSec - Adventures In Information Security](https://blog.zsec.uk/rss)
+- [zSecurity](https://zsecurity.org/feed)
+- [| bohops |](https://bohops.com/feed)
+- [🔐Blog of Osanda](https://osandamalith.com/feed)
 
-### 🧠 AI Research & Labs (80)
+## ⚛️ Web Frontend & Standards (628)
 
-- [AI at Meta(@AIatMeta)](https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4) — `https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4`
-- [AK(@_akhaliq)](https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e) — `https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e`
-- [AWS Machine Learning](https://aws.amazon.com/blogs/machine-learning/feed) — `https://aws.amazon.com/blogs/machine-learning/feed`
-- [Alex Albert(@alexalbert__)](https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df) — `https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df`
-- [Amazon Science Homepage](https://www.amazon.science/index.rss) — `https://www.amazon.science/index.rss`
-- [Andrej Karpathy(@karpathy)](https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524) — `https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524`
-- [Andrew Ng(@AndrewYNg)](https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d) — `https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d`
-- [Anthropic(@AnthropicAI)](https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5) — `https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5`
-- [Arthur Mensch(@arthurmensch)](https://api.xgo.ing/rss/user/d8121d969fb34c7daad2dd2aac4ba270) — `https://api.xgo.ing/rss/user/d8121d969fb34c7daad2dd2aac4ba270`
-- [Berkeley AI Research(@berkeley_ai)](https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009) — `https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009`
-- [Blog AI ML - Seita's Place](https://danieltakeshi.github.io/feed.xml) — `https://danieltakeshi.github.io/feed.xml`
-- [Blog AI Paper Review David Stutz](http://davidstutz.de/feed) — `http://davidstutz.de/feed`
-- [Blog Andrej Karpathy](https://medium.com/feed/@karpathy) — `https://medium.com/feed/@karpathy`
-- [Blog Jay Alammar](https://jalammar.github.io/feed.xml) — `https://jalammar.github.io/feed.xml`
-- [Blog inFERENCe](https://www.inference.vc/rss) — `https://www.inference.vc/rss`
-- [Blog literature review](https://vitalab.github.io/feed.xml) — `https://vitalab.github.io/feed.xml`
-- [Chain Of Thought](https://vrungta.substack.com/feed) — `https://vrungta.substack.com/feed`
-- [Dario Amodei(@DarioAmodei)](https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5) — `https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5`
-- [DeepLearningAI](https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w) — `https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w`
-- [DeepSeek(@deepseek_ai)](https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86) — `https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86`
-- [Demis Hassabis(@demishassabis)](https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a) — `https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a`
-- [Distill](http://distill.pub/rss.xml) — `http://distill.pub/rss.xml`
-- [Eric Jang](http://blog.evjang.com/feeds/posts/default?alt=rss) — `http://blog.evjang.com/feeds/posts/default?alt=rss`
-- [Eric Jang](https://evjang.com/feed) — `https://evjang.com/feed`
-- [Fei-Fei Li(@drfeifei)](https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5) — `https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5`
-- [Gary Marcus(@GaryMarcus)](https://api.xgo.ing/rss/user/35a38c5646d946fb894d8c30c1d9629e) — `https://api.xgo.ing/rss/user/35a38c5646d946fb894d8c30c1d9629e`
-- [Geoffrey Hinton(@geoffreyhinton)](https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686) — `https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686`
-- [Google AI Blog](http://feeds.feedburner.com/blogspot/gJZg) — `http://feeds.feedburner.com/blogspot/gJZg`
-- [Google AI Blog](http://googleresearch.blogspot.com/atom.xml) — `http://googleresearch.blogspot.com/atom.xml`
-- [Google AI Blog](https://blog.google/technology/ai/rss) — `https://blog.google/technology/ai/rss`
-- [Google AI(@GoogleAI)](https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7) — `https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7`
-- [Google DeepMind Blog](https://deepmind.google/blog/rss.xml) — `https://deepmind.google/blog/rss.xml`
-- [Google DeepMind Blog](https://deepmind.com/blog/feed/basic) — `https://deepmind.com/blog/feed/basic`
-- [Google DeepMind(@GoogleDeepMind)](https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec) — `https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec`
-- [Greg Brockman(@gdb)](https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268) — `https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268`
-- [Hunyuan(@TXhunyuan)](https://api.xgo.ing/rss/user/6e8e7b42cb434818810f87bcf77d86fb) — `https://api.xgo.ing/rss/user/6e8e7b42cb434818810f87bcf77d86fb`
-- [Ian Goodfellow(@goodfellow_ian)](https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84) — `https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84`
-- [JMLR recent papers](http://proceedings.mlr.press//feed.xml) — `http://proceedings.mlr.press//feed.xml`
-- [Jan Leike(@janleike)](https://api.xgo.ing/rss/user/dceb5cd131b34c72a8376cba8ea5d864) — `https://api.xgo.ing/rss/user/dceb5cd131b34c72a8376cba8ea5d864`
-- [Jeff Dean(@JeffDean)](https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054) — `https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054`
-- [Jim Fan(@DrJimFan)](https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840) — `https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840`
-- [Lil'Log](https://lilianweng.github.io/index.xml) — `https://lilianweng.github.io/index.xml`
-- [Lilian Weng(@lilianweng)](https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498) — `https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498`
-- [Lil’Log](https://lilianweng.github.io/lil-log/feed.xml) — `https://lilianweng.github.io/lil-log/feed.xml`
-- [MIT News - Artificial intelligence](http://news.mit.edu/rss/topic/artificial-intelligence2) — `http://news.mit.edu/rss/topic/artificial-intelligence2`
-- [MIT News - Machine learning](https://news.mit.edu/topic/mitmachine-learning-rss.xml) — `https://news.mit.edu/topic/mitmachine-learning-rss.xml`
-- [MIT Technology Review](https://www.technologyreview.com/feed) — `https://www.technologyreview.com/feed`
-- [Machine Learning](http://www.reddit.com/r/MachineLearning/.rss) — `http://www.reddit.com/r/MachineLearning/.rss`
-- [Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/feed) — `https://blog.ml.cmu.edu/feed`
-- [Magenta](http://magenta.tensorflow.org/feed.xml) — `http://magenta.tensorflow.org/feed.xml`
-- [Michael Nielsen](https://michaelnielsen.org/blog/feed) — `https://michaelnielsen.org/blog/feed`
-- [Microsoft Research Blog](http://research.microsoft.com/rss/news.xml) — `http://research.microsoft.com/rss/news.xml`
-- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/feed) — `https://www.microsoft.com/en-us/research/feed`
-- [Microsoft Research(@MSFTResearch)](https://api.xgo.ing/rss/user/61f4b78554fb4b8fa5653ec5d924d15a) — `https://api.xgo.ing/rss/user/61f4b78554fb4b8fa5653ec5d924d15a`
-- [Mistral AI(@MistralAI)](https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1) — `https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1`
-- [Mustafa Suleyman(@mustafasuleyman)](https://api.xgo.ing/rss/user/394acfaff8c44e09936f5bc0b8504f2c) — `https://api.xgo.ing/rss/user/394acfaff8c44e09936f5bc0b8504f2c`
-- [NVIDIA AI Blog](https://blogs.nvidia.com/feed) — `https://blogs.nvidia.com/feed`
-- [NVIDIA AI Blog](http://feeds.feedburner.com/nvidiablog) — `http://feeds.feedburner.com/nvidiablog`
-- [NVIDIA AI(@NVIDIAAI)](https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390) — `https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390`
-- [Nicholas Carlini](https://nicholas.carlini.com/writing/feed.xml) — `https://nicholas.carlini.com/writing/feed.xml`
-- [Nvidia Developer Blog](https://developer.nvidia.com/blog/feed) — `https://developer.nvidia.com/blog/feed`
-- [OpenAI Blog](https://openai.com/blog/rss.xml) — `https://openai.com/blog/rss.xml`
-- [OpenAI Blog](https://openai.com/news/rss.xml) — `https://openai.com/news/rss.xml`
-- [OpenAI(@OpenAI)](https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049) — `https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049`
-- [Qwen(@Alibaba_Qwen)](https://api.xgo.ing/rss/user/80032d016d654eb4afe741ff34b7643d) — `https://api.xgo.ing/rss/user/80032d016d654eb4afe741ff34b7643d`
-- [RL Reddit](https://www.reddit.com/r/reinforcementlearning/.rss?format=xml) — `https://www.reddit.com/r/reinforcementlearning/.rss?format=xml`
-- [RL paper review](https://dtransposed.github.io/feed.xml) — `https://dtransposed.github.io/feed.xml`
-- [Richard Socher(@RichardSocher)](https://api.xgo.ing/rss/user/4d2d4165a7524217a08d3f57f27fa190) — `https://api.xgo.ing/rss/user/4d2d4165a7524217a08d3f57f27fa190`
-- [Sebastian Raschka](https://magazine.sebastianraschka.com/feed) — `https://magazine.sebastianraschka.com/feed`
-- [Skywork(@Skywork_ai)](https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6) — `https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6`
-- [Stanford AI Lab(@StanfordAILab)](https://api.xgo.ing/rss/user/d5fc365556e641cba2278f501e8c6f92) — `https://api.xgo.ing/rss/user/d5fc365556e641cba2278f501e8c6f92`
-- [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/feed.xml) — `http://bair.berkeley.edu/blog/feed.xml`
-- [The singularity is nearer](https://geohot.github.io/blog/feed.xml) — `https://geohot.github.io/blog/feed.xml`
-- [Thomas Wolf(@Thom_Wolf)](https://api.xgo.ing/rss/user/4918efb13c47459b8dcaa79cfdf72d09) — `https://api.xgo.ing/rss/user/4918efb13c47459b8dcaa79cfdf72d09`
-- [Towards Data Science - Medium](https://towardsdatascience.com/feed) — `https://towardsdatascience.com/feed`
-- [Yann LeCun(@ylecun)](https://api.xgo.ing/rss/user/f5f4f928dede472ea55053672ad27ab6) — `https://api.xgo.ing/rss/user/f5f4f928dede472ea55053672ad27ab6`
-- [arXiv AI](https://rss.arxiv.org/rss/cs.AI) — `https://rss.arxiv.org/rss/cs.AI`
-- [lmarena.ai(@lmarena_ai)](https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5) — `https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5`
-- [the morning paper](https://blog.acolyer.org/feed) — `https://blog.acolyer.org/feed`
-- [xAI(@xai)](https://api.xgo.ing/rss/user/3953aa71e87a422eb9d7bf6ff1c7c43e) — `https://api.xgo.ing/rss/user/3953aa71e87a422eb9d7bf6ff1c7c43e`
+- [/r/css](https://www.reddit.com/r/css.rss)
+- [/r/javascript](https://www.reddit.com/r/javascript.rss)
+- [/r/reactjs](https://www.reddit.com/r/reactjs.rss)
+- [/r/vuejs](https://www.reddit.com/r/vuejs.rss)
+- [12 Days of Web](https://12daysofweb.dev/feed.xml)
+- [24 Accessibility](https://www.24a11y.com/feed)
+- [24 ways](https://feeds.feedburner.com/24ways)
+- [2ality – JavaScript and more](https://2ality.com/feeds/posts.atom)
+- [A Beautiful Site](https://www.abeautifulsite.net/feed/feed.xml)
+- [A Blog by Mike Conley](http://mikeconley.ca/blog/feed)
+- [A Frontend Journal](https://johannesodland.github.io/feed.xml)
+- [A List Apart: The Abridged Feed](https://alistapart.com/main/feed)
+- [A web performance blog](https://www.alexrp.co.uk/rss.xml)
+- [A-Frame](https://aframe.io/feed.xml)
+- [a11y with Lindsey](https://www.a11ywithlindsey.com/rss.xml)
+- [Aaron Gustafson: Posts](https://www.aaron-gustafson.com/feeds/latest-posts.xml)
+- [Aaron Powell](https://www.aaron-powell.com/posts/index.xml)
+- [Aaron T. Grogg](https://aarontgrogg.com/feed)
+- [Accelerated Mobile Pages Project](https://amphtml.wordpress.com/feed)
+- [Accessabilly](https://accessabilly.com/feed)
+- [Accessibility in government](https://accessibility.blog.gov.uk/feed/atom)
+- [Accessibility Wins](http://a11ywins.tumblr.com/rss)
+- [Accessible Dreams](https://accessibledreams.home.blog/feed)
+- [Adactio: Links](http://adactio.com/links/rss)
+- [Adam Argyle](https://nerdy.dev/rss.xml)
+- [Adam Lynch's blog](https://adamlynch.com/rss.xml)
+- [Adam Saucier](https://www.ajsaucier.com/feed.xml)
+- [Adam Silver](https://adamsilver.io/atom.xml)
+- [Adam Wathan's Blog](https://adamwathan.me/rss/index.xml)
+- [AdBlock Plus Blog](https://adblockplus.org/atom?section=blog)
+- [Addy Osmani](https://addyosmani.com/rss.xml)
+- [Adrian Roselli](https://adrianroselli.com/feed)
+- [Advancing WebRTC](https://blog.mozilla.org/webrtc/feed)
+- [Aerotwist Blog](http://aerotwist.com/blog/feed)
+- [Ahmed Shadeed](https://ishadeed.com/feed.xml)
+- [Aimee Knight](http://www.aimeemarieknight.com/feed.xml)
+- [AlastairC](https://alastairc.uk/feed)
+- [Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/feed.xml)
+- [Alex Lakatos - JavaScript, DevTools & DevRel](https://alexlakatos.com/feed.xml)
+- [Alex MacArthur's Blog](https://www.macarthur.me/rss/feed.xml)
+- [alice's blog](https://alice.pages.igalia.com/blog/feed/feed.xml)
+- [Allen Wirfs](http://www.wirfs-brock.com/allen/feed)
+- [Alvaro Montoro's website](https://alvaromontoro.com/feed.rss)
+- [Amber: Blog](https://amberwilson.co.uk/rss.xml)
+- [Amit Merchant](https://www.amitmerchant.com/feed.xml)
+- [AMP for WordPress](https://amp-wp.org/feed)
+- [anderegg.ca](https://anderegg.ca/feed.xml)
+- [Andrea Verlicchi](https://www.andreaverlicchi.eu/feed/feed.xml)
+- [AndreGarzia.com](https://andregarzia.com/feeds/all.atom.xml)
+- [Andrew Walpole's Blog](https://www.andrewwalpole.com/feed.xml)
+- [Andy Bell](https://andy-bell.co.uk/feed.xml)
+- [Andy Davies](http://feeds.feedburner.com/andydavies)
+- [Angular Blog](https://blog.angular.io/feed)
+- [Anne’s Blog](http://annevankesteren.nl/feeds/weblog)
+- [Anselm Hannemann’s Writings](https://helloanselm.com/feed/rss)
+- [Anthony Gore](https://vuejsdevelopers.com/atom.xml)
+- [Artem Sapegin’s Blog](http://blog.sapegin.me/atom.xml)
+- [article on Herding Lions](https://benmccormick.org/categories/article/feed.xml)
+- [Articles & Experiments by Roman Komarov](http://feeds.feedburner.com/kizuruen)
+- [Articles by Ryan Mulligan](https://ryanmulligan.dev/blog/feed.xml)
+- [Articles on Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/feed)
+- [Articles — For Web](https://forweb.dev/en/blog/feed.xml)
+- [Ashley Nolan](https://ashleynolan.co.uk/feed.xml)
+- [AshleyNolan.co.uk](http://feeds.feedburner.com/ashleynolan)
+- [Asif Youssuff](https://www.quippd.com/feed.xml)
+- [Astro Blog](https://astro.build/rss.xml)
+- [Austin Gil](https://austingil.com/feed)
+- [Austin Gil](https://stegosource.com/feed)
+- [Axess Lab](https://axesslab.com/feed)
+- [Aymen Loukil](https://www.aymen-loukil.com/en/feed)
+- [Baldur Bjarnason](https://www.baldurbjarnason.com/index.xml)
+- [BarrierBreak](https://www.barrierbreak.com/feed)
+- [Ben Frain](https://benfrain.com/feed)
+- [Ben McCormick](https://benmccormick.org/rss)
+- [Ben Myers](https://benmyers.dev/feed.xml)
+- [Ben Myers](https://blog.benmyers.dev/feed.xml)
+- [Ben Nadel](https://www.bennadel.com/rss)
+- [Benedikt Meurer](http://benediktmeurer.de/feed.xml)
+- [Benny Powers](https://dev.to/feed/bennypowers)
+- [bkardell.com rss feed](https://bkardell.com/blog/feed.rss)
+- [Blog Archive on Gideon Pyzer - Web Developer](https://gideonpyzer.dev/blog/index.xml)
+- [Blog Overview - TPGi](https://www.tpgi.com/blog/feed)
+- [Blog – WebKit](http://webkit.org/blog/feed)
+- [Blog-Main](https://www.boia.org/blog/rss.xml)
+- [blog.jim-nielsen.com](https://blog.jim-nielsen.com/feed.xml)
+- [Blog: Web Accessibility tips & tricks - The A11Y Collective](https://www.a11y-collective.com/blog/feed)
+- [Blogccasion](https://blog.tomayac.com/feed/feed.xml)
+- [Blogging and All that Malarkey (*)](https://stuffandnonsense.co.uk/blog/feed)
+- [Bootstrap Blog](https://blog.getbootstrap.com/feed.xml)
+- [Boris Schapira (Posts in English)](https://boris.schapira.dev/en/feed.xml)
+- [Boris Smus](http://feeds.feedburner.com/smuscom)
+- [Brad Frost](https://feeds.feedburner.com/brad-frosts-blog)
+- [Bram Smulders, Front-end UI developer](https://bram.is/feed.xml)
+- [Bram Van Damme](https://www.bram.us/feed)
+- [Brave's latest news on Brave Browser](https://brave.com/feed)
+- [Brian Birtles’ Blog](https://birtles.blog/feed.xml)
+- [Browser London](https://www.browserlondon.com/feed)
+- [browsers.fyi](https://www.browsers.fyi/feed)
+- [Bruce Lawson's  personal site](https://www.brucelawson.co.uk/feed)
+- [Bryan Braun - Frontend Developer](https://www.bryanbraun.com/rss.xml)
+- [bryanlrobinson.com](https://bryanlrobinson.com/feed.xml)
+- [brycewray.com](https://www.brycewray.com/index.xml)
+- [Building SPAs](https://www.carlrippon.com/rss.xml)
+- [Byungwoo’s Blog](https://blogs.igalia.com/blee/feed.xml)
+- [Calibre Blog](https://calibreapp.com/blog/rss.xml)
+- [Can I Use updates](https://feeds.feedburner.com/WhenCanIUse)
+- [Catalin Rosu](https://catalin.red/feed)
+- [Centre For Accessibility Australia](https://www.accessibility.org.au/feed)
+- [Charlotte Dann](https://charlottedann.com/rss.xml)
+- [Chip Cullen | Front End Developer](https://chipcullen.com/index.xml)
+- [Chris Coyier](http://feeds2.feedburner.com/ChrisCoyier)
+- [Christian Heilmann](https://christianheilmann.com/feed)
+- [Chrome Developer Blog](https://developer.chrome.com/blog/feed.xml)
+- [Chrome Story](https://www.chromestory.com/feed)
+- [Chromium Blog](http://blog.chromium.org/feeds/posts/default)
+- [Clagnut](http://clagnut.com/feeds/fullposts.xml)
+- [Clicktorelease](http://www.clicktorelease.com/rss.xml)
+- [Cloud Four](https://cloudfour.com/feed)
+- [Cloudinary Blog](http://feeds.feedburner.com/CloudinaryBlog)
+- [CodeinWP](https://www.codeinwp.com/feed)
+- [CodePen Blog](https://blog.codepen.io/feed)
+- [Coder's Block](https://codersblock.com/rss.xml)
+- [Codrops](https://tympanus.net/codrops/feed)
+- [Codrops Collective](https://tympanus.net/codrops/collective/feed)
+- [Component Kitchen](http://component.kitchen/feeds/blog.xml)
+- [Converge Accessibility](https://convergeaccessibility.com/feed)
+- [Coolfields Consulting](http://www.coolfields.co.uk/feed)
+- [Creative Juiz](https://www.creativejuiz.fr/blog/en/feed)
+- [CSS - Stack Overflow](https://stackoverflow.com/feeds/tag?sort=newest&tagnames=css)
+- [CSS Animation](http://cssanimation.rocks/feed.xml)
+- [CSS Articles by Temani Afif](https://css-articles.com/feed.xml)
+- [CSS Auditors RSS feed](https://css-auditors.com/rss.xml)
+- [CSS In Real Life](https://css-irl.info/rss.xml)
+- [CSS Mine](https://www.cssmine.com/rss)
+- [CSS Tip: Learn CSS the easy one](https://css-tip.com/feed/feed.xml)
+- [CSS WG Blog](https://www.w3.org/blog/CSS/feed/atom)
+- [CSS-Tricks](https://css-tricks.com/feed)
+- [CSS-Tricks](https://feeds.feedburner.com/CssTricks)
+- [CSSBattle Blog](https://cssbattle.dev/blog/feed/feed.xml)
+- [Dan Abramov's Overreacted Blog RSS Feed](https://overreacted.io/rss.xml)
+- [Dan Davies](https://www.dan-davies.co.uk/feed)
+- [Dan Wilson](http://danielcwilson.com/feed.xml)
+- [Dan's Blog](http://www.torgo.com/blog/feed)
+- [Dana Byerly](https://danabyerly.com/feed.xml)
+- [Daniel Worsnup](https://www.danielworsnup.com/rss.xml)
+- [Danny Guo](https://www.dannyguo.com/blog/feed.xml)
+- [Danny van Kooten](https://www.dannyvankooten.com/feed.xml)
+- [Darek Kay](https://darekkay.com/atom.xml)
+- [Darker Ink](https://darker.ink/feed.xml)
+- [Darryl Bayliss](https://darrylbayliss.net/feed.xml)
+- [Dave Ceddia](https://daveceddia.com/feed.xml)
+- [Dave Rupert](https://daverupert.com/atom.xml)
+- [David Baron's Weblog](https://dbaron.org/log/atom-feed)
+- [David Bushell](https://dbushell.com/rss.xml)
+- [David Flanagan](https://davidflanagan.com/feed.xml)
+- [David Walsh](https://davidwalsh.name/feed/atom)
+- [David Walsh Blog](http://feeds.feedburner.com/Bludice)
+- [David Walsh Blog](https://davidwalsh.name/feed)
+- [Dean Hume's Blog](http://feeds.feedburner.com/DeanHumesBlog)
+- [DebugBear Blog](https://www.debugbear.com/blog/feed/rss)
+- [Defensive CSS](https://defensivecss.dev/feed/feed.xml)
+- [Deque Accessibility Blog](https://www.deque.com/feed)
+- [Der Schepp](https://schepp.dev/feed/feed.xml)
+- [DEV Community 👩‍💻👨‍💻: hemanth.hm](https://dev.to/feed/hemanth)
+- [DEV Community 👩‍💻👨‍💻: Jane Ori](https://dev.to/feed/janeori)
+- [DEV Community 👩‍💻👨‍💻: Pascal Schilp](https://dev.to/feed/thepassle)
+- [DEV Community 👩‍💻👨‍💻: Taylor Hunt](https://dev.to/feed/tigt)
+- [DEV Community: Burton Smith](https://dev.to/feed/stuffbreaker)
+- [DEV Community: Francesco Vetere](https://dev.to/feed/francescovetere)
+- [DEV Community: GrahamTheDev](https://dev.to/feed/grahamthedev)
+- [DEV Community: Kevin Basset](https://dev.to/feed/progressier)
+- [DEV Community: Noam Rosenthal](https://dev.to/feed/noamr)
+- [Dev Tips by Nikita Dubko](https://mefody.dev/feed/rss.xml)
+- [developer.chrome.com: Blog](https://developer.chrome.com/static/blog/feed.xml)
+- [Dia(@diabrowser)](https://api.xgo.ing/rss/user/6384ee3c656c48fea5e8b3cdacece4d0)
+- [Dillion Megida's RSS Feed](https://dillionmegida.com/rss.xml)
+- [Dion Almaer](https://blog.almaer.com/feed)
+- [Dmitri Pavlutin](https://dmitripavlutin.com/rss.xml)
+- [Donovan's Blog - Hop.ie](http://hop.ie/feed.xml)
+- [Doug Sillars: Performance Expert and Developer Advocate](https://speakofthedevrel.cloud/feed)
+- [Dropbox Tech Blog](https://dropbox.tech/frontend/feed)
+- [DZone Web Dev](https://feeds.dzone.com/webdev)
+- [Echo JS](https://www.echojs.com/rss)
+- [ECMAScript Daily](https://ecmascript-daily.github.io/atom.xml)
+- [eleqtriq](http://w3.eleqtriq.com/feed)
+- [Email is good.](http://email-is-good.com/feed)
+- [Ember.js Blog](https://blog.emberjs.com/rss.xml)
+- [Eric Bailey](https://ericwbailey.design/feed/feed.xml)
+- [Eric Bidelman](https://ericbidelman.com/rss.xml)
+- [Eric Eggert (@yatil) on web accessibility and more.](https://yatil.net/feed)
+- [Eric Meyer](https://meyerweb.com/eric/thoughts/category/tech/rss2/full)
+- [Erik Runyon](https://erikrunyon.com/feed.xml)
+- [ESLint Blog](http://eslint.org/feed.xml)
+- [Ethan Marcotte’s website](https://ethanmarcotte.com/wrote/feed.xml)
+- [evanhahn.com](https://evanhahn.com/feed.xml)
+- [fantasai: Weblog](https://fantasai.inkedblade.net/weblog/all/rss2)
+- [FED Mentor](https://fedmentor.dev/feed/feed.xml)
+- [felix-arntz.me](https://felix-arntz.me/feed)
+- [Feross.org](https://feross.org/atom.xml)
+- [Fershad Irani](https://fershad.com/feed.xml)
+- [fettblog.eu | TypeScript, JavaScript, Jamstack](https://fettblog.eu/feed.xml)
+- [Firefox Add-ons Blog (*CORS issue)](https://addons.mozilla.org/blog/feed.xml)
+- [Firefox Developer Experience](https://fxdx.dev/feed)
+- [Firefox Nightly News](https://blog.nightly.mozilla.org/feed)
+- [Firefox Nightly Notes](https://www.mozilla.org/en-US/firefox/nightly/notes/feed)
+- [firt.dev](https://firt.dev/feed/feed.xml)
+- [Flavio Copes](https://flaviocopes.com/rss.xml)
+- [Florens Verschelde](https://fvsch.com/feed.xml)
+- [Florian’s Blog](http://florian.rivoal.net/blog/feed.xml)
+- [foobartel.com :: Stream](https://foobartel.com/stream/feed)
+- [Formidable Blog](https://formidable.com/rss.xml)
+- [Fotis Papadogeorgopoulos](https://fotis.xyz/feed/feed.xml)
+- [Frank M Taylor](https://blog.frankmtaylor.com/feed)
+- [Freedom Scientific](https://blog.freedomscientific.com/feed)
+- [Frontend Dogma](https://frontenddogma.com/feed)
+- [Frontend Masters Boost RSS Feed](https://frontendmasters.com/blog/feed)
+- [frontstuff](https://frontstuff.io/feed.xml)
+- [Fun with forms](https://funwithforms.com/feed/feed.xml)
+- [Future Releases](http://blog.mozilla.com/futurereleases/feed)
+- [Gatsby RSS feed](https://www.upyoura11y.com/rss.xml)
+- [Geoff Graham](https://geoffgraham.me/feed)
+- [GirlieMac! Blog](http://girliemac.com/feed.xml)
+- [Go Make Things](https://gomakethings.com/feed/index.xml)
+- [Google Chrome](https://blog.google/products/chrome/rss)
+- [Google Chrome News and extension reviews](https://www.ghacks.net/category/google-chrome-browsing/feed)
+- [Guillermo Rauch(@rauchg)](https://api.xgo.ing/rss/user/e8750659b8154dbfa0489f451e044af1)
+- [Gyuyoung Weblog](https://blogs.igalia.com/gyuyoung/feed)
+- [Hacker Noon - CSS](https://hackernoon.com/tagged/css/feed)
+- [Hacker Noon - Frontend](https://hackernoon.com/tagged/frontend/feed)
+- [Hacker Noon - JavaScript](https://hackernoon.com/tagged/javascript/feed)
+- [Hacker Noon - React](https://hackernoon.com/tagged/react/feed)
+- [Harry Cresswell](https://harrycresswell.com/articles/feed.xml)
+- [Harry Roberts](https://feeds.feedburner.com/csswizardry)
+- [Harry Wolff](https://hswolff.com/rss.xml)
+- [hayato](https://hayatoito.github.io/feed.xml)
+- [Heather Buchel](https://heather-buchel.com/feed/feed.xml)
+- [Hello my name is Niels Leenheer (*conn refused)](https://nielsleenheer.com/feed)
+- [Henri Sivonen’s pages](https://hsivonen.fi/feed/atom)
+- [Henrik Joreteg's Blog](https://joreteg.com/rss.xml)
+- [hey it's violet](https://vgpena.github.io/feed.xml)
+- [Heydon Pickering](https://heydonworks.com/feed.xml)
+- [Hi, I'm Heather Burns](https://webdevlaw.uk/feed)
+- [Hidde's blog](https://hidde.blog/feed)
+- [Hidden Variables](https://blog.domenic.me/atom.xml)
+- [hidecloud(@hidecloud)](https://api.xgo.ing/rss/user/23d41992b29340788aa3d09d8364c5f5)
+- [Houssein Djirdeh](http://houssein.me/feed.xml)
+- [Hristiyan Dodov](https://dodov.dev/feed)
+- [HTMHell](https://www.htmhell.dev/feed.xml)
+- [HTMHell Tips & Tricks](https://www.htmhell.dev/feed_tips.xml)
+- [HTML + CSS + JavaScript](http://feeds2.feedburner.com/HtmlCssJavascript)
+- [HTML Accessibility](https://html5accessibility.com/stuff/feed)
+- [Hugo Giraudel](https://hugogiraudel.com/rss)
+- [Hussein Al Hammad](https://hussein-alhammad.com/blog/rss.xml)
+- [i am schulz](https://iamschulz.com/index.xml)
+- [idoubi(@idoubicc)](https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65)
+- [Igalia](https://www.igalia.com/feed.xml)
+- [Igor Minar](https://igor.dev/feed/feed.xml)
+- [Impressive Webs](http://feeds2.feedburner.com/ImpressiveWebs)
+- [Improving Web Advertising Business Group](https://www.w3.org/community/web-adv/feed)
+- [in progress](http://cwilso.com/feed)
+- [Inclusive Components](https://inclusive-components.design/rss)
+- [InfoQ JavaScript](https://feed.infoq.com/javascript)
+- [Infrequently Noted](https://infrequently.org/feed)
+- [Internationalization Activity Blog](https://www.w3.org/blog/International/feed)
+- [Invalid CSS](https://www.silvestar.codes/rss3.xml)
+- [Ire Aderinokun](https://bitsofco.de/rss)
+- [Ivan Akulov’s blog](https://iamakulov.com/notes/feed)
+- [Jack Franklin](https://www.jackfranklin.co.uk/feed.xml)
+- [Jacobo's home at Igalia](https://blogs.igalia.com/jaragunde/feed)
+- [Jake Archibald](https://jakearchibald.com/posts.rss)
+- [Jake Tracey](https://jaketracey.com/rss.xml)
+- [jakelazaroff.com](https://jakelazaroff.com/rss.xml)
+- [James Sinclair](https://jrsinclair.com/index.rss)
+- [JavaScript on Tumblr](http://javascript.tumblr.com/rss)
+- [JavaScript Weekly](https://javascriptweekly.com/rss)
+- [Jeff Starr](https://feeds.feedburner.com/perishablepress)
+- [Jens Oliver Meiert](https://meiert.com/en/feed)
+- [Jeremy Keith (Articles)](https://adactio.com/articles/rss)
+- [Jeremy Keith (Journal)](https://adactio.com/journal/rss)
+- [Jerry Jones](https://jerryjones.dev/feed)
+- [Jess Budd](https://jessbudd.com/feed.xml)
+- [Jim Fisher’s blog](https://jameshfisher.com/feed.xml)
+- [jjenzz.com](https://jjenzz.com/rss.xml)
+- [Joe Dolson Web Accessibility](https://www.joedolson.com/feed)
+- [Jon Christopher](https://jonchristopher.us/feed)
+- [Jonathan Dallas](https://jwdallas.com/feed.xml)
+- [Jonathan Harrell RSS Feed](https://www.jonathan-harrell.com/rss.xml)
+- [Jonathan Neal](https://jonneal.dev/blog/rss.xml)
+- [Jonathan Snook](https://snook.ca/jonathan/index.rdf)
+- [Jonnie Hallman](https://destroytoday.com/feeds/all)
+- [Jonnie Hallman (@destroytoday)](http://feeds.feedburner.com/destroytoday)
+- [Josh Collinsworth](https://joshcollinsworth.com/api/rss.xml)
+- [Just Melanie from the Internet](https://melsumner.github.io/feed.xml)
+- [karlgroves.com](https://karlgroves.com/feed)
+- [Katz Got Your Tongue](http://yehudakatz.com/rss)
+- [Keith Cirkel](https://www.keithcirkel.co.uk/feed.xml)
+- [Keith Clark](http://keithclark.co.uk/feed.xml)
+- [Keith J. Grant](http://keithjgrant.com/posts/index.xml)
+- [Keith J. Grant: Notes](http://keithjgrant.com/notes/index.xml)
+- [Kent C. Dodds Blog](https://kentcdodds.com/blog/rss.xml)
+- [Kevin Farrugia](https://imkev.dev/feed)
+- [Kevin Pennekamp](https://crinkles.dev/feed/feed.xml)
+- [Kilian Valkhof](http://feeds.feedburner.com/Kilianvalkhofcom)
+- [Kilian Valkhof](https://kilianvalkhof.com/feed)
+- [Kirupa](https://www.kirupa.com/modular/kirupa.xml)
+- [Kitty Giraudel](https://kittygiraudel.com/rss/index.xml)
+- [Krasimir Tsonev](https://krasimirtsonev.com/blog/rss)
+- [La Lutine du Web](https://www.lalutineduweb.fr/en/feed)
+- [lamplightdev blog](https://lamplightdev.com/blog/atom.xml)
+- [Larry Masinter Musings](http://masinter.blogspot.com/feeds/posts/default)
+- [Laura Kalbag (*)](https://laurakalbag.com/posts/index.xml)
+- [Lea Verou](https://lea.verou.me/feed)
+- [Lea Verou’s blog](https://lea.verou.me/feed.xml)
+- [Lee Reamsnyder | Feed](https://www.leereamsnyder.com/rss.xml)
+- [Lene Saile - Web Development Blog](https://www.lenesaile.com/en/feed.xml)
+- [Lisi Linhart](https://lisilinhart.info/feed.xml)
+- [Lit Blog](https://lit.dev/blog/atom.xml)
+- [localghost.dev](https://localghost.dev/feed.xml)
+- [LogRocket](https://blog.logrocket.com/feed)
+- [Louis Lazaris](https://www.impressivewebs.com/feed)
+- [Lynn Fisher](https://lynnandtonic.com/feed.xml)
+- [MachMetrics Speed Blog](https://www.machmetrics.com/speed-blog/feed)
+- [make everything intensely](http://blogs.igalia.com/jfernandez/feed)
+- [Manorisms](http://feeds.feedburner.com/webdevnet)
+- [Marcus Herrmann](https://marcus.io/feed)
+- [MarcySutton.com RSS Feed](https://marcysutton.com/rss.xml)
+- [mariospr.org](https://mariospr.org/feed)
+- [Marius Schulz](https://feeds.feedburner.com/mariusschulz)
+- [Mark Erikson](https://blog.isquaredsoftware.com/index.xml)
+- [mark nottingham](http://www.mnot.net/blog/index.atom)
+- [Marko Saric](https://markosaric.com/feed)
+- [Martin Stransky's Blog](https://mastransky.wordpress.com/feed)
+- [martinwolf.org](https://martinwolf.org/feed)
+- [Marvin Hagemeister](https://marvinh.dev/feed.xml)
+- [Matej Latin](https://betterwebtype.com/feed.xml)
+- [Mathias Bynens](https://mathiasbynens.be/notes.atom)
+- [MathJax](https://www.mathjax.org/feed.xml)
+- [MathML in Web Browsers](https://mathml.igalia.com/feed.xml)
+- [MathML-Muses](https://mathmlmuses.netlify.app/feed)
+- [Matt Smith](http://allthingssmitty.com/atom.xml)
+- [Matt Zeunert Blog (Tech)](http://www.mattzeunert.com/tech.rss)
+- [Matthew Phillips Programming Blog](https://matthewphillips.info/programming/atom.xml)
+- [Matthew Somerville (dracos)](http://dracos.co.uk/feed)
+- [Max Kohler](https://www.maxkohler.com/feed.xml)
+- [Max Stoibers (@mxstbr) Thoughts](https://mxstbr.com/rss)
+- [Maxime Heckel's Blog](https://blog.maximeheckel.com/rss.xml)
+- [MDN Blog](https://developer.mozilla.org/en-US/blog/rss.xml)
+- [Melanie Richards](https://melanie-richards.com/feed.xml)
+- [michael gooding dot me](http://michaelgooding.me/feed)
+- [Michael Irigoyen](https://www.irigoyen.dev/feed.xml)
+- [Michael Scharnagl](https://justmarkup.com/feed/feed.xml)
+- [Michele Nasti](https://michelenasti.com/feed.xml)
+- [Microsoft Edge Blog](https://blogs.windows.com/msedgedev/feed)
+- [Mike Aparicio](https://www.mikeaparicio.com/feed.xml)
+- [Mike Riethmuller](https://www.madebymike.com.au/feed.xml)
+- [Mike Sherov](https://mike.sherov.com/rss.xml)
+- [Mike Taylr Dot Com Web Blog](https://miketaylr.com/posts/rss.xml)
+- [Mike West](https://mikewest.org/rss/index.xml)
+- [Minko Gechev's blog](http://blog.mgechev.com/feed.xml)
+- [Miriam Eric Suzanne](https://www.miriamsuzanne.com/feed.xml)
+- [Modern CSS Solutions](https://moderncss.dev/feed)
+- [molily](http://molily.de/feed.xml)
+- [Monica Dinculescu](http://meowni.ca/atom.xml)
+- [Mozilla Accessibility](https://blog.mozilla.org/accessibility/feed)
+- [Mozilla Add-ons Community Blog](https://blog.mozilla.org/addons/feed)
+- [Mozilla Gfx Team Blog](http://mozillagfx.wordpress.com/feed)
+- [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/feed)
+- [Mozilla L10N](http://blog.mozilla.com/l10n/feed)
+- [mpulp](https://mpulp.mobi/feed)
+- [Nerd (Vasilis)](https://vasilis.nl/nerd/feed)
+- [News and Blog](https://www.abilitynet.org.uk/news-blogs/feed.rss)
+- [Next.js Blog](https://nextjs.org/feed.xml)
+- [Nic Chan](https://www.nicchan.me/feed.xml)
+- [Nicholas C. Zakas](https://humanwhocodes.com/feeds/blog.xml)
+- [NicJ.net](http://feeds.feedburner.com/NicJ)
+- [Nick Scialli](https://typeofnan.dev/rss.xml)
+- [Nick St. Pierre(@nickfloats)](https://api.xgo.ing/rss/user/6ebdf0d91eef4c149acd0ef110635866)
+- [Nicolas Hoizey - Articles](https://nicolas-hoizey.com/feeds/articles.xml)
+- [Nicolas Hoizey - Links](https://nicolas-hoizey.com/feeds/links.xml)
+- [Nicole Sullivan](https://www.stubbornella.org/feed)
+- [Nikos blog](https://blogs.igalia.com/nzimmermann/index.xml)
+- [NoSleep Javascript Blog](https://nosleepjavascript.com/rss.xml)
+- [Now Stable across Chrome, Edge, Firefox, and Safari](https://time-to-stable.deno.dev/when-stable?browser-chrome=on&browser-edge=on&browser-firefox=on&browser-safari=on&feature-api=on&feature-css=on&feature-html=on&feature-javascript=on&type=rss)
+- [Nuxt Blog](https://nuxt.com/blog/rss.xml)
+- [nystudio107](https://nystudio107.com/blog/feed)
+- [Official jQuery Blog](http://blog.jquery.com/feed)
+- [Open Web Advocacy posts](https://open-web-advocacy.org/feed.xml)
+- [Open Web Docs blog](https://openwebdocs.org/feed.xml)
+- [Opera Desktop](https://www.opera.com/blogs/desktop/feed)
+- [Oriol Brufau’s blog](https://blogs.igalia.com/obrufau/feed.xml)
+- [otsukare](http://www.otsukare.info/feeds/atom.xml)
+- [Pam The Webivore](http://thewebivore.com/feed)
+- [Patrick Brosset](https://patrickbrosset.com/feed.xml)
+- [Paul Calvano](https://paulcalvano.com/feed.xml)
+- [Paul Irish](http://feeds.feedburner.com/paul-irish)
+- [Paul Kinlan](https://paul.kinlan.me/index.xml)
+- [pawelgrzybek.com](https://pawelgrzybek.com/feed.xml)
+- [PerfPerfPerf](https://3perf.com/rss.xml)
+- [Perishable Press](https://perishablepress.com/feed)
+- [Pete LePage](https://petelepage.com/feed/feed.xml)
+- [Peter Beverloo](https://peter.sh/feed)
+- [Peter Gasston](https://petergasston.co.uk/feed)
+- [Peter O'Shaughnessy](https://peteroshaughnessy.com/rss.xml)
+- [Phil Nash](https://philna.sh/feed.xml)
+- [Philip Walton](https://feeds.feedburner.com/philipwalton)
+- [Piccalilli](https://piccalil.li/feed.xml)
+- [Polypane Blog](https://polypane.app/rss.xml)
+- [PostCSS Preset Env - CSSTools](https://preset-env.cssdb.org/feed)
+- [Posts by Ashlee M Boyer](https://ashleemboyer.com/rss.xml)
+- [PQINA](https://pqina.nl/feed.xml)
+- [PWABuilder Blog](https://blog.pwabuilder.com/feed.xml)
+- [Rach Smith's digital garden](https://rachsmith.com/rss)
+- [Rachel Andrew](https://rachelandrew.co.uk/archives/rss.php)
+- [Rachele DiTullio](https://racheleditullio.com/feed)
+- [rachelnabors.github.io](http://feeds.feedburner.com/RachelNabors)
+- [Raghavendra Satish Peri](https://www.digitala11y.com/feed)
+- [Random Notes from kizu.dev](https://blog.kizu.dev/rss.xml)
+- [Raymond Camden](https://www.raymondcamden.com/feed.xml)
+- [React Blog](https://react.dev/rss.xml)
+- [React Blog](https://reactjs.org/feed.xml)
+- [Read the Tea Leaves](http://nolanlawson.com/feed)
+- [Recent Commits to aom:gh-pages](https://github.com/WICG/aom/commits/gh-pages.atom)
+- [Recent Commits to aria:main](https://github.com/w3c/aria/commits/main.atom)
+- [Recent Commits to background-fetch:gh-pages](https://github.com/WICG/background-fetch/commits/gh-pages.atom)
+- [Recent Commits to compat:main](https://github.com/whatwg/compat/commits/main.atom)
+- [Recent Commits to console:main](https://github.com/whatwg/console/commits/main.atom)
+- [Recent Commits to css-houdini-drafts:main](https://github.com/w3c/css-houdini-drafts/commits/main.atom)
+- [Recent Commits to csswg-drafts:main](https://github.com/w3c/csswg-drafts/commits/main.atom)
+- [Recent Commits to design-principles:main](https://github.com/w3ctag/design-principles/commits/main.atom)
+- [Recent Commits to dom:main](https://github.com/whatwg/dom/commits/main.atom)
+- [Recent Commits to ecma262:main](https://github.com/tc39/ecma262/commits/main.atom)
+- [Recent Commits to fetch:main](https://github.com/whatwg/fetch/commits/main.atom)
+- [Recent Commits to fs:main](https://github.com/whatwg/fs/commits/main.atom)
+- [Recent Commits to fullscreen:main](https://github.com/whatwg/fullscreen/commits/main.atom)
+- [Recent Commits to fxtf-drafts:main](https://github.com/w3c/fxtf-drafts/commits/main.atom)
+- [Recent Commits to html-aria:gh-pages](https://github.com/w3c/html-aria/commits/gh-pages.atom)
+- [Recent Commits to html:main](https://github.com/whatwg/html/commits/main.atom)
+- [Recent Commits to infra:main](https://github.com/whatwg/infra/commits/main.atom)
+- [Recent Commits to manifest-app-info:main](https://github.com/w3c/manifest-app-info/commits/main.atom)
+- [Recent Commits to manifest:gh-pages](https://github.com/w3c/manifest/commits/gh-pages.atom)
+- [Recent Commits to netinfo:gh-pages](https://github.com/WICG/netinfo/commits/gh-pages.atom)
+- [Recent Commits to notifications:main](https://github.com/whatwg/notifications/commits/main.atom)
+- [Recent Commits to picture-in-picture:main](https://github.com/w3c/picture-in-picture/commits/main.atom)
+- [Recent Commits to proposals:main](https://github.com/tc39/proposals/commits/main.atom)
+- [Recent Commits to resize-observer:master](https://github.com/WICG/ResizeObserver/commits/master.atom)
+- [Recent Commits to shape-detection-api:gh-pages](https://github.com/WICG/shape-detection-api/commits/gh-pages.atom)
+- [Recent Commits to storage:main](https://github.com/whatwg/storage/commits/main.atom)
+- [Recent Commits to url:main](https://github.com/whatwg/url/commits/main.atom)
+- [Recent Commits to using-aria:gh-pages](https://github.com/w3c/using-aria/commits/gh-pages.atom)
+- [Recent Commits to visual-viewport:gh-pages](https://github.com/WICG/visual-viewport/commits/gh-pages.atom)
+- [Recent Commits to web-share-target:main](https://github.com/w3c/web-share-target/commits/main.atom)
+- [Recent Commits to web-share:main](https://github.com/w3c/web-share/commits/main.atom)
+- [Recent Commits to webappsec-csp:main](https://github.com/w3c/webappsec-csp/commits/main.atom)
+- [Recent Commits to webappsec-permissions-policy:main](https://github.com/w3c/webappsec-permissions-policy/commits/main.atom)
+- [Recent Commits to webidl:main](https://github.com/whatwg/webidl/commits/main.atom)
+- [Recent Commits to xhr:main](https://github.com/whatwg/xhr/commits/main.atom)
+- [Red Onion – Professional Web Development](https://redonion.se/en/feed)
+- [Reginald Braithwaite](https://raganwald.com/atom.xml)
+- [Rego's Everyday Life](http://blogs.igalia.com/mrego/feed.xml)
+- [Release notes from autoprefixer](https://github.com/postcss/autoprefixer/releases.atom)
+- [Release notes from html5-boilerplate](https://github.com/h5bp/html5-boilerplate/releases.atom)
+- [remy sharp's b:log](https://remysharp.com/feed.xml)
+- [remy sharp's l:inks](https://feeds.remysharp.com/links.xml)
+- [Rey Bango](http://blog.reybango.com/feed)
+- [Rick Strahl's Web Log](http://feeds.feedburner.com/rickstrahl)
+- [Ricky Mondello](https://rmondello.com/feed)
+- [roadtolarissa](https://roadtolarissa.com/rss.xml)
+- [Rob Dodson (*)](https://robdodson.me/feed.xml)
+- [Rob Eisenberg](https://medium.com/feed/@eisenbergeffect)
+- [Rob Larsen](https://htmlcssjavascript.com/feed)
+- [Robb Owen Digital](https://robbowen.digital/feed.xml)
+- [Robert Nyman](https://feeds.feedburner.com/robertnyman)
+- [Robin Berjon](https://berjon.com/feed.atom)
+- [Robin Osborne](https://www.robinosborne.co.uk/feed)
+- [Robin Wieruch](https://www.robinwieruch.de/index.xml)
+- [Rodrigo Pombo](https://pomb.us/rss.xml)
+- [Romaric Pascal](https://romaricpascal.is/feed.xml)
+- [rviscomi.dev](https://rviscomi.dev/feed)
+- [Ryan Seddon](https://thecssninja.com/index.xml)
+- [Sally Lait - blog](https://sallylait.com/blog/index.xml)
+- [Samsung Internet Developers](https://medium.com/feed/samsung-internet-dev)
+- [Sara Joy](https://sarajoy.dev/rss.xml)
+- [Sara Soueidan – Blog](https://www.sarasoueidan.com/blog/index.xml)
+- [Sarah Fossheim's Blog](https://fossheim.io/feed.xml)
+- [Sarah Gebauer](https://www.sarahgebauer.com/feed.xml)
+- [Sarah Higley](https://sarahmhigley.com/feed.xml)
+- [Sass Blog](https://sass-lang.com/feed.xml)
+- [Scott Jehl: Posts](https://scottjehl.com/feed.xml)
+- [Scott O'Hara](https://www.scottohara.me/feed.xml)
+- [screenspan.net](https://screenspan.net/rss.xml)
+- [Search](https://search.googleblog.com/feeds/posts/default)
+- [Sebastian De Deyne](https://sebastiandedeyne.com/index.xml)
+- [Serg Hospodarets Blog](https://hospodarets.com/feed.xml)
+- [Servo Blog](https://servo.org/blog/feed.xml)
+- [Sheri Byrne-Haber’s Blog](https://sheribyrnehaber.com/feed)
+- [shortdiv.com](http://shortdiv.com/index.xml)
+- [Sia Karamalegos, Web Performance](https://sia.codes/feed/feed.xml)
+- [silverorange blog](https://blog.silverorange.com/feed)
+- [Simo Ahava](https://www.simoahava.com/index.xml)
+- [Simon Hearne](https://simonhearne.com/feed/feed.xml)
+- [Simplified](https://simplified.dev/rss.xml)
+- [Sink In - Tech and Travel](https://gosink.in/rss)
+- [Sitepen](https://www.sitepen.com/rss.xml)
+- [SitePoint](https://www.sitepoint.com/feed)
+- [SitePoint](https://www.sitepoint.com/sitepoint.rss)
+- [Smashing Magazine](http://rss1.smashingmagazine.com/feed)
+- [Snook.ca](https://snook.ca/posts/index.rss)
+- [soeren-hentzschel.at](http://www.soeren-hentzschel.at/feed)
+- [Sophie Alpert](https://sophiebits.com/atom.xml)
+- [Speed Matters Blog](https://speedcurve.com/blog/rss)
+- [StackBlitz Blog](https://blog.stackblitz.com/rss.xml)
+- [Stefan Judis Web Development](https://www.stefanjudis.com/rss.xml)
+- [Stephanie Eckles](https://thinkdobecreate.com/feed)
+- [Stephanie's Design and Technical Musings](https://blog.stephaniestimac.com/feed/feed.xml)
+- [Stories by Addy Osmani on Medium](https://medium.com/feed/@addyosmani)
+- [Stories by Andrea Giammarchi on Medium](https://medium.com/feed/@WebReflection)
+- [Stories by Ben Francis on Medium](https://medium.com/feed/@bfrancis)
+- [Stories by Jeffrey Yasskin on Medium](https://medium.com/feed/@jyasskin)
+- [Stories by Jo Franchetti on Medium](https://medium.com/feed/@jofranchetti)
+- [Stories by Nicholas C. Zakas on Medium](https://medium.com/feed/@slicknet)
+- [Stoyan Stefanov](https://www.phpied.com/feed)
+- [stream of bytes](http://diary.braniecki.net/feed)
+- [Svelte Blog](https://svelte.dev/blog/rss.xml)
+- [swyx.io blog](https://www.swyx.io/rss.xml)
+- [Tab Atkins](https://www.xanthir.com/blog/atom)
+- [Tailwind CSS Blog](https://tailwindcss.com/feeds/feed.xml)
+- [Tan Li Hau's Blog](https://lihautan.com/rss.xml)
+- [Tangled Web](https://tangledweb.xyz/feed)
+- [Tania Rascia | RSS Feed](https://www.taniarascia.com/rss.xml)
+- [Tatiana Mac](https://tatianamac.com/feed/feed.xml)
+- [Tech @ Cliqz](https://0x65.dev/rss.xml)
+- [Telerik](https://feeds.telerik.com/blogs)
+- [tempertemper](https://www.tempertemper.net/feeds/main.xml)
+- [Terrill Thompson](https://terrillthompson.com/feed)
+- [Testing Accessibility](https://testingaccessibility.com/rss.xml)
+- [TetraLogical Blog](https://tetralogical.com/feed.xml)
+- [tgvashworth](http://phuu.net/atom.xml)
+- [That HTML Blog](https://thathtml.blog/feed.xml)
+- [The A11Y Project](https://www.a11yproject.com/feed/feed.xml)
+- [The AMP Blog](https://blog.amp.dev/feed)
+- [The blog of Maxi Ferreira](https://www.maxiferreira.com/rss.xml)
+- [The blog of Seva Zaikov](http://blog.bloomca.me/atom.xml)
+- [The Every Layout Blog](https://every-layout.dev/feed.xml)
+- [the frontendian](https://frontendian.co/feed.xml)
+- [The History of the Web](http://thehistoryoftheweb.com/feed)
+- [The Mozilla Blog](https://blog.mozilla.org/feed)
+- [The other side of the moon](http://feeds.feedburner.com/bluestech)
+- [The Speed of Thought](https://phabricator.wikimedia.org/phame/blog/feed/7)
+- [The Spicy Web](https://www.spicyweb.dev/feed.xml)
+- [The Unicode Blog](http://blog.unicode.org/feeds/posts/default)
+- [TheNewToys.dev RSS Feed](https://thenewtoys.dev/rss.xml)
+- [Theresa O’Connor](https://tess.oconnor.cx/feed)
+- [thirty-four](https://jeffy.info/feed.xml)
+- [Thomas Park](https://thomaspark.co/feed)
+- [Tiffany B. Brown](http://tiffanybbrown.com/feeds/all.atom.xml)
+- [Tim Brown](http://tbrown.org/feed.xml)
+- [Tim Kadlec](http://timkadlec.com/atom.xml)
+- [Tim Kadlec](https://timkadlec.com/remembers/atom.xml)
+- [Tim's website](https://timdaub.github.io/atom.xml)
+- [Timo Tijhof](https://timotijhof.net/feed)
+- [TJ VanToll's Blog](http://tjvantoll.com/feed.xml)
+- [TojiCode](http://blog.tojicode.com/feeds/posts/default)
+- [tollwerk Blog](https://tollwerk.de/blog.atom)
+- [Tom's Homepage](https://ttntm.me/feed.xml)
+- [tom.vg | Blog](https://tom.vg/feed.xml)
+- [tomekdev](https://tomekdev.com/rss.xml)
+- [Tomer Aberbach](https://tomeraberba.ch/rss.xml)
+- [Treehouse Blog](https://blog.teamtreehouse.com/feed)
+- [Trent Walton](https://trentwalton.com/feed.xml)
+- [Trys Mudford's Blog](https://www.trysmudford.com/blog/index.xml)
+- [TuneTheWeb Blog](https://www.tunetheweb.com/rss.xml)
+- [Tuts+ Code](https://code.tutsplus.com/posts.atom)
+- [twnsnd](https://www.twnsnd.com/feed.xml)
+- [Tyler Gaw's blog](http://tylergaw.com/rss.xml)
+- [TypeScript Blog](https://devblogs.microsoft.com/typescript/feed)
+- [Una Kravets Online](https://una.im/rss.xml)
+- [Uncaught Reference Error Blog](http://uncaughtreferenceerror.com/rss.xml)
+- [Use Tables!](http://www.gijsk.com/blog/feed)
+- [User Agent Man](http://www.useragentman.com/blog/feed)
+- [Utopia](https://utopia.fyi/feed.xml)
+- [V8 Blog](https://v8.dev/blog.atom)
+- [Vadim Makeev](https://pepelsbey.dev/feed)
+- [Vanseo Design](https://vanseodesign.com/feed)
+- [Varun Vachhar](https://varun.ca/rss.xml)
+- [Vercel News](https://vercel.com/atom)
+- [Viget Articles](https://feeds.feedburner.com/Viget)
+- [Vincent De Oliveira - CSS, SVG, UI & Maps](https://iamvdo.me/en/rss)
+- [Virtual Reality](https://blogs.igalia.com/svillar/index.xml)
+- [Vue Blog](https://blog.vuejs.org/feed.rss)
+- [Vue Blog](https://medium.com/feed/the-vue-point)
+- [Vue News](https://news.vuejs.org/feed.xml)
+- [W3C Blog](https://www.w3.org/blog/feed)
+- [W3C News](https://www.w3.org/blog/news/feed)
+- [Wasm Labs at VMware OCTO](https://wasmlabs.dev/rss.xml)
+- [Web - Engineering at Meta](https://engineering.fb.com/category/web/feed)
+- [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/feed.xml)
+- [Web Axe](http://www.webaxe.org/feed)
+- [Web Browser Engineering](https://browser.engineering/rss.xml)
+- [Web Components bookmarks](https://webcomponents.today/feed.xml)
+- [Web Development History](https://webdevelopmenthistory.com/feed)
+- [Web Performance Calendar](https://calendar.perfplanet.com/feed)
+- [Web Performance Tips](https://www.webperf.tips/rss.xml)
+- [Web Platform News](https://webplatform.news/feed.xml)
+- [Web Reflection](http://webreflection.blogspot.com/feeds/posts/default)
+- [web.dev](https://web.dev/feed.xml)
+- [web.dev: Articles](https://web.dev/static/articles/feed.xml)
+- [web.dev: Blog](https://web.dev/static/blog/feed.xml)
+- [WebAIM Blog](https://webaim.org/blog/feed)
+- [Webbed Briefs](https://briefs.video/feed.xml)
+- [WebGL Fundamentals](https://webglfundamentals.org/atom.xml)
+- [Webinista](https://webinista.com/updates/feeds/all.atom.xml)
+- [WebKit Blog](https://webkit.org/feed)
+- [Webmaster Blog](http://blogs.bing.com/webmaster/feed)
+- [webrtcHacks](http://www.webrtchacks.com/?feed=atom)
+- [Webventures](https://webventures.rejh.nl/feed.xml)
+- [Weston Ruter](https://weston.ruter.net/feed)
+- [WHATWG Blog](https://blog.whatwg.org/feed)
+- [Wolvic Blog](https://wolvic.com/blog/feed.xml)
+- [WordPress Developer Blog](https://developer.wordpress.org/news/feed)
+- [Working in the open with W3C and Studio 24](https://w3c.studio24.net/feeds/updates.xml)
+- [WPEwebkit.org](https://wpewebkit.org/feed.xml)
+- [Yoav's blog thing](https://blog.yoav.ws/feed/feed.xml)
+- [Zach Leatherman](https://www.zachleat.com/web/feed)
+- [Zeldman on Web and Interaction Design](https://www.zeldman.com/feed)
+- [Zell Liew](https://zellwk.com/rss.xml)
+- [Ziran Sun’s blog](https://blogs.igalia.com/zsun/feed)
+- [📚 Nitay Neeman's Blog | JavaScript • Angular • RxJS](https://nitayneeman.com/index.xml)
+- [🤓Jecelyn Yeen 🤓](https://jec.fish/index.xml)
 
-### 🧩 AI Tools & Agents / LLM (81)
+## 🛠️ Developer Tools (262)
 
-- [AI Breakfast(@AiBreakfast)](https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b) — `https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b`
-- [AI Engineer(@aiDotEngineer)](https://api.xgo.ing/rss/user/7d19a619a1cc4a9896129211269d2c85) — `https://api.xgo.ing/rss/user/7d19a619a1cc4a9896129211269d2c85`
-- [AI SDK(@aisdk)](https://api.xgo.ing/rss/user/22af005b21ec45b1a4503acca777b7f0) — `https://api.xgo.ing/rss/user/22af005b21ec45b1a4503acca777b7f0`
-- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/amazon-ai/feed) — `https://aws.amazon.com/blogs/amazon-ai/feed`
-- [Aravind Srinivas(@AravSrinivas)](https://api.xgo.ing/rss/user/59e6b63ae9684d11be0ae13d9e7420f2) — `https://api.xgo.ing/rss/user/59e6b63ae9684d11be0ae13d9e7420f2`
-- [Augment Code(@augmentcode)](https://api.xgo.ing/rss/user/e153fdd077df458b8298d975c060dcc3) — `https://api.xgo.ing/rss/user/e153fdd077df458b8298d975c060dcc3`
-- [Barsee 🐶(@heyBarsee)](https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4) — `https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4`
-- [Ben's Bites](https://www.bensbites.com/feed) — `https://www.bensbites.com/feed`
-- [Blog AI Trends](https://www.aitrends.com/feed) — `https://www.aitrends.com/feed`
-- [Blog AI Weirdness](https://aiweirdness.com/rss) — `https://aiweirdness.com/rss`
-- [Character.AI(@character_ai)](https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d) — `https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d`
-- [ChatGPT(@ChatGPTapp)](https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4) — `https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4`
-- [Claude(@claudeai)](https://api.xgo.ing/rss/user/01f60d63a61b44d692cc35c7feb0b4a4) — `https://api.xgo.ing/rss/user/01f60d63a61b44d692cc35c7feb0b4a4`
-- [Cognition(@cognition_labs)](https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7) — `https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7`
-- [Cursor(@cursor_ai)](https://api.xgo.ing/rss/user/5287b4e0e13a4ab7ab7b1d56f9d88960) — `https://api.xgo.ing/rss/user/5287b4e0e13a4ab7ab7b1d56f9d88960`
-- [DeepLearning.AI(@DeepLearningAI)](https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177) — `https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177`
-- [Dify(@dify_ai)](https://api.xgo.ing/rss/user/0be252fedbe84ad7bea21be44b18da89) — `https://api.xgo.ing/rss/user/0be252fedbe84ad7bea21be44b18da89`
-- [ElevenLabs Blog](https://api.bestblogs.dev/feed/elevenLabsBlog) — `https://api.bestblogs.dev/feed/elevenLabsBlog`
-- [Fellou(@FellouAI)](https://api.xgo.ing/rss/user/326763c2f6154826babcfd71c5ab0f70) — `https://api.xgo.ing/rss/user/326763c2f6154826babcfd71c5ab0f70`
-- [Firecrawl(@firecrawl_dev)](https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614) — `https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614`
-- [Fireworks AI(@FireworksAI_HQ)](https://api.xgo.ing/rss/user/9f35c76341554bd78c2b9e63dc4fa5d8) — `https://api.xgo.ing/rss/user/9f35c76341554bd78c2b9e63dc4fa5d8`
-- [FlowiseAI(@FlowiseAI)](https://api.xgo.ing/rss/user/be74da51698d4cefb12b39830d6cd201) — `https://api.xgo.ing/rss/user/be74da51698d4cefb12b39830d6cd201`
-- [Genspark(@genspark_ai)](https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011) — `https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011`
-- [Google AI Developers(@googleaidevs)](https://api.xgo.ing/rss/user/69d925d4a8d44221b03eecbe07bd0f74) — `https://api.xgo.ing/rss/user/69d925d4a8d44221b03eecbe07bd0f74`
-- [Google Gemini App(@GeminiApp)](https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d) — `https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d`
-- [Groq Inc(@GroqInc)](https://api.xgo.ing/rss/user/771b32075fe54a83bdb6966de9647b4f) — `https://api.xgo.ing/rss/user/771b32075fe54a83bdb6966de9647b4f`
-- [Hacker News AI](https://hnrss.org/newest?q=AI) — `https://hnrss.org/newest?q=AI`
-- [Hailuo AI (MiniMax)(@Hailuo_AI)](https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8) — `https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8`
-- [Harrison Chase(@hwchase17)](https://api.xgo.ing/rss/user/f299207df53745bca04a03db8d11c5aa) — `https://api.xgo.ing/rss/user/f299207df53745bca04a03db8d11c5aa`
-- [HeyGen(@HeyGen_Official)](https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db) — `https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db`
-- [Hugging Face(@huggingface)](https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f) — `https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f`
-- [Ideogram(@ideogram_ai)](https://api.xgo.ing/rss/user/a719880fe66e4156a111187f50dae91b) — `https://api.xgo.ing/rss/user/a719880fe66e4156a111187f50dae91b`
-- [Jina AI(@JinaAI_)](https://api.xgo.ing/rss/user/f510f6e7eecf456ca7e2895a46752888) — `https://api.xgo.ing/rss/user/f510f6e7eecf456ca7e2895a46752888`
-- [Julien Chaumond(@julien_c)](https://api.xgo.ing/rss/user/44d9fa384087448a94d3c8595f8d535e) — `https://api.xgo.ing/rss/user/44d9fa384087448a94d3c8595f8d535e`
-- [Kevin Weil 🇺🇸(@kevinweil)](https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c) — `https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c`
-- [Kling AI(@Kling_ai)](https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888) — `https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888`
-- [LangChain(@LangChainAI)](https://api.xgo.ing/rss/user/862fee50a745423c87e2633b274caf1d) — `https://api.xgo.ing/rss/user/862fee50a745423c87e2633b274caf1d`
-- [Last Week in AI](https://lastweekin.ai/feed) — `https://lastweekin.ai/feed`
-- [LlamaIndex 🦙(@llama_index)](https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2) — `https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2`
-- [Logan Kilpatrick(@OfficialLoganK)](https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe) — `https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe`
-- [Lovable(@lovable_dev)](https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767) — `https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767`
-- [LovartAI(@lovart_ai)](https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2) — `https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2`
-- [ML in production](https://mlinproduction.com/feed) — `https://mlinproduction.com/feed`
-- [Machine Learning Mastery](http://machinelearningmastery.com/blog/feed) — `http://machinelearningmastery.com/blog/feed`
-- [ManusAI(@ManusAI_HQ)](https://api.xgo.ing/rss/user/320181c4651a41a08015946b55f704ab) — `https://api.xgo.ing/rss/user/320181c4651a41a08015946b55f704ab`
-- [Medium - Artificial Intelligence Magazine](https://becominghuman.ai/feed) — `https://becominghuman.ai/feed`
-- [Midjourney(@midjourney)](https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d) — `https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d`
-- [Milvus(@milvusio)](https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade) — `https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade`
-- [NotebookLM(@NotebookLM)](https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0) — `https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0`
-- [OpenAI Developers(@OpenAIDevs)](https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55) — `https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55`
-- [OpenRouter(@OpenRouterAI)](https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4) — `https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4`
-- [Patrick Loeber(@patloeber)](https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f) — `https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f`
-- [Paul Couvert(@itsPaulAi)](https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f) — `https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f`
-- [Perplexity(@perplexity_ai)](https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c) — `https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c`
-- [Philipp Schmid(@_philschmid)](https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2) — `https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2`
-- [Pika(@pika_labs)](https://api.xgo.ing/rss/user/3306d8b253ec4e03aca3c2e9967e7119) — `https://api.xgo.ing/rss/user/3306d8b253ec4e03aca3c2e9967e7119`
-- [Poe(@poe_platform)](https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28) — `https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28`
-- [PromptLayer](https://blog.promptlayer.com/rss) — `https://blog.promptlayer.com/rss`
-- [PyTorch](https://pytorch.org/feed) — `https://pytorch.org/feed`
-- [Qdrant](https://qdrant.tech/index.xml) — `https://qdrant.tech/index.xml`
-- [Qdrant(@qdrant_engine)](https://api.xgo.ing/rss/user/a55f6e33dd224235aabaabaaf9d58a06) — `https://api.xgo.ing/rss/user/a55f6e33dd224235aabaabaaf9d58a06`
-- [Recraft(@recraftai)](https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b) — `https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b`
-- [Replicate(@replicate)](https://api.xgo.ing/rss/user/12eba9c3db4940c5ab2a72bd00f9ff2c) — `https://api.xgo.ing/rss/user/12eba9c3db4940c5ab2a72bd00f9ff2c`
-- [Rowan Cheung(@rowancheung)](https://api.xgo.ing/rss/user/a636de3cbda0495daabd15b9fd298614) — `https://api.xgo.ing/rss/user/a636de3cbda0495daabd15b9fd298614`
-- [Runway(@runwayml)](https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820) — `https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820`
-- [Sam Altman(@sama)](https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927) — `https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927`
-- [Science Daily AI News](https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml) — `https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml`
-- [Scott Wu(@ScottWu46)](https://api.xgo.ing/rss/user/5fca8ccd87344d388bc863304ed6fd86) — `https://api.xgo.ing/rss/user/5fca8ccd87344d388bc863304ed6fd86`
-- [Simon Willison's Weblog](https://simonwillison.net/atom/everything) — `https://simonwillison.net/atom/everything`
-- [Simon Willison(@simonw)](https://api.xgo.ing/rss/user/30ad80be93c84e44acc37d5ddf31db57) — `https://api.xgo.ing/rss/user/30ad80be93c84e44acc37d5ddf31db57`
-- [Singularity Hub](https://singularityhub.com/feed) — `https://singularityhub.com/feed`
-- [The Gradient](https://thegradient.pub/rss) — `https://thegradient.pub/rss`
-- [The Rundown AI(@TheRundownAI)](https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7) — `https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7`
-- [VentureBeat AI](https://venturebeat.com/category/ai/feed) — `https://venturebeat.com/category/ai/feed`
-- [Windsurf(@windsurf_ai)](https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf) — `https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf`
-- [clem 🤗(@ClementDelangue)](https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b) — `https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b`
-- [cohere(@cohere)](https://api.xgo.ing/rss/user/462aa134ed914f98b3491680ad9b36ed) — `https://api.xgo.ing/rss/user/462aa134ed914f98b3491680ad9b36ed`
-- [mem0(@mem0ai)](https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116) — `https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116`
-- [minimaxir (Max Woolf)](https://minimaxir.com/index.xml) — `https://minimaxir.com/index.xml`
-- [ollama(@ollama)](https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2) — `https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2`
-- [orange.ai(@oran_ge)](https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7) — `https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7`
+- [30 seconds of code](https://www.30secondsofcode.org/feed)
+- [@lachlanjc/notebook](https://notebook.lachlanjc.com/feed.xml)
+- [a real poke in the eye… oh…](https://pokeinthe.io/feeds/all.atom.xml)
+- [Alex Plescan](https://alexplescan.com/feed.xml)
+- [Alex.Party](https://alex.party/rss.xml)
+- [Alexander Lehner – Oida, is des org!](https://oidaisdes.org/rss.xml)
+- [alexsci.com blog](https://alexsci.com/blog/rss.xml)
+- [Andre Bandarra's Blog](https://bandarra.me/feed/feed.xml)
+- [Andy Piper](https://dev.to/feed/andypiper)
+- [ariya.io](https://ariya.io/index.xml)
+- [as days pass by](http://www.kryogenix.org/days/feed)
+- [Augmented Code](https://augmentedcode.io/feed)
+- [Auth0 Blog](https://auth0.com/blog/rss.xml)
+- [Babel.js Blog](https://babeljs.io/blog/atom.xml)
+- [Ben Francis](https://tola.me.uk/blog/feed)
+- [Bendyworks Blog](https://bendyworks.com/feed/rss.xml)
+- [Better Programming - Medium](https://medium.com/feed/better-programming)
+- [Better world by better software](http://glebbahmutov.com/blog/atom.xml)
+- [Blobfolio](https://blobfolio.com/feed.xml)
+- [Blobs in Games](https://simblob.blogspot.com/feeds/posts/default)
+- [blog](https://blog.paul.cx/index.xml)
+- [blog](https://ferjm.github.io/feed.xml)
+- [Blog - craigabbott.co.uk](https://www.craigabbott.co.uk/feed.xml)
+- [Blog - James Mead](http://feeds.jamesmead.org/floehopper-blog)
+- [Blog by Vesa Piittinen](https://vesa.piittinen.name/blog/rss.xml)
+- [Blog on Optimal](https://thisisoptimal.com/blog/index.xml)
+- [Blog on Reorx’s Forge](https://reorx.com/blog/feed.xml)
+- [Blog on Timmy Kokke](https://timmykokke.com/blog/index.xml)
+- [Blog | Beleaf](https://beleaf.au/blog/feed)
+- [blog | jfhr](https://jfhr.me/index.rss)
+- [Blog – coreycleary.me](https://www.coreycleary.me/feed.xml)
+- [Blog – Hackaday](https://hackaday.com/blog/feed)
+- [BlogGeek.me](http://bloggeek.me/feed)
+- [bolt.new(@boltdotnew)](https://api.xgo.ing/rss/user/760ab7cd9708452c9ce1f9144b92a430)
+- [Brad Woods' Digital Garden](https://garden.bradwoods.io/rss.xml)
+- [Brandon's Website](https://www.brandons.me/feed.xml)
+- [Brian Rinaldi](https://dev.to/feed/remotesynth)
+- [Browserling's cross-browser testing blog](https://www.browserling.com/blog/rss.xml)
+- [BrowserStack Blog](https://www.browserstack.com/blog/rss)
+- [Bryce Van Dyk](https://www.brycevandyk.com/rss)
+- [bt](https://btxx.org/index.rss)
+- [Caffeinspiration](https://alexanderell.is/index.xml)
+- [Callum Hart](https://www.callumhart.com/feed/feed.xml)
+- [Carney Develop It](https://carneydevelopit.wordpress.com/feed)
+- [cascadia.computer](https://jgw96.github.io/cascadia.computer/_site/feed/feed.xml)
+- [Castiel's Blog](https://ca3tie1.github.io/atom.xml)
+- [cat(@_catwu)](https://api.xgo.ing/rss/user/66a6b39ddcfa42e39621e0ab293c1bdd)
+- [Cathy Dutton](https://cathydutton.co.uk/feed.xml)
+- [catskull.net](https://catskull.net/feed.xml)
+- [chanind.github.io](https://chanind.github.io/feed.xml)
+- [Charles Harries | Blog](https://charlesharri.es/feed.xml)
+- [ChenSoul Blog](https://blog.chensoul.cc/index.xml)
+- [Chris Burnell – Featured Posts Feed](https://chrisburnell.com/feed.xml)
+- [Chris LaChance](https://chrislachance.com/feed)
+- [Chris Ruppel's Blog](https://chrisruppel.com/blog.xml)
+- [Chris Zacharias](http://blog.chriszacharias.com/feed)
+- [chriskirknielsen](https://chriskirknielsen.com/rss.xml)
+- [Christian Fei's Blog](https://cri.dev/rss.xml)
+- [Christoph Nakazawa](https://cpojer.net/feed.xml)
+- [chRyNaN Codes](https://chrynan.codes/rss)
+- [chuttenblog](https://chuttenblog.wordpress.com/feed)
+- [cjgammon](http://blog.cjgammon.com/feed)
+- [Coding Horror](http://feeds.feedburner.com/codinghorror)
+- [Ctrl blog](https://feed.ctrl.blog/latest.atom)
+- [Cyc1e's Blog](https://cyc1e183.github.io/atom.xml)
+- [Dan Lew Codes](https://blog.danlew.net/rss)
+- [daniel.haxx.se](https://daniel.haxx.se/blog/feed)
+- [Dave Vandyke, Programmer, Bristol UK - Blog](https://kzar.co.uk/blog/atom.xml)
+- [DemoChen's Clip](https://clip.demochen.com/feed.xml)
+- [Deno](https://deno.com/feed)
+- [Der Flounder](https://derflounder.wordpress.com/feed)
+- [DEV Community](https://dev.to/feed)
+- [Development & Analytics](https://cunderwood.dev/feed)
+- [DevYarns](https://devyarns.com/rss.xml)
+- [downtowndougbrown.com](https://www.downtowndougbrown.com/feed)
+- [drublic](https://drublic.de/feed.xml)
+- [Dutchcelt. Egor Kloos' Blog](https://dutchcelt.nl/feed.xml)
+- [Dzhavat Ushev Blog](https://dzhavat.github.io/feed.xml)
+- [Eduards Sizovs](https://sizovs.net/feed.xml)
+- [Educated Guesswork](https://educatedguesswork.org/feed/feed.xml)
+- [Electron Blog](https://www.electronjs.org/blog/rss.xml)
+- [Elise Hein’s personal site](https://elisehe.in/feed.xml)
+- [elvis(@omarsar0)](https://api.xgo.ing/rss/user/931d6e88e067496cac6bf23f69d60f33)
+- [Emily M. Stark](https://emilymstark.com/feed.xml)
+- [EmNudge's Blog](https://emnudge.dev/blog.xml)
+- [endtimes.dev](https://endtimes.dev/feed.xml)
+- [Eric Rahm (*not HTTPS)](http://www.erahm.org/feed)
+- [eric zakariasson(@ericzakariasson)](https://api.xgo.ing/rss/user/65f321be670b4ffba7f40d0afd38c94d)
+- [ericportis.com](https://ericportis.com/feed)
+- [Erik Kroes](https://www.erikkroes.nl/feed.xml)
+- [Evan Minto](http://evanminto.com/feed/blog.xml)
+- [Evert Pot's blog](https://evertpot.com/atom.xml)
+- [Fabisevi.ch](https://www.fabisevi.ch/feed.xml)
+- [Falkus.co](https://falkus.co/feed.xml)
+- [Fathy Boundjadj](https://fathy.fr/rss.xml)
+- [Felix Gerschau](https://felixgerschau.com/rss.xml)
+- [Fluent Reader Releases](https://github.com/yang991178/fluent-reader/releases.atom)
+- [freeCodeCamp.org](https://www.freecodecamp.org/news/rss)
+- [FreshRSS Releases](https://github.com/FreshRSS/FreshRSS/releases.atom)
+- [Gal Schlezinger](https://gal.hagever.com/rss.xml)
+- [Geek](https://www.igeekbb.com/atom.xml)
+- [Geek(@geekbb)](https://api.xgo.ing/rss/user/9cb3b60e689e4445a7fbdfd0be144126)
+- [geoffreylitt.com](https://www.geoffreylitt.com/feed.xml)
+- [Gino Notes](https://www.ginonotes.com/feed.xml)
+- [Giovani Camara Blog](https://giovanicamara.com/blog/feed)
+- [GitHub(@github)](https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190)
+- [Giuseppe Gurgone](https://giuseppegurgone.com/feed.xml)
+- [Gregory Szorc's Digital Home](http://gregoryszorc.com/blog/feed)
+- [GT's Blog](http://ganeshtiwaridotcomdotnp.blogspot.com/feeds/posts/default)
+- [GUYA.NET](http://blog.guya.net/feed)
+- [Hacker Noon](https://hackernoon.com/feed)
+- [Hacker Noon - Coding](https://hackernoon.com/tagged/coding/feed)
+- [Hacker Noon - Programming](https://hackernoon.com/tagged/programming/feed)
+- [HackerNoon.com - Medium](https://medium.com/feed/hackernoon)
+- [HTTP Toolkit](https://httptoolkit.tech/rss.xml)
+- [Internet News and service reviews](https://www.ghacks.net/category/the-web/feed)
+- [iO tech_hub](https://techhub.iodigital.com/feed.xml)
+- [Ivan's IT learning blog](https://ivanitlearning.wordpress.com/feed)
+- [James L Milner's Personal Blog](https://www.jameslmilner.com/feed/feed.xml)
+- [Jan's Development Microblog](https://microblog.jvdezign.com/rss)
+- [Jantrid](https://www.jantrid.net/feeds/posts/default)
+- [JASON Format](https://jasonformat.com/posts.rss)
+- [Jason Williams](https://jason-williams.co.uk/feed.xml)
+- [Jay Freestone | Software Engineer](https://www.jayfreestone.com/feed.xml)
+- [jebswebs](https://jebswebs.net/blog/feed)
+- [Jeremy Dormitzer's blog](https://jeremydormitzer.com/blog/feed.xml)
+- [Jesse Li](https://blog.jse.li/index.xml)
+- [jesseo](https://jessbpeck.com/feed/feed.xml)
+- [joeforshaw.com](https://www.joeforshaw.com/blog.rss)
+- [Johan Halse wrote this](https://johan.hal.se/feed.xml)
+- [keygen.sh](https://keygen.sh/blog/feed.xml)
+- [Konnor’s Site](https://konnorrogers.com/feed.xml)
+- [KSM](https://sylormiller.com/feed/feed.xml)
+- [Labnotes (by Assaf Arkin)](https://labnotes.org/rss)
+- [leininger.tech](https://leininger.tech/feed/feed.xml)
+- [Leonardo Faria](http://feeds.feedburner.com/leonardofaria)
+- [Level Up Coding](https://levelup.gitconnected.com/feed)
+- [Levi Durfee](https://levi.lol/index.xml)
+- [Linux Foundation Blogs](https://www.linuxfoundation.org/blog/rss.xml)
+- [Localizely Blog](https://localizely.com/feed.xml)
+- [Low Entropy](https://lowentropy.net/feed/feed.xml)
+- [Luciano Mammino "Loige"](https://loige.co/rss.xml)
+- [Luke](https://dev.to/feed/kamiquasi)
+- [Luke Channings](https://lukechannings.com/rss.xml)
+- [M0rk's Blog](https://kevien.github.io/atom.xml)
+- [macwright.com](https://macwright.com/rss.xml)
+- [madtech](https://adtechmadness.wordpress.com/feed)
+- [Manuel Strehl](https://manuel-strehl.de/feed.xml)
+- [Mark Steadman](https://dev.to/feed/steady5063)
+- [markentier.tech](https://markentier.tech/feed.atom.xml)
+- [Martin Fowler(@martinfowler)](https://api.xgo.ing/rss/user/55d2d3f3eaaf4357b3230e0b01a464d7)
+- [matklad.github.io](https://matklad.github.io/feed.xml)
+- [Matt Steele](https://steele.blue/feed/atom.xml)
+- [Mayank](https://www.mayank.co/blog/rss.xml)
+- [meetguns.com/blog - RSS Feed](https://meetguns.com/rss.xml)
+- [Mehul Kar's blog](https://www.mehulkar.com/feed.xml)
+- [meng shao(@shao__meng)](https://api.xgo.ing/rss/user/48aae530e0bf413aa7d44380f418e2e3)
+- [mikepennisi.com](http://mikepennisi.com/blog/index.xml)
+- [mikevdv.dev blog](https://mikevdv.dev/blog/rss.xml)
+- [Mindless Rambling Nonsense](https://pauldambra.dev/feed.xml)
+- [Miragecraft](http://www.miragecraft.com/feed/rss.xml)
+- [mmazzarolo.com blog](https://mmazzarolo.com/blog/index.xml)
+- [Monica_IM(@hey_im_monica)](https://api.xgo.ing/rss/user/5d749cc613ec4069bb2a47334739e1b6)
+- [Muffin Man](https://muffinman.io/atom.xml)
+- [Nathan Knowler](https://knowler.dev/feed.xml)
+- [nem.ec](https://blog.nem.ec/feed.xml)
+- [Nervewax](https://nervewax.com/feed.xml)
+- [News – – WordPress.org](https://wordpress.org/news/feed)
+- [Nick Olinger](https://nickolinger.com/rss.xml)
+- [Nik](https://dev.to/feed/xnimorz)
+- [Null Sweep](https://nullsweep.com/rss)
+- [Official Mastodon Blog](https://blog.joinmastodon.org/index.xml)
+- [Ognjen Regoje • ognjen.io](https://ognjen.io/feed.xml)
+- [Oh Hello Ana](https://ohhelloana.blog/feed.xml)
+- [Okta Developer](https://developer.okta.com/feed.xml)
+- [oli's rss feed](https://oliverjam.es/feed.xml)
+- [Oliver Byford](https://obyford.com/feed/feed.xml)
+- [Omar Alshaker – Blog](https://blog.omaralshaker.com/feed)
+- [OpenClaw Commits](https://github.com/openclaw/openclaw/commits/main.atom)
+- [OpenClaw Releases](https://github.com/openclaw/openclaw/releases.atom)
+- [Oxford Harrison](https://dev.to/feed/oxharris)
+- [Parallel Experiments - Telegram Channel](https://rsshub.imlg.co/telegram/channel/LinghaoCh)
+- [Paramdeo Singh](https://paramdeo.com/feed/blog.xml)
+- [Paul Kinchla](https://paulkinchla.com/feed)
+- [Paul Miller](https://paulmillr.com/feed.xml)
+- [Peter Hrynkow - Vancouver Tech Leader](https://peterhrynkow.com/feed.xml)
+- [peteris.rocks](https://peteris.rocks/rss.xml)
+- [Philip Renich | Blog](https://www.philiprenich.com/atom.xml)
+- [Pine](https://pineco.de/feed)
+- [Planet Classpath](http://planet.classpath.org/rss20.xml)
+- [Posts on Armin Sebastian](https://armin.dev/blog/index.xml)
+- [PQVST](https://pqvst.com/feed.xml)
+- [Prettier Blog](https://prettier.io/blog/atom.xml)
+- [programming](https://www.reddit.com/r/programming/.rss)
+- [Programming – The Crazy Programmer](https://www.thecrazyprogrammer.com/category/programming/feed)
+- [Release notes from babel](https://github.com/babel/babel/releases.atom)
+- [Release notes from gulp](https://github.com/gulpjs/gulp/releases.atom)
+- [Replit ⠕(@Replit)](https://api.xgo.ing/rss/user/613f859e4bc440c5a28f40732840f5cf)
+- [RSSHub Radar Releases](https://github.com/DIYgod/RSSHub-Radar/releases.atom)
+- [Rupert Angermeier](https://ngrmr.at/feed.xml)
+- [Ryan Trimble](https://ryantrimble.com/rss.xml)
+- [Samuel Kraft](https://samuelkraft.com/feed.xml)
+- [Samuel Maddock’s Blog](https://blog.samuelmaddock.com/index.xml)
+- [Sasha Firsov](https://blog.firsov.net/feeds/posts/default?alt=rss)
+- [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman)
+- [Scripting News](http://scripting.com/rss.xml)
+- [Seldo.com RSS Feed](https://seldo.com/rss.xml)
+- [Sentry Blog RSS](https://blog.sentry.io/feed.xml)
+- [sgo.to](https://code.sgo.to/rss.xml)
+- [sgom.es](https://sgom.es/feed.xml)
+- [Shalvah's Blog](https://blog.shalvah.me/feed.xml)
+- [simeonGriggs.dev](https://www.simeongriggs.dev/feed.xml)
+- [Simon Wicki](https://wicki.io/posts/index.xml)
+- [Sindre Sorhus — Blog](https://sindresorhus.com/rss.xml)
+- [SmellyCode's RSS Feed](https://smellycode.com/rss.xml)
+- [Smitop's Blog](https://smitop.com/index.xml)
+- [Software As She's Developed](http://softwareas.com/feed)
+- [SOS](https://shaneosullivan.wordpress.com/feed)
+- [Stack Abuse](https://stackabuse.com/rss)
+- [Stack Overflow Blog](http://blog.stackoverflow.com/feed)
+- [Stack Overflow Blog](https://stackoverflow.blog/feed)
+- [Stories by Dan Fabulich on Medium](https://medium.com/feed/@danfabulich)
+- [Stories by Dave House on Medium](https://medium.com/feed/@iknowdavehouse)
+- [Stories by LucaColonnello 🎹💻🍕 on Medium](https://medium.com/feed/@LucaColonnello)
+- [Stories by Pedro Oliveira on Medium](https://medium.com/feed/@kanytu)
+- [Sualeh Asif(@sualehasif996)](https://api.xgo.ing/rss/user/fafa6df3c67644b1a367a177240e0173)
+- [Taranjeet(@taranjeetio)](https://api.xgo.ing/rss/user/2de92402f4a24c90bb27e7580b93a878)
+- [Tech Notes](http://neugierig.org/software/blog/atom.xml)
+- [Techno Barje](https://techno-barje.fr/atom.xml)
+- [Terence Eden’s Blog](http://shkspr.mobi/blog/feed)
+- [That Emil - Blog](http://feeds.feedburner.com/thatemil-blog)
+- [The 6 Figure Developer](http://6figuredev.com/feed/rss)
+- [The Daily WTF](http://syndication.thedailywtf.com/TheDailyWtf)
+- [The GitHub Blog](https://github.blog/feed)
+- [The Haystack](https://www.the-haystack.com/feed)
+- [The Idea Place](https://theideaplace.net/feed)
+- [The IntelliJ IDEA Blog](http://blogs.jetbrains.com/idea/feed)
+- [The JetBrains Blog](http://blog.jetbrains.com/feed)
+- [There Should Be No Red](https://thereshouldbenored.com/feed/feed.xml)
+- [thoughtbot](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots)
+- [Tiny Helpers](https://tiny-helpers.dev/feed.xml)
+- [Tom Anthony](http://www.tomanthony.co.uk/feed)
+- [Tomas Pustelnik](https://pustelto.com/feed.xml)
+- [tonsky.me](http://tonsky.me/blog/atom.xml)
+- [Trekhleb.dev RSS Feed](https://trekhleb.dev/rss.xml)
+- [Tw93(@HiTw93)](https://api.xgo.ing/rss/user/665fc88440fd4436acbc2e630d824926)
+- [Underjord.io](https://underjord.io/feed.xml)
+- [Unsearcher](http://unsearcher.org/en/feed)
+- [v0(@v0)](https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7)
+- [Varun Mohan(@_mohansolo)](https://api.xgo.ing/rss/user/7794c4268a504019a94af1778857a703)
+- [Veroniiiica](https://veroniiiica.com/feed)
+- [Viking(@vikingmute)](https://api.xgo.ing/rss/user/aab44cb2665a49258cd81f63b0b55192)
+- [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/feed)
+- [Visual Studio Code](https://code.visualstudio.com/feed.xml)
+- [Wesley Aptekar-Cassels](http://blog.wesleyac.com/feed.xml)
+- [Westbrook Johnson](https://dev.to/feed/westbrook)
+- [Weston Thayer’s Blog](http://westonthayer.com/writing/rss.xml)
+- [Words](http://crisal.io/words/feed.xml)
+- [Yakim](https://yakim.nl/feed.xml)
+- [yetanother.blog](https://yetanother.blog/rss.xml)
+- [yuanchuan.dev](https://yuanchuan.dev/feed.xml)
+- [zsmb.co](https://zsmb.co/index.xml)
 
-### 💻 Backend & Systems (63)
+## 💻 Backend & Systems (82)
 
-- [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/feed.atom) — `https://lucumr.pocoo.org/feed.atom`
-- [Ben Hoyt's technical writing](https://benhoyt.com/writings/rss.xml) — `https://benhoyt.com/writings/rss.xml`
-- [Brendan Gregg's Blog](http://www.brendangregg.com/blog/rss.xml) — `http://www.brendangregg.com/blog/rss.xml`
-- [Cay Horstmann's Unblog](https://horstmann.com/unblog/rss.xml) — `https://horstmann.com/unblog/rss.xml`
-- [Chris James - Software developer](https://quii.dev/rss) — `https://quii.dev/rss`
-- [Compilers Team](https://blogs.igalia.com/compilers/feed) — `https://blogs.igalia.com/compilers/feed`
-- [Dan Luu](https://danluu.com/atom.xml) — `https://danluu.com/atom.xml`
-- [David Heinemeier Hansson](https://world.hey.com/dhh/feed.atom) — `https://world.hey.com/dhh/feed.atom`
-- [Dhananjay Kumar](http://debugmode.net/feed) — `http://debugmode.net/feed`
-- [Embedded in Academia](http://blog.regehr.org/feed) — `http://blog.regehr.org/feed`
-- [Eyes Above The Waves](https://robert.ocallahan.org/feed.xml) — `https://robert.ocallahan.org/feed.xml`
-- [Go Blog](https://go.dev/blog/feed.atom) — `https://go.dev/blog/feed.atom`
-- [High Growth Engineering](https://highgrowthengineering.substack.com/feed) — `https://highgrowthengineering.substack.com/feed`
-- [Holovaty.com](http://www.holovaty.com/rss) — `http://www.holovaty.com/rss`
-- [Hugo Tunius - Blog](https://hugotunius.se/feed.xml) — `https://hugotunius.se/feed.xml`
-- [IETF Blog](http://www.ietf.org/blog/feed) — `http://www.ietf.org/blog/feed`
-- [Ian Bicking](http://www.ianbicking.org/feeds/atom.xml) — `http://www.ianbicking.org/feeds/atom.xml`
-- [In Pursuit of Laziness](http://manishearth.github.io/atom.xml) — `http://manishearth.github.io/atom.xml`
-- [Java, SQL and jOOQ.](https://blog.jooq.org/feed) — `https://blog.jooq.org/feed`
-- [Joel on Software](https://www.joelonsoftware.com/feed) — `https://www.joelonsoftware.com/feed`
-- [Julia Evans](https://jvns.ca/atom.xml) — `https://jvns.ca/atom.xml`
-- [Kevin Sookocheff](http://sookocheff.com/index.xml) — `http://sookocheff.com/index.xml`
-- [Martin Fowler](https://martinfowler.com/feed.atom) — `https://martinfowler.com/feed.atom`
-- [Martin Kleppmann's blog](https://feeds.feedburner.com/martinkl?format=xml) — `https://feeds.feedburner.com/martinkl?format=xml`
-- [MaskRay](https://maskray.me/blog/atom.xml) — `https://maskray.me/blog/atom.xml`
-- [Maxim Orlov](https://maximorlov.com/feed.xml) — `https://maximorlov.com/feed.xml`
-- [Mislav's blog](http://mislav.net/feeds/dev.xml) — `http://mislav.net/feeds/dev.xml`
-- [Nathan's Blog](http://blog.mozilla.org/nfroyd/feed) — `http://blog.mozilla.org/nfroyd/feed`
-- [Necko Blog](https://mozilla-necko.github.io/feed.xml) — `https://mozilla-necko.github.io/feed.xml`
-- [Nicholas Nethercote](https://blog.mozilla.org/nnethercote/feed) — `https://blog.mozilla.org/nnethercote/feed`
-- [Nick Craver](http://nickcraver.com/blog/feed.xml) — `http://nickcraver.com/blog/feed.xml`
-- [Nick Fitzgerald](http://fitzgeraldnick.com/weblog/feeds/latest-atom) — `http://fitzgeraldnick.com/weblog/feeds/latest-atom`
-- [Node.js Blog](https://nodejs.org/en/feed/blog.xml) — `https://nodejs.org/en/feed/blog.xml`
-- [OkKotlin](https://okkotlin.com/rss.xml) — `https://okkotlin.com/rss.xml`
-- [Python Blog](https://blog.python.org/feeds/posts/default) — `https://blog.python.org/feeds/posts/default`
-- [Rahul Nath](http://feeds2.feedburner.com/rahulpnath) — `http://feeds2.feedburner.com/rahulpnath`
-- [Randall Degges](https://www.rdegges.com/feed.xml) — `https://www.rdegges.com/feed.xml`
-- [Random ASCII – tech blog of Bruce Dawson](https://randomascii.wordpress.com/feed) — `https://randomascii.wordpress.com/feed`
-- [RisingStack Engineering](http://blog.risingstack.com/rss) — `http://blog.risingstack.com/rss`
-- [Rust Blog](https://blog.rust-lang.org/feed.xml) — `https://blog.rust-lang.org/feed.xml`
-- [SpiderMonkey JavaScript/WebAssembly Engine](https://spidermonkey.dev/feed.xml) — `https://spidermonkey.dev/feed.xml`
-- [Spring Blog](http://spring.io/blog.atom) — `http://spring.io/blog.atom`
-- [The Grymoire](https://grymoire.wordpress.com/feed) — `https://grymoire.wordpress.com/feed`
-- [Timmy O'Mahony](https://timmyomahony.com/feed.rss) — `https://timmyomahony.com/feed.rss`
-- [Valeri Karpov](https://thecodebarbarian.com/feed.xml) — `https://thecodebarbarian.com/feed.xml`
-- [antirez.com](http://antirez.com/rss) — `http://antirez.com/rss`
-- [arighi's blog](http://arighi.blogspot.com/feeds/posts/default) — `http://arighi.blogspot.com/feeds/posts/default`
-- [beej.us](https://beej.us/blog/rss.xml) — `https://beej.us/blog/rss.xml`
-- [bernsteinbear.com](https://bernsteinbear.com/feed.xml) — `https://bernsteinbear.com/feed.xml`
-- [buttondown.com/hillelwayne](https://buttondown.com/hillelwayne/rss) — `https://buttondown.com/hillelwayne/rss`
-- [devblogs.microsoft.com/oldnewthing](https://devblogs.microsoft.com/oldnewthing/feed) — `https://devblogs.microsoft.com/oldnewthing/feed`
-- [eli.thegreenplace.net](https://eli.thegreenplace.net/feeds/all.atom.xml) — `https://eli.thegreenplace.net/feeds/all.atom.xml`
-- [fabiensanglard.net](https://fabiensanglard.net/rss.xml) — `https://fabiensanglard.net/rss.xml`
-- [kvark's dev blog](http://kvark.github.io/feed.xml) — `http://kvark.github.io/feed.xml`
-- [michael.stapelberg.ch](https://michael.stapelberg.ch/feed.xml) — `https://michael.stapelberg.ch/feed.xml`
-- [miguelgrinberg.com](https://blog.miguelgrinberg.com/feed) — `https://blog.miguelgrinberg.com/feed`
-- [mitchellh.com](https://mitchellh.com/feed.xml) — `https://mitchellh.com/feed.xml`
-- [mrale.ph](http://mrale.ph/atom.xml) — `http://mrale.ph/atom.xml`
-- [naildrivin5.com - David Bryant Copeland's Website](https://www.naildrivin5.com/atom.xml) — `https://www.naildrivin5.com/atom.xml`
-- [nikic's blog](https://nikic.github.io/rss.xml) — `https://nikic.github.io/rss.xml`
-- [wingolog](https://wingolog.org/feed/atom) — `https://wingolog.org/feed/atom`
-- [xania.org](https://xania.org/feed) — `https://xania.org/feed`
-- [xeiaso.net](https://xeiaso.net/blog.rss) — `https://xeiaso.net/blog.rss`
+- [antirez.com](http://antirez.com/rss)
+- [arighi's blog](http://arighi.blogspot.com/feeds/posts/default)
+- [Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/feed.atom)
+- [beej.us](https://beej.us/blog/rss.xml)
+- [Ben Hoyt's technical writing](https://benhoyt.com/writings/rss.xml)
+- [bernsteinbear.com](https://bernsteinbear.com/feed.xml)
+- [Brendan Gregg's Blog](http://www.brendangregg.com/blog/rss.xml)
+- [buttondown.com/hillelwayne](https://buttondown.com/hillelwayne/rss)
+- [Cay Horstmann's Unblog](https://horstmann.com/unblog/rss.xml)
+- [Chris James - Software developer](https://quii.dev/rss)
+- [Compilers Team](https://blogs.igalia.com/compilers/feed)
+- [Dan Luu](https://danluu.com/atom.xml)
+- [Daniel Immke's Blog Posts](https://daniel.do/rss.xml)
+- [David Heinemeier Hansson](https://world.hey.com/dhh/feed.atom)
+- [Dennis Schubert - Blog](https://overengineer.dev/blog/feeds/all.xml)
+- [devblogs.microsoft.com/oldnewthing](https://devblogs.microsoft.com/oldnewthing/feed)
+- [devever.net/~hl](https://www.devever.net/~hl/index.feed)
+- [Dhananjay Kumar](http://debugmode.net/feed)
+- [eli.thegreenplace.net](https://eli.thegreenplace.net/feeds/all.atom.xml)
+- [Embedded in Academia](http://blog.regehr.org/feed)
+- [Eyes Above The Waves](https://robert.ocallahan.org/feed.xml)
+- [fabiensanglard.net](https://fabiensanglard.net/rss.xml)
+- [gilesthomas.com](https://gilesthomas.com/feed/rss.xml)
+- [Go Blog](https://go.dev/blog/feed.atom)
+- [High Growth Engineering](https://highgrowthengineering.substack.com/feed)
+- [Holovaty.com](http://www.holovaty.com/rss)
+- [Hugo Tunius - Blog](https://hugotunius.se/feed.xml)
+- [Ian Bicking](http://www.ianbicking.org/feeds/atom.xml)
+- [IETF Blog](http://www.ietf.org/blog/feed)
+- [In Pursuit of Laziness](http://manishearth.github.io/atom.xml)
+- [Java, SQL and jOOQ.](https://blog.jooq.org/feed)
+- [Joel on Software](https://www.joelonsoftware.com/feed)
+- [Julia Evans](https://jvns.ca/atom.xml)
+- [Kashyap’s blog](http://kgrz.io/feed.xml)
+- [Kevin Cox's Blog](https://kevincox.ca/feed.atom)
+- [Kevin Sookocheff](http://sookocheff.com/index.xml)
+- [knpw.rs](https://knpw.rs/rss.xml)
+- [kvark's dev blog](http://kvark.github.io/feed.xml)
+- [Laurie On Tech Blog RSS Feed](https://laurieontech.com/rss.xml)
+- [Low-cost hardware and free software](https://ferrancasanovas.wordpress.com/feed)
+- [Martin Fowler](https://martinfowler.com/feed.atom)
+- [Martin Kleppmann's blog](https://feeds.feedburner.com/martinkl?format=xml)
+- [MaskRay](https://maskray.me/blog/atom.xml)
+- [Maxim Orlov](https://maximorlov.com/feed.xml)
+- [michael.stapelberg.ch](https://michael.stapelberg.ch/feed.xml)
+- [miguelgrinberg.com](https://blog.miguelgrinberg.com/feed)
+- [Mislav's blog](http://mislav.net/feeds/dev.xml)
+- [mitchellh.com](https://mitchellh.com/feed.xml)
+- [mrale.ph](http://mrale.ph/atom.xml)
+- [naildrivin5.com - David Bryant Copeland's Website](https://www.naildrivin5.com/atom.xml)
+- [Nathan's Blog](http://blog.mozilla.org/nfroyd/feed)
+- [Necko Blog](https://mozilla-necko.github.io/feed.xml)
+- [Nicholas Nethercote](https://blog.mozilla.org/nnethercote/feed)
+- [Nick Craver](http://nickcraver.com/blog/feed.xml)
+- [Nick Fitzgerald](http://fitzgeraldnick.com/weblog/feeds/latest-atom)
+- [nikic's blog](https://nikic.github.io/rss.xml)
+- [Node.js Blog](https://nodejs.org/en/feed/blog.xml)
+- [OkKotlin](https://okkotlin.com/rss.xml)
+- [Paige Niedringhaus](https://www.paigeniedringhaus.com/rss.xml)
+- [Pope Tech Blog](https://blog.pope.tech/feed)
+- [Python Blog](https://blog.python.org/feeds/posts/default)
+- [Rahul Nath](http://feeds2.feedburner.com/rahulpnath)
+- [Ramblings of a Madman](https://flailingmonkey.com/rss.xml)
+- [Randall Degges](https://www.rdegges.com/feed.xml)
+- [Random ASCII – tech blog of Bruce Dawson](https://randomascii.wordpress.com/feed)
+- [Raphael](https://rtpg.co/feed.xml)
+- [Relentless Coding](http://relentless-coding.blogspot.com/feeds/posts/default)
+- [RisingStack Engineering](http://blog.risingstack.com/rss)
+- [Rob Zolkos](https://www.zolkos.com/feed.xml)
+- [Robin Verton](https://robinverton.de/index.xml)
+- [Rust Blog](https://blog.rust-lang.org/feed.xml)
+- [Signs of Triviality](http://www.netmeister.org/blog/rss.xml)
+- [Sjoerd Langkemper](http://www.sjoerdlangkemper.nl/feed.xml)
+- [SpiderMonkey JavaScript/WebAssembly Engine](https://spidermonkey.dev/feed.xml)
+- [Spring Blog](http://spring.io/blog.atom)
+- [The Grymoire](https://grymoire.wordpress.com/feed)
+- [Tim's Tech Blog](https://timtech.blog/feed/feed.xml)
+- [Timmy O'Mahony](https://timmyomahony.com/feed.rss)
+- [Valeri Karpov](https://thecodebarbarian.com/feed.xml)
+- [wingolog](https://wingolog.org/feed/atom)
+- [xania.org](https://xania.org/feed)
+- [xeiaso.net](https://xeiaso.net/blog.rss)
 
-### 🛠️ Developer Tools (86)
+## ☁️ DevOps & Data (23)
 
-- [30 seconds of code](https://www.30secondsofcode.org/feed) — `https://www.30secondsofcode.org/feed`
-- [@lachlanjc/notebook](https://notebook.lachlanjc.com/feed.xml) — `https://notebook.lachlanjc.com/feed.xml`
-- [Andy Piper](https://dev.to/feed/andypiper) — `https://dev.to/feed/andypiper`
-- [Auth0 Blog](https://auth0.com/blog/rss.xml) — `https://auth0.com/blog/rss.xml`
-- [Babel.js Blog](https://babeljs.io/blog/atom.xml) — `https://babeljs.io/blog/atom.xml`
-- [Better Programming - Medium](https://medium.com/feed/better-programming) — `https://medium.com/feed/better-programming`
-- [Better world by better software](http://glebbahmutov.com/blog/atom.xml) — `http://glebbahmutov.com/blog/atom.xml`
-- [Blog on Reorx’s Forge](https://reorx.com/blog/feed.xml) — `https://reorx.com/blog/feed.xml`
-- [Blog – Hackaday](https://hackaday.com/blog/feed) — `https://hackaday.com/blog/feed`
-- [Brian Rinaldi](https://dev.to/feed/remotesynth) — `https://dev.to/feed/remotesynth`
-- [BrowserStack Blog](https://www.browserstack.com/blog/rss) — `https://www.browserstack.com/blog/rss`
-- [Browserling's cross-browser testing blog](https://www.browserling.com/blog/rss.xml) — `https://www.browserling.com/blog/rss.xml`
-- [Christoph Nakazawa](https://cpojer.net/feed.xml) — `https://cpojer.net/feed.xml`
-- [Coding Horror](http://feeds.feedburner.com/codinghorror) — `http://feeds.feedburner.com/codinghorror`
-- [Ctrl blog](https://feed.ctrl.blog/latest.atom) — `https://feed.ctrl.blog/latest.atom`
-- [DEV Community](https://dev.to/feed) — `https://dev.to/feed`
-- [DemoChen's Clip](https://clip.demochen.com/feed.xml) — `https://clip.demochen.com/feed.xml`
-- [Deno](https://deno.com/feed) — `https://deno.com/feed`
-- [Electron Blog](https://www.electronjs.org/blog/rss.xml) — `https://www.electronjs.org/blog/rss.xml`
-- [Fluent Reader Releases](https://github.com/yang991178/fluent-reader/releases.atom) — `https://github.com/yang991178/fluent-reader/releases.atom`
-- [FreshRSS Releases](https://github.com/FreshRSS/FreshRSS/releases.atom) — `https://github.com/FreshRSS/FreshRSS/releases.atom`
-- [Geek](https://www.igeekbb.com/atom.xml) — `https://www.igeekbb.com/atom.xml`
-- [GitHub(@github)](https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190) — `https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190`
-- [Gregory Szorc's Digital Home](http://gregoryszorc.com/blog/feed) — `http://gregoryszorc.com/blog/feed`
-- [HTTP Toolkit](https://httptoolkit.tech/rss.xml) — `https://httptoolkit.tech/rss.xml`
-- [Hacker Noon](https://hackernoon.com/feed) — `https://hackernoon.com/feed`
-- [Hacker Noon - Coding](https://hackernoon.com/tagged/coding/feed) — `https://hackernoon.com/tagged/coding/feed`
-- [Hacker Noon - Programming](https://hackernoon.com/tagged/programming/feed) — `https://hackernoon.com/tagged/programming/feed`
-- [HackerNoon.com - Medium](https://medium.com/feed/hackernoon) — `https://medium.com/feed/hackernoon`
-- [Internet News and service reviews](https://www.ghacks.net/category/the-web/feed) — `https://www.ghacks.net/category/the-web/feed`
-- [Labnotes (by Assaf Arkin)](https://labnotes.org/rss) — `https://labnotes.org/rss`
-- [Linux Foundation Blogs](https://www.linuxfoundation.org/blog/rss.xml) — `https://www.linuxfoundation.org/blog/rss.xml`
-- [Localizely Blog](https://localizely.com/feed.xml) — `https://localizely.com/feed.xml`
-- [Luciano Mammino "Loige"](https://loige.co/rss.xml) — `https://loige.co/rss.xml`
-- [Luke](https://dev.to/feed/kamiquasi) — `https://dev.to/feed/kamiquasi`
-- [Luke Channings](https://lukechannings.com/rss.xml) — `https://lukechannings.com/rss.xml`
-- [M0rk's Blog](https://kevien.github.io/atom.xml) — `https://kevien.github.io/atom.xml`
-- [Mark Steadman](https://dev.to/feed/steady5063) — `https://dev.to/feed/steady5063`
-- [Martin Fowler(@martinfowler)](https://api.xgo.ing/rss/user/55d2d3f3eaaf4357b3230e0b01a464d7) — `https://api.xgo.ing/rss/user/55d2d3f3eaaf4357b3230e0b01a464d7`
-- [News – – WordPress.org](https://wordpress.org/news/feed) — `https://wordpress.org/news/feed`
-- [Official Mastodon Blog](https://blog.joinmastodon.org/index.xml) — `https://blog.joinmastodon.org/index.xml`
-- [Okta Developer](https://developer.okta.com/feed.xml) — `https://developer.okta.com/feed.xml`
-- [Oxford Harrison](https://dev.to/feed/oxharris) — `https://dev.to/feed/oxharris`
-- [Paul Miller](https://paulmillr.com/feed.xml) — `https://paulmillr.com/feed.xml`
-- [Prettier Blog](https://prettier.io/blog/atom.xml) — `https://prettier.io/blog/atom.xml`
-- [RSSHub Radar Releases](https://github.com/DIYgod/RSSHub-Radar/releases.atom) — `https://github.com/DIYgod/RSSHub-Radar/releases.atom`
-- [Release notes from babel](https://github.com/babel/babel/releases.atom) — `https://github.com/babel/babel/releases.atom`
-- [Release notes from gulp](https://github.com/gulpjs/gulp/releases.atom) — `https://github.com/gulpjs/gulp/releases.atom`
-- [Replit ⠕(@Replit)](https://api.xgo.ing/rss/user/613f859e4bc440c5a28f40732840f5cf) — `https://api.xgo.ing/rss/user/613f859e4bc440c5a28f40732840f5cf`
-- [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman) — `http://feeds.hanselman.com/ScottHanselman`
-- [Scripting News](http://scripting.com/rss.xml) — `http://scripting.com/rss.xml`
-- [Seldo.com RSS Feed](https://seldo.com/rss.xml) — `https://seldo.com/rss.xml`
-- [Sentry Blog RSS](https://blog.sentry.io/feed.xml) — `https://blog.sentry.io/feed.xml`
-- [Sindre Sorhus — Blog](https://sindresorhus.com/rss.xml) — `https://sindresorhus.com/rss.xml`
-- [Software As She's Developed](http://softwareas.com/feed) — `http://softwareas.com/feed`
-- [Stack Abuse](https://stackabuse.com/rss) — `https://stackabuse.com/rss`
-- [Stack Overflow Blog](http://blog.stackoverflow.com/feed) — `http://blog.stackoverflow.com/feed`
-- [Stack Overflow Blog](https://stackoverflow.blog/feed) — `https://stackoverflow.blog/feed`
-- [Taranjeet(@taranjeetio)](https://api.xgo.ing/rss/user/2de92402f4a24c90bb27e7580b93a878) — `https://api.xgo.ing/rss/user/2de92402f4a24c90bb27e7580b93a878`
-- [Tech Notes](http://neugierig.org/software/blog/atom.xml) — `http://neugierig.org/software/blog/atom.xml`
-- [Terence Eden’s Blog](http://shkspr.mobi/blog/feed) — `http://shkspr.mobi/blog/feed`
-- [The Daily WTF](http://syndication.thedailywtf.com/TheDailyWtf) — `http://syndication.thedailywtf.com/TheDailyWtf`
-- [The GitHub Blog](https://github.blog/feed) — `https://github.blog/feed`
-- [The Haystack](https://www.the-haystack.com/feed) — `https://www.the-haystack.com/feed`
-- [The Idea Place](https://theideaplace.net/feed) — `https://theideaplace.net/feed`
-- [The IntelliJ IDEA Blog](http://blogs.jetbrains.com/idea/feed) — `http://blogs.jetbrains.com/idea/feed`
-- [The JetBrains Blog](http://blog.jetbrains.com/feed) — `http://blog.jetbrains.com/feed`
-- [Tiny Helpers](https://tiny-helpers.dev/feed.xml) — `https://tiny-helpers.dev/feed.xml`
-- [Tom Anthony](http://www.tomanthony.co.uk/feed) — `http://www.tomanthony.co.uk/feed`
-- [Trekhleb.dev RSS Feed](https://trekhleb.dev/rss.xml) — `https://trekhleb.dev/rss.xml`
-- [Tw93(@HiTw93)](https://api.xgo.ing/rss/user/665fc88440fd4436acbc2e630d824926) — `https://api.xgo.ing/rss/user/665fc88440fd4436acbc2e630d824926`
-- [Varun Mohan(@_mohansolo)](https://api.xgo.ing/rss/user/7794c4268a504019a94af1778857a703) — `https://api.xgo.ing/rss/user/7794c4268a504019a94af1778857a703`
-- [Viking(@vikingmute)](https://api.xgo.ing/rss/user/aab44cb2665a49258cd81f63b0b55192) — `https://api.xgo.ing/rss/user/aab44cb2665a49258cd81f63b0b55192`
-- [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/feed) — `https://devblogs.microsoft.com/visualstudio/feed`
-- [Visual Studio Code](https://code.visualstudio.com/feed.xml) — `https://code.visualstudio.com/feed.xml`
-- [ariya.io](https://ariya.io/index.xml) — `https://ariya.io/index.xml`
-- [as days pass by](http://www.kryogenix.org/days/feed) — `http://www.kryogenix.org/days/feed`
-- [daniel.haxx.se](https://daniel.haxx.se/blog/feed) — `https://daniel.haxx.se/blog/feed`
-- [freeCodeCamp.org](https://www.freecodecamp.org/news/rss) — `https://www.freecodecamp.org/news/rss`
-- [macwright.com](https://macwright.com/rss.xml) — `https://macwright.com/rss.xml`
-- [matklad.github.io](https://matklad.github.io/feed.xml) — `https://matklad.github.io/feed.xml`
-- [peteris.rocks](https://peteris.rocks/rss.xml) — `https://peteris.rocks/rss.xml`
-- [programming](https://www.reddit.com/r/programming/.rss) — `https://www.reddit.com/r/programming/.rss`
-- [thoughtbot](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots) — `https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots`
-- [tonsky.me](http://tonsky.me/blog/atom.xml) — `http://tonsky.me/blog/atom.xml`
-- [v0(@v0)](https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7) — `https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7`
+- [AWS Architecture Blog](http://www.awsarchitectureblog.com/atom.xml)
+- [AWS Blog](https://aws.amazon.com/blogs/aws/feed)
+- [Data@Mozilla](https://blog.mozilla.org/data/feed)
+- [Databricks](https://www.databricks.com/feed)
+- [Docker](https://www.docker.com/feed)
+- [Elastic Blog](https://www.elastic.co/blog/feed)
+- [Fastly Blog](https://www.fastly.com/blog_rss.xml)
+- [Feeding the Cloud](https://feeding.cloud.geek.nz/index.rss)
+- [Google Cloud Blog](https://cloudblog.withgoogle.com/rss)
+- [Government Technology State & Local Articles - e.Republic](http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure)
+- [Heroku Blog](https://blog.heroku.com/feed)
+- [IT Service Management News](http://blog.cesaregallotti.it/feeds/posts/default)
+- [jeffgeerling.com](https://www.jeffgeerling.com/blog.xml)
+- [Let's Encrypt](https://letsencrypt.org/feed.xml)
+- [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/feed)
+- [MongoDB Blog](https://www.mongodb.com/blog/rss)
+- [Plausible Analytics](https://plausible.io/blog/feed.xml)
+- [Potaroo blog](http://www.potaroo.net/rss.xml)
+- [Ricard Bejarano – Site Reliability Engineer](https://www.bejarano.io/feed.xml)
+- [The Cloudflare Blog](https://blog.cloudflare.com/rss)
+- [The Traffic Blog](https://phabricator.wikimedia.org/phame/blog/feed/11)
+- [Weaviate • vector database(@weaviate_io)](https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c)
+- [zwischenzugs](https://zwischenzugs.com/feed)
 
-### ☁️ DevOps & Data (20)
+## 📱 Mobile Development (70)
 
-- [AWS Architecture Blog](http://www.awsarchitectureblog.com/atom.xml) — `http://www.awsarchitectureblog.com/atom.xml`
-- [AWS Blog](https://aws.amazon.com/blogs/aws/feed) — `https://aws.amazon.com/blogs/aws/feed`
-- [Data@Mozilla](https://blog.mozilla.org/data/feed) — `https://blog.mozilla.org/data/feed`
-- [Databricks](https://www.databricks.com/feed) — `https://www.databricks.com/feed`
-- [Docker](https://www.docker.com/feed) — `https://www.docker.com/feed`
-- [Elastic Blog](https://www.elastic.co/blog/feed) — `https://www.elastic.co/blog/feed`
-- [Fastly Blog](https://www.fastly.com/blog_rss.xml) — `https://www.fastly.com/blog_rss.xml`
-- [Feeding the Cloud](https://feeding.cloud.geek.nz/index.rss) — `https://feeding.cloud.geek.nz/index.rss`
-- [Google Cloud Blog](https://cloudblog.withgoogle.com/rss) — `https://cloudblog.withgoogle.com/rss`
-- [Heroku Blog](https://blog.heroku.com/feed) — `https://blog.heroku.com/feed`
-- [Let's Encrypt](https://letsencrypt.org/feed.xml) — `https://letsencrypt.org/feed.xml`
-- [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/feed) — `https://azure.microsoft.com/en-us/blog/feed`
-- [MongoDB Blog](https://www.mongodb.com/blog/rss) — `https://www.mongodb.com/blog/rss`
-- [Plausible Analytics](https://plausible.io/blog/feed.xml) — `https://plausible.io/blog/feed.xml`
-- [Potaroo blog](http://www.potaroo.net/rss.xml) — `http://www.potaroo.net/rss.xml`
-- [Ricard Bejarano – Site Reliability Engineer](https://www.bejarano.io/feed.xml) — `https://www.bejarano.io/feed.xml`
-- [The Cloudflare Blog](https://blog.cloudflare.com/rss) — `https://blog.cloudflare.com/rss`
-- [Weaviate • vector database(@weaviate_io)](https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c) — `https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c`
-- [jeffgeerling.com](https://www.jeffgeerling.com/blog.xml) — `https://www.jeffgeerling.com/blog.xml`
-- [zwischenzugs](https://zwischenzugs.com/feed) — `https://zwischenzugs.com/feed`
+- [2750 words](https://pathos.page/feed.xml)
+- [9to5Mac](https://9to5mac.com/feed)
+- [Alberto De Bortoli](https://albertodebortoli.com/rss)
+- [Android](https://blog.google/products-and-platforms/platforms/android/rss)
+- [Android](https://blog.google/products/android/rss)
+- [Android](https://www.reddit.com/r/android/.rss)
+- [Android Authority](https://www.androidauthority.com/feed)
+- [Android Central - Android Forums, News, Reviews, Help and Android Wallpapers](http://feeds.androidcentral.com/androidcentral)
+- [Android Community](https://androidcommunity.com/feed)
+- [Android Developers - Medium](https://medium.com/feed/androiddevelopers)
+- [Android Developers Blog](https://feeds.feedburner.com/blogspot/hsDu)
+- [Android in MindOrks on Medium](https://medium.com/feed/mindorks/tagged/android)
+- [Android in The Airbnb Tech Blog on Medium](https://medium.com/feed/airbnb-engineering/tagged/android)
+- [Android Police – Android news, reviews, apps, games, phones, tablets](http://feeds.feedburner.com/AndroidPolice)
+- [AndroidGuys](https://www.androidguys.com/feed)
+- [Apple Newsroom](https://www.apple.com/newsroom/rss-feed.rss)
+- [AppleInsider News](https://appleinsider.com/rss/news)
+- [Benoit Pasquier - Swift, Data and more](https://benoitpasquier.com/index.xml)
+- [Blog – ScientiaMobile](https://www.scientiamobile.com/blog/feed)
+- [CodingItWrong.com](http://codingitwrong.com/feed.xml)
+- [Cult of Android](https://www.cultofandroid.com/feed)
+- [Cult of Mac](https://www.cultofmac.com/feed)
+- [Cyanogen Mods](https://www.cyanogenmods.org/feed)
+- [Danny Tuppeny](http://feeds.dantup.com/DanTup)
+- [Developing Android Apps](https://reddit.com/r/androiddev.rss)
+- [Droid Life](https://www.droid-life.com/feed)
+- [Felix Krause](https://krausefx.com/feed.xml)
+- [Flutter - Medium](https://medium.com/feed/flutter)
+- [furbo.org](http://furbo.org/feed)
+- [goobar](https://goobar.io/feed)
+- [GSMArena.com - Latest articles](https://www.gsmarena.com/rss-news-reviews.php3)
+- [Handstand Sam](https://handstandsam.com/feed)
+- [iMore - The #1 iPhone, iPad, and iPod touch blog](http://feeds.feedburner.com/TheiPhoneBlog)
+- [inessential.com](https://inessential.com/xml/rss.xml)
+- [Ionic Blog](https://blog.ionicframework.com/feed)
+- [Jake Wharton](https://jakewharton.com/atom.xml)
+- [Joe Birch](https://joebirch.co/feed)
+- [Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog](https://blog.jetbrains.com/kotlin/feed)
+- [mobiForge](https://mobiforge.com/feed)
+- [Mobile A11y](https://mobilea11y.com/index.xml)
+- [My life with Android :-)](http://mylifewithandroid.blogspot.com/feeds/posts/default)
+- [NetNewsWire Releases](https://github.com/Ranchero-Software/NetNewsWire/releases.atom)
+- [News - Apple Developer](https://developer.apple.com/news/rss/news.rss)
+- [Ole Begemann](https://oleb.net/blog/atom.xml)
+- [Opera Mobile](http://www.opera.com/blogs/mobile/feed)
+- [OS X Daily](http://feeds.feedburner.com/osxdaily)
+- [Phandroid](http://feeds2.feedburner.com/AndroidPhoneFans)
+- [Podcast -  Android Developers Backstage](https://feeds.libsyn.com/332855/rss)
+- [Podcast - Echoinnovate IT - Web & Mobile App Development Technologies Podcast](https://anchor.fm/s/e6ccb78/podcast/rss)
+- [Podcast - Now in Android](https://feeds.libsyn.com/244409/rss)
+- [ProAndroidDev - Medium](https://proandroiddev.com/feed)
+- [Public Object](https://publicobject.com/rss)
+- [Romain Guy](https://www.romainguy.dev/posts/index.xml)
+- [Saket Narayan](https://saket.me/feed)
+- [Swift by Sundell](https://www.swiftbysundell.com/feed.rss)
+- [SwiftRocks](https://swiftrocks.com/rss.xml)
+- [TalkAndroid](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums)
+- [Talking Kotlin](https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss)
+- [The Android Arsenal](https://feeds.feedburner.com/Android_Arsenal)
+- [The Atomic Birdhouse](https://atomicbird.com/index.xml)
+- [The Desolation of Blog](https://lapcatsoftware.com/articles/atom.xml)
+- [The Loop](https://www.loopinsight.com/feed)
+- [The unofficial Apple community](https://www.reddit.com/r/apple/.rss)
+- [Tomoko RD - Telegram Channel](https://rsshub.imlg.co/telegram/channel/tomoko_channel)
+- [tyler.io](https://tyler.io/feed)
+- [Use Your Loaf - iOS Development News & Tips](https://useyourloaf.com/blog/rss.xml)
+- [Zac Sweers](https://www.zacsweers.dev/rss)
+- [Zach Klippenstein’s Blog](https://blog.zachklipp.com/rss)
+- [Zarah Dominguez](https://zarah.dev/feed.xml)
+- [ Apple Nuts - Telegram Channel](https://rsshub.imlg.co/telegram/channel/AppleNuts)
 
-### ✍️ Essays & Ideas (59)
+## 🏗️ Engineering Team Blogs (207)
 
-- [Aeon | a world of ideas](https://aeon.co/feed.rss) — `https://aeon.co/feed.rss`
-- [Anil Dash](https://www.anildash.com/feed.xml) — `https://www.anildash.com/feed.xml`
-- [Aral Balkan](https://ar.al/index.xml) — `https://ar.al/index.xml`
-- [Big Think](https://feeds.feedburner.com/bigthink/main) — `https://feeds.feedburner.com/bigthink/main`
-- [Blog John Cook](https://www.johndcook.com/blog/feed) — `https://www.johndcook.com/blog/feed`
-- [Chris Cid – Essays](https://www.cjcid.com/feeds/essays.xml) — `https://www.cjcid.com/feeds/essays.xml`
-- [Coding Horror](https://blog.codinghorror.com/rss) — `https://blog.codinghorror.com/rss`
-- [Commonplace - The Commoncog Blog](https://commoncog.com/blog/rss) — `https://commoncog.com/blog/rss`
-- [Dan Koe](https://thedankoe.com/feed) — `https://thedankoe.com/feed`
-- [David Perell](https://perell.com/feed) — `https://perell.com/feed`
-- [Doc Searls Weblog](https://blogs.harvard.edu/doc/feed) — `https://blogs.harvard.edu/doc/feed`
-- [Don Marti](https://blog.zgp.org/feed.xml) — `https://blog.zgp.org/feed.xml`
-- [Econlib](https://www.econlib.org/feed) — `https://www.econlib.org/feed`
-- [Escaping Flatland](https://www.henrikkarlsson.xyz/feed) — `https://www.henrikkarlsson.xyz/feed`
-- [Farnam Street](https://fs.blog/feed) — `https://fs.blog/feed`
-- [Flurries of latent creativity - Stripe CTO blog](https://blog.singleton.io/index.xml) — `https://blog.singleton.io/index.xml`
-- [Freedom of Thought](https://jimmywong.bearblog.dev/feed?type=rss) — `https://jimmywong.bearblog.dev/feed?type=rss`
-- [IEEE Spectrum](https://spectrum.ieee.org/feeds/feed.rss) — `https://spectrum.ieee.org/feeds/feed.rss`
-- [Jack's Space](https://veryjack.com/feed) — `https://veryjack.com/feed`
-- [Jeff Kaufman's Writing](http://www.jefftk.com/news.rss) — `http://www.jefftk.com/news.rss`
-- [JustBB](https://justbb.fun/atom.xml) — `https://justbb.fun/atom.xml`
-- [Know Thyself - Telegram Channel](https://rsshub.imlg.co/telegram/channel/master_thyself) — `https://rsshub.imlg.co/telegram/channel/master_thyself`
-- [MIT News](https://news.mit.edu/rss/research) — `https://news.mit.edu/rss/research`
-- [MIT News - Science, Technology, and Society | Technology and society | Program in STS | History of science | History of MIT](https://news.mit.edu/rss/topic/science-technology-and-society) — `https://news.mit.edu/rss/topic/science-technology-and-society`
-- [Marco.org](https://marco.org/rss) — `https://marco.org/rss`
-- [Matt Lakeman](https://mattlakeman.org/feed) — `https://mattlakeman.org/feed`
-- [Melting Asphalt](http://feeds.feedburner.com/MeltingAsphalt) — `http://feeds.feedburner.com/MeltingAsphalt`
-- [Memozine](https://memozine.me/atom.xml) — `https://memozine.me/atom.xml`
-- [Microsoft on the Issues](https://blogs.microsoft.com/on-the-issues/feed) — `https://blogs.microsoft.com/on-the-issues/feed`
-- [Mitchell's Blog](http://blog.lizardwrangler.com/feed) — `http://blog.lizardwrangler.com/feed`
-- [NOEMA](https://www.noemamag.com/?feed=noemarss) — `https://www.noemamag.com/?feed=noemarss`
-- [Parimal Satyal - Neustadt.fr](https://neustadt.fr/rss.xml) — `https://neustadt.fr/rss.xml`
-- [Paul Graham: Essays](http://www.aaronsw.com/2002/feeds/pgessays.rss) — `http://www.aaronsw.com/2002/feeds/pgessays.rss`
-- [Privacy International](https://www.privacyinternational.org/rss.xml) — `https://www.privacyinternational.org/rss.xml`
-- [Quanta Magazine](http://www.quantamagazine.org/feed) — `http://www.quantamagazine.org/feed`
-- [Rest of World -](https://restofworld.org/feed/latest) — `https://restofworld.org/feed/latest`
-- [Ruben Verborgh's blog](http://ruben.verborgh.org/blog/latest.xml) — `http://ruben.verborgh.org/blog/latest.xml`
-- [Scott H Young](https://www.scotthyoung.com/blog/feed) — `https://www.scotthyoung.com/blog/feed`
-- [Stratechery by Ben Thompson](http://stratechery.com/feed) — `http://stratechery.com/feed`
-- [The New Yorker](https://feedx.net/rss/newyorker.xml) — `https://feedx.net/rss/newyorker.xml`
-- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/rss) — `https://blog.pragmaticengineer.com/rss`
-- [The Sunday Wisdom](https://coffeeandjunk.substack.com/feed) — `https://coffeeandjunk.substack.com/feed`
-- [Two-Bit History](https://twobithistory.org/feed.xml) — `https://twobithistory.org/feed.xml`
-- [Wait But Why](https://waitbutwhy.com/feed?code=c6f56c4214621ab98b86acbcae6b4405) — `https://waitbutwhy.com/feed?code=c6f56c4214621ab98b86acbcae6b4405`
-- [What's new](https://terrytao.wordpress.com/feed) — `https://terrytao.wordpress.com/feed`
-- [Zsolt's blog](https://www.zsolt.blog/feeds/posts/default) — `https://www.zsolt.blog/feeds/posts/default`
-- [berthub.eu](https://berthub.eu/articles/index.xml) — `https://berthub.eu/articles/index.xml`
-- [construction-physics.com](https://www.construction-physics.com/feed) — `https://www.construction-physics.com/feed`
-- [daringfireball.net](https://daringfireball.net/feeds/main) — `https://daringfireball.net/feeds/main`
-- [derekthompson.org](https://www.theatlantic.com/feed/author/derek-thompson) — `https://www.theatlantic.com/feed/author/derek-thompson`
-- [dynomight.net](https://dynomight.net/feed.xml) — `https://dynomight.net/feed.xml`
-- [experimental-history.com](https://www.experimental-history.com/feed) — `https://www.experimental-history.com/feed`
-- [grantslatton.com](https://grantslatton.com/rss.xml) — `https://grantslatton.com/rss.xml`
-- [gwern.net](https://gwern.substack.com/feed) — `https://gwern.substack.com/feed`
-- [neverland](https://hsu.cy/feed.xml) — `https://hsu.cy/feed.xml`
-- [ongoing by Tim Bray](http://www.tbray.org/ongoing/ongoing.atom) — `http://www.tbray.org/ongoing/ongoing.atom`
-- [pluralistic.net](https://pluralistic.net/feed) — `https://pluralistic.net/feed`
-- [wheresyoured.at](https://www.wheresyoured.at/rss) — `https://www.wheresyoured.at/rss`
-- [xkcd.com](https://xkcd.com/rss.xml) — `https://xkcd.com/rss.xml`
+- [[[WM:TECHBLOG]]](http://techblog.wikimedia.org/feed)
+- [about:community](https://blog.mozilla.org/community/feed)
+- [AMEX Technology](https://americanexpress.io/feed.xml)
+- [BBC Product & Technology](https://medium.com/feed/bbc-design-engineering)
+- [Code as Craft](https://codeascraft.com/feed/atom)
+- [Code as Craft (Etsy Engineering)](https://www.etsy.com/codeascraft/rss)
+- [Dropbox Tech](https://dropbox.tech/feed)
+- [DuckDuckGo Blog](https://spreadprivacy.com/rss)
+- [eBay Tech Blog](http://www.ebaytechblog.com/feed)
+- [Engineering Blog – Wealthfront](http://eng.wealthfront.com/feed)
+- [Engineering – The GitHub Blog](http://githubengineering.com/atom.xml)
+- [Facebook Engineering](https://engineering.fb.com/feed)
+- [Facebook Engineering](https://code.facebook.com/posts/rss)
+- [feed](https://sebgnotes.substack.com/feed)
+- [feed](https://www.aihero.dev/rss.xml)
+- [feed](https://borischerny.com/feed.xml)
+- [feed](https://calv.info/atom.xml)
+- [feed](https://addyo.substack.com/feed)
+- [feed](https://blog.google/products-and-platforms/products/gemini/rss)
+- [feed](https://aieworks.substack.com/feed)
+- [feed](https://www.mager.co/rss.xml)
+- [feed](https://openclaw.ai/rss.xml)
+- [feed](https://steipete.me/rss.xml)
+- [feed](https://simonwillison.net/atom/entries)
+- [feed](https://512pixels.net/feed)
+- [feed](https://birchtree.me/rss)
+- [feed](https://christianselig.com/index.xml)
+- [feed](https://www.myforevernotes.com/docs/rss.xml)
+- [feed](https://www.lux.camera/rss)
+- [feed](http://feeds.macrumors.com/MacRumors-Front)
+- [feed](https://www.macstories.net/feed)
+- [feed](https://parker.micro.blog/feed.xml)
+- [feed](https://usefulmac.com/rss)
+- [feed](https://www.askamanager.org/feed)
+- [feed](https://boz.com/rss.xml)
+- [feed](https://buffer.com/resources/rss)
+- [feed](https://layoffs.fyi/feed)
+- [feed](https://staysaasy.com/feed.xml)
+- [feed](https://anhvn.com/feed.xml)
+- [feed](http://dyskinetic.net/feed)
+- [feed](http://feeds.feedburner.com/elliotjaystocks)
+- [feed](https://esbueno.noahstokes.com/rss/rss.feed)
+- [feed](https://feltron.tumblr.com/rss)
+- [feed](https://forgotten-ny.com/feed)
+- [feed](https://iamfran.com/feed.rss)
+- [feed](https://frankchimero.com/feed.xml)
+- [feed](https://medium.com/feed/google-design)
+- [feed](https://100r.co/links/rss.xml)
+- [feed](https://kayserifserif.place/feed.xml)
+- [feed](https://notlaura.com/feed)
+- [feed](https://matthiasott.com/feed)
+- [feed](https://nazhamid.com/feed.xml)
+- [feed](https://reaganray.com/feed.xml)
+- [feed](http://feeds.feedburner.com/robweychert)
+- [feed](https://samwooe.com/feed)
+- [feed](http://simplebits.com/feed.xml)
+- [feed](https://standardsmanual.com/blogs/news.atom)
+- [feed](http://feeds2.feedburner.com/Swissmiss)
+- [feed](http://feeds.feedburner.com/TheGreatDiscontent)
+- [feed](https://www.toni.li/blog/rss.xml)
+- [feed](https://dev.37signals.com/feed/posts.xml)
+- [feed](https://aerotwist.com/blog/feed)
+- [feed](https://artsy.github.io/feed)
+- [feed](http://blog.chromium.org/atom.xml)
+- [feed](https://www.cursor.com/atom.xml)
+- [feed](https://www.epicweb.dev/rss.xml)
+- [feed](https://engineering.khanacademy.org/rss.xml)
+- [feed](http://karbonbased.io/index.xml)
+- [feed](http://blog.apps.npr.org/atom.xml)
+- [feed](https://vite.dev/blog.rss)
+- [feed](https://voidzero.dev/feed.xml)
+- [feed](https://yahooeng.tumblr.com/rss)
+- [feed](https://ada.is/feed)
+- [feed](https://ahmadawais.com/feed)
+- [feed](https://macarthur.me/rss/feed.xml)
+- [feed](https://blog.alexmaccaw.com/rss)
+- [feed](https://www.alwaystwisted.com/feed.xml)
+- [feed](https://wattenberger.com/rss)
+- [feed](https://feeds.feedburner.com/kizuruen)
+- [feed](https://bensmithgall.com/feed.xml)
+- [feed](https://www.jonmellman.com/rss.xml)
+- [feed](http://kpq.github.io/chartsnthings/atom.xml)
+- [feed](https://chriscoyier.net/feed)
+- [feed](https://www.cnnr.me/feed.xml)
+- [feed](https://feedpress.me/coryd)
+- [feed](https://createaprowebsite.com/feed)
+- [feed](http://feeds.feedburner.com/CssTricks)
+- [feed](http://www.d3noob.org/feeds/posts/default)
+- [feed](https://danielcwilson.com/feed.xml)
+- [feed](https://datanews.tumblr.com/rss)
+- [feed](https://den.dev/index.xml)
+- [feed](http://feeds.feedburner.com/dropshadows)
+- [feed](https://eieio.games/feed.xml)
+- [feed](https://effectivetypescript.com/atom.xml)
+- [feed](https://ericwbailey.website/feed/feed.xml)
+- [feed](https://henry.codes/rss/writing.xml)
+- [feed](https://grepjason.sh/rss.xml)
+- [feed](http://feeds.feedburner.com/nczonline)
+- [feed](https://blog.j11y.io/rss_2.xml)
+- [feed](http://jankfree.org/feed/all.xml)
+- [feed](http://johnkeefe.net/posts.atom)
+- [feed](https://www.joshwcomeau.com/rss.xml)
+- [feed](https://kettanaito.com/blog/rss.xml)
+- [feed](http://feeds.feedburner.com/leaverou)
+- [feed](https://medium.com/feed/@mpjme)
+- [feed](https://feeds.feedburner.com/metafizzy)
+- [feed](https://bost.ocks.org/mike/index.rss)
+- [feed](http://feeds.feedburner.com/miraculous)
+- [feed](https://matthenry.fyi/feed.xml)
+- [feed](https://mtlynch.io/posts/index.xml)
+- [feed](http://perfectionkills.com/feed.xml)
+- [feed](http://feeds.feedburner.com/philipwalton)
+- [feed](https://rachsmith.com/feed.xml)
+- [feed](https://rachelandrew.co.uk/feed)
+- [feed](https://rmurphey.com/feed/feed.xml)
+- [feed](http://responsivenews.co.uk/rss)
+- [feed](https://rknight.me/subscribe/posts/atom.xml)
+- [feed](https://www.robinrendle.com/feed.xml)
+- [feed](https://shortdiv.com/index.xml)
+- [feed](https://sindresorhus.com/rss-apps.xml)
+- [feed](http://www.stubbornella.org/content/feed)
+- [feed](https://meyerweb.com/eric/thoughts/feed)
+- [feed](https://www.zhenghao.io/rss.xml)
+- [feed](https://blog.1password.com/index.xml)
+- [feed](https://www.analogue.co/feed/all)
+- [feed](https://automattic.com/feed)
+- [feed](https://backstage.io/blog/rss.xml)
+- [feed](https://blueskyweb.xyz/rss.xml)
+- [feed](http://feeds.feedburner.com/bocoup)
+- [feed](https://cordcuttersnews.com/feed)
+- [feed](https://feedbin.com/blog/atom.xml)
+- [feed](https://github.blog/all.atom)
+- [feed](https://thejamesbrand.com/blogs/stories.atom)
+- [feed](https://panic.com/blog/feed)
+- [feed](https://www.plex.tv/feed)
+- [feed](https://proton.me/blog/feed)
+- [feed](https://github.com/readme.rss)
+- [feed](https://redditinc.com/blog/rss.xml)
+- [feed](https://reporter-app.tumblr.com/rss)
+- [feed](http://feeds.feedburner.com/37signals/beMH)
+- [feed](https://gloria.social/@rizzi.rss)
+- [feed](https://newsroom.spotify.com/feed)
+- [feed](https://blog.iconfactory.com/feed)
+- [feed](https://www.nytco.com/feed)
+- [feed](https://culturedcode.com/things/blog/feed/rss.xml)
+- [feed](https://weblog.rogueamoeba.com/feed)
+- [feed](https://www.nytimes.com/wirecutter/feed)
+- [feed](https://blog.youtube/rss)
+- [feed](https://aaronstuyvenberg.com/feed.xml)
+- [feed](https://avc.xyz/api/blogs/rss/@avc)
+- [feed](https://www.david-smith.org/atom.xml)
+- [feed](https://sneak.berlin/feed.xml)
+- [feed](https://katydecorah.com/feed.xml)
+- [feed](https://www.lireo.com/feed)
+- [feed](https://www.caseyliss.com/rss)
+- [feed](https://mango.pdf.zone/feed.xml)
+- [feed](https://tumblr.mapsbynik.com/rss)
+- [feed](https://ma.tt/feed)
+- [feed](https://medium.com/feed/@mgs)
+- [feed](https://www.platformer.news/rss)
+- [feed](http://dewith.com/feed)
+- [feed](http://feeds.feedburner.com/shawnblanc)
+- [feed](https://stratechery.com/feed)
+- [feed](https://tinyprojects.dev/feed.xml)
+- [feed](https://waxy.org/feed)
+- [feed](https://web3isgoinggreat.com/feed.xml)
+- [feed](https://www.usv.com/writing/feed)
+- [feed](http://feeds.feedburner.com/zachholman)
+- [GitHub Engineering](https://github.blog/engineering.atom)
+- [Google Developers Blog](http://feeds.feedburner.com/GDBcode)
+- [Google Developers Blog](https://developers.googleblog.com/feeds/posts/default)
+- [Google Open Source Blog](http://feeds.feedburner.com/GoogleOpenSourceBlog)
+- [Google Search Central Blog](http://feeds.feedburner.com/blogspot/amDG)
+- [Government Digital Service](https://gds.blog.gov.uk/feed)
+- [Grab Tech](http://engineering.grab.com/feed.xml)
+- [Irrational Exuberance](https://lethain.com/feeds)
+- [JetBrains News | JetBrains Blog](https://blog.jetbrains.com/blog/feed)
+- [KA Engineering](http://engineering.khanacademy.org/rss.xml)
+- [Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles.atom)
+- [Medium Engineering - Medium](https://medium.com/feed/medium-eng)
+- [Mozilla Foundation Blog](https://foundation.mozilla.org/en/blog/atom)
+- [Mozilla Services](https://blog.mozilla.org/services/feed)
+- [Opera News](https://blogs.opera.com/news/feed)
+- [Overflow - Buffer Resources](https://buffer.com/resources/overflow/rss)
+- [Performance @ Shopify - Blog](https://performance.shopify.com/blogs/blog.atom)
+- [Pinterest Engineering Blog - Medium](https://medium.com/feed/pinterest-engineering)
+- [Planet Igalia](http://planet.igalia.com/atom.xml)
+- [Q42 Engineering](https://engineering.q42.nl/rss)
+- [RSS](https://chrbailey.github.io/deeptrend/feed.xml)
+- [Scott Logic](https://blog.scottlogic.com/atom.xml)
+- [Slack Engineering](https://slack.engineering/feed)
+- [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/blog.rss)
+- [Spotify Engineering](https://engineering.atspotify.com/feed)
+- [Spotify Engineering](http://labs.spotify.com/feed)
+- [Stripe Blog](https://stripe.com/blog/feed.rss)
+- [Sundar Pichai(@sundarpichai)](https://api.xgo.ing/rss/user/8324d65a63dc42c584a8c08cc8323c9f)
+- [Technology + Creativity at the BBC Feed](http://www.bbc.co.uk/blogs/internet/rss)
+- [Technology in government](https://gdstechnology.blog.gov.uk/feed)
+- [The Airbnb Tech Blog - Medium](https://medium.com/feed/airbnb-engineering)
+- [The Airtable Engineering Blog](https://medium.com/feed/airtable-eng)
+- [The Keyword (blog.google)](https://blog.google/rss)
+- [The PayPal Technology Blog](https://medium.com/feed/paypal-tech)
+- [The PayPal Technology Blog - Medium](https://medium.com/feed/paypal-engineering)
+- [The Telegraph Engineering](https://medium.com/feed/the-telegraph-engineering)
+- [The Wikipedia Web team blog](https://phabricator.wikimedia.org/phame/blog/feed/9)
+- [trivago tech blog](https://tech.trivago.com/rss.xml)
+- [Widen Engineering](http://engineering.widen.com/feed.xml)
 
-### 💰 Finance & Investing (36)
+## 🎨 Product Design & UX (62)
 
-- [Afford Anything](https://affordanything.com/feed) — `https://affordanything.com/feed`
-- [All News](https://www.investing.com/rss/news.rss) — `https://www.investing.com/rss/news.rss`
-- [Breaking News on Seeking Alpha](https://seekingalpha.com/market_currents.xml) — `https://seekingalpha.com/market_currents.xml`
-- [Budgets Are Sexy](https://feeds2.feedburner.com/budgetsaresexy) — `https://feeds2.feedburner.com/budgetsaresexy`
-- [Business Line - Home](https://www.thehindubusinessline.com/feeder/default.rss) — `https://www.thehindubusinessline.com/feeder/default.rss`
-- [Business News - Latest Headlines](https://www.businessnews.com.au/rssfeed/latest.rss) — `https://www.businessnews.com.au/rssfeed/latest.rss`
-- [BusinessWorld](https://www.bworldonline.com/feed) — `https://www.bworldonline.com/feed`
-- [Economic Times](https://economictimes.indiatimes.com/rssfeedsdefault.cms) — `https://economictimes.indiatimes.com/rssfeedsdefault.cms`
-- [Fabio Natalucci Post](http://feeds.feedburner.com/FabioNatalucciPost) — `http://feeds.feedburner.com/FabioNatalucciPost`
-- [Financial Post](https://business.financialpost.com/feed) — `https://business.financialpost.com/feed`
-- [Financial Samurai](https://www.financialsamurai.com/feed) — `https://www.financialsamurai.com/feed`
-- [Fortune](https://fortune.com/feed) — `https://fortune.com/feed`
-- [Frugalwoods](https://feeds.feedburner.com/Frugalwoods) — `https://feeds.feedburner.com/Frugalwoods`
-- [Get Rich Slowly](https://www.getrichslowly.org/feed) — `https://www.getrichslowly.org/feed`
-- [HBR IdeaCast](http://feeds.harvardbusiness.org/harvardbusiness/ideacast) — `http://feeds.harvardbusiness.org/harvardbusiness/ideacast`
-- [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/feed) — `https://www.iwillteachyoutoberich.com/feed`
-- [International: Top News And Analysis](https://www.cnbc.com/id/100727362/device/rss/rss.html) — `https://www.cnbc.com/id/100727362/device/rss/rss.html`
-- [Learn To Trade The Market](https://www.learntotradethemarket.com/feed) — `https://www.learntotradethemarket.com/feed`
-- [Making Sense Of Cents](https://www.makingsenseofcents.com/feed) — `https://www.makingsenseofcents.com/feed`
-- [Millennial Money](https://millennialmoney.com/feed) — `https://millennialmoney.com/feed`
-- [Money Saving Mom®](https://moneysavingmom.com/feed) — `https://moneysavingmom.com/feed`
-- [Money Under 30](https://www.moneyunder30.com/feed) — `https://www.moneyunder30.com/feed`
-- [MoneyNing](http://feeds.feedburner.com/MoneyNing) — `http://feeds.feedburner.com/MoneyNing`
-- [Moneyweb](https://www.moneyweb.co.za/feed) — `https://www.moneyweb.co.za/feed`
-- [Nerd's Eye View | Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) — `http://feeds.feedblitz.com/kitcesnerdseyeview&x=1`
-- [NerdWallet](https://www.nerdwallet.com/blog/feed) — `https://www.nerdwallet.com/blog/feed`
-- [Oblivious Investor](https://obliviousinvestor.com/feed) — `https://obliviousinvestor.com/feed`
-- [Personal Finance](https://reddit.com/r/personalfinance/.rss) — `https://reddit.com/r/personalfinance/.rss`
-- [Ray Dalio(@RayDalio)](https://api.xgo.ing/rss/user/4838204097ed422eac24ad48e68dc3ff) — `https://api.xgo.ing/rss/user/4838204097ed422eac24ad48e68dc3ff`
-- [SEBI RSS Feed](https://www.sebi.gov.in/sebirss.xml) — `https://www.sebi.gov.in/sebirss.xml`
-- [SavingAdvice.com Blog](https://www.savingadvice.com/feed) — `https://www.savingadvice.com/feed`
-- [The College Investor](https://thecollegeinvestor.com/feed) — `https://thecollegeinvestor.com/feed`
-- [US Top News and Analysis](https://www.cnbc.com/id/100003114/device/rss/rss.html) — `https://www.cnbc.com/id/100003114/device/rss/rss.html`
-- [Well Kept Wallet](https://wellkeptwallet.com/feed) — `https://wellkeptwallet.com/feed`
-- [Wise Bread](http://feeds.killeraces.com/wisebread) — `http://feeds.killeraces.com/wisebread`
-- [Yahoo Finance](https://finance.yahoo.com/news/rssindex) — `https://finance.yahoo.com/news/rssindex`
+- [1stwebdesigner](https://1stwebdesigner.com/feed)
+- [A Daily Dose of Architecture Books](http://feeds.feedburner.com/archidose)
+- [Akshay Kothari(@akothari)](https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b)
+- [ArchDaily](http://feeds.feedburner.com/Archdaily)
+- [Architecture](https://www.reddit.com/r/architecture/.rss)
+- [architecture – designboom | architecture & design magazine](https://www.designboom.com/architecture/feed)
+- [Baymard Institute](http://feeds.baymard.com/baymard?_ga=1.110790726.2145183607.1414082693)
+- [Binyuan Hui(@huybery)](https://api.xgo.ing/rss/user/f54b2b40185943ce8f48a880110b7bc2)
+- [Boxes and Arrows](http://boxesandarrows.com/rss)
+- [Car Body Design](https://www.carbodydesign.com/feed)
+- [Core77](http://feeds.feedburner.com/core77/blog)
+- [Darin Senneff - UX Designer and Developer](https://www.darins.page/articles/feed)
+- [Design in government](https://designnotes.blog.gov.uk/feed)
+- [Figma(@figma)](https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2)
+- [Firefox UX](https://blog.mozilla.org/ux/feed)
+- [FlowingData](https://flowingdata.com/feed)
+- [GoodUI Blog Feed](http://goodui.org/blog/feed)
+- [Hey, designer!](https://heydesigner.com/feed)
+- [Iain Bean](https://iainbean.com/feed.xml)
+- [Industrial Empathy](https://www.industrialempathy.com/feed/feed.xml)
+- [Inside Intercom](https://www.intercom.com/blog/feed)
+- [JUST™ Creative](https://feeds.feedburner.com/JustCreativeDesignBlog)
+- [Kev Quirk](https://kevq.uk/feed)
+- [Koos Looijesteijn - Everything](https://www.kooslooijesteijn.net/feed.xml)
+- [Lee Munroe](http://feeds2.feedburner.com/LeeMunroeBlog)
+- [Lireo Designs](http://www.lireo.com/feed)
+- [LukeW | Digital Product Design + Strategy](http://feeds.feedburner.com/FunctioningForm)
+- [Manu's Feed](https://manuelmoreale.com/feed/rss)
+- [Matthias Ott – User Experience Designer](https://matthiasott.com/rss)
+- [Max Design articles](https://www.maxdesign.com.au/feed.xml)
+- [Mozilla Open Design](https://blog.mozilla.org/opendesign/feed)
+- [NN/g latest articles and announcements](https://www.nngroup.com/feed/rss)
+- [Notion(@NotionHQ)](https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede)
+- [OddBird](http://oddbird.net/feed.atom)
+- [Passer6y's Blog](https://0day.design/atom.xml)
+- [Paul Foster Design](https://www.paulfosterdesign.co.uk/feed.xml)
+- [Pimp my Type](https://pimpmytype.com/feed)
+- [Pixelambacht](https://pixelambacht.nl/feed.xml)
+- [Product Identity](https://productidentity.co/feed)
+- [Product Life](https://productlife.to/feed)
+- [Robin Rendle](http://robinrendle.com/feed.xml)
+- [Scott Jenson](https://jenson.org/feed)
+- [sebastiangreger.net (*feed incomplete)](https://sebastiangreger.net/feed)
+- [Slack Design](https://slack.design/feed)
+- [Stories by Pavel Laptev on Medium](https://medium.com/feed/@pavellaptev)
+- [The Ad Contrarian](http://feeds.feedburner.com/blogspot/aDYs)
+- [The Black Box of Product Management - Medium](https://medium.com/feed/the-black-box-of-product-management)
+- [The Internet Marketing Driver](https://www.gsqi.com/marketing-blog/feed)
+- [The Moz Blog](http://feedpress.me/mozblog)
+- [Thomas Byttebier](http://feeds.feedburner.com/thehotseat)
+- [Tobias Ahlin](http://tobiasahlin.com/feed.xml)
+- [User Experience](https://www.reddit.com/r/userexperience/.rss)
+- [UX Collective - Medium](https://uxdesign.cc/feed)
+- [UX Daily - User Experience Daily](https://interaction-design.org/rss/site_news.xml)
+- [UX Magazine](https://uxmag.com/feed)
+- [UX Movement](http://feeds.feedburner.com/uxmovement)
+- [UX Movement](https://uxmovement.com/feed)
+- [UX Planet](https://uxplanet.org/feed)
+- [UXmatters](https://uxmatters.com/index.xml)
+- [Wix UX](https://wix-ux.com/feed)
+- [Yanko Design](http://feeds.feedburner.com/yankodesign)
+- [Zeichenschatz](http://www.zeichenschatz.net/feed)
 
-### 🌿 Life & Culture (185)
+## 🚀 Startups & Indie Hackers (65)
 
-- [/Film](https://feeds2.feedburner.com/slashfilm) — `https://feeds2.feedburner.com/slashfilm`
-- [101 Cookbooks](https://www.101cookbooks.com/feed) — `https://www.101cookbooks.com/feed`
-- [500px](https://iso.500px.com/feed) — `https://iso.500px.com/feed`
-- [A Beautiful Mess](https://abeautifulmess.com/feed) — `https://abeautifulmess.com/feed`
-- [A year of reading the world](https://ayearofreadingtheworld.com/feed) — `https://ayearofreadingtheworld.com/feed`
-- [Aestas Book Blog](https://aestasbookblog.com/feed) — `https://aestasbookblog.com/feed`
-- [Ain't It Cool News Feed](https://www.aintitcool.com/node/feed) — `https://www.aintitcool.com/node/feed`
-- [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/projects.rss) — `https://www.apartmenttherapy.com/projects.rss`
-- [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/design.rss) — `https://www.apartmenttherapy.com/design.rss`
-- [Architectural Digest](https://www.architecturaldigest.com/feed/rss) — `https://www.architecturaldigest.com/feed/rss`
-- [Ars Technica](https://feeds.arstechnica.com/arstechnica/index) — `https://feeds.arstechnica.com/arstechnica/index`
-- [Atlas Obscura - Latest Articles and Places](https://www.atlasobscura.com/feeds/latest) — `https://www.atlasobscura.com/feeds/latest`
-- [Autocar RSS Feed](https://www.autocar.co.uk/rss) — `https://www.autocar.co.uk/rss`
-- [AwkwardFamilyPhotos.com](https://awkwardfamilyphotos.com/feed) — `https://awkwardfamilyphotos.com/feed`
-- [BBC News - Science & Environment](http://feeds.bbci.co.uk/news/science_and_environment/rss.xml) — `http://feeds.bbci.co.uk/news/science_and_environment/rss.xml`
-- [BBC Sport - Cricket](http://feeds.bbci.co.uk/sport/cricket/rss.xml) — `http://feeds.bbci.co.uk/sport/cricket/rss.xml`
-- [BBC Sport - Sport](http://feeds.bbci.co.uk/sport/rss.xml) — `http://feeds.bbci.co.uk/sport/rss.xml`
-- [BMW BLOG](https://feeds.feedburner.com/BmwBlog) — `https://feeds.feedburner.com/BmwBlog`
-- [BOOK RIOT](https://bookriot.com/feed) — `https://bookriot.com/feed`
-- [Bartosz Ciechanowski](https://ciechanow.ski//atom.xml) — `https://ciechanow.ski//atom.xml`
-- [Bartosz Ciechanowski](https://ciechanow.ski/atom.xml) — `https://ciechanow.ski/atom.xml`
-- [Basic Apple Guy | Apple Wallpapers, Reviews, and Merch](https://basicappleguy.com/basicappleblog?format=rss) — `https://basicappleguy.com/basicappleblog?format=rss`
-- [Beauty - ELLE](https://www.elle.com/rss/beauty.xml) — `https://www.elle.com/rss/beauty.xml`
-- [Beauty - Fashionista](https://fashionista.com/.rss/excerpt/beauty) — `https://fashionista.com/.rss/excerpt/beauty`
-- [Big Picture](https://www.bostonglobe.com/rss/bigpicture) — `https://www.bostonglobe.com/rss/bigpicture`
-- [Bike EXIF](https://www.bikeexif.com/feed) — `https://www.bikeexif.com/feed`
-- [Blog - decor8](https://www.decor8blog.com/blog?format=rss) — `https://www.decor8blog.com/blog?format=rss`
-- [Blog – The Beauty Brains](https://thebeautybrains.com/blog/feed) — `https://thebeautybrains.com/blog/feed`
-- [CNET News](https://www.cnet.com/rss/news) — `https://www.cnet.com/rss/news`
-- [Canon Rumors – Your best source for Canon rumors, leaks and gossip](https://www.canonrumors.com/feed) — `https://www.canonrumors.com/feed`
-- [Carscoops](https://www.carscoops.com/feed) — `https://www.carscoops.com/feed`
-- [Centsational Style](https://centsationalstyle.com/feed) — `https://centsationalstyle.com/feed`
-- [Chocolate & Zucchini](https://cnz.to/feed) — `https://cnz.to/feed`
-- [ComingSoon.net](https://www.comingsoon.net/feed) — `https://www.comingsoon.net/feed`
-- [Consequence](http://consequenceofsound.net/feed) — `http://consequenceofsound.net/feed`
-- [Cracked: All Posts](http://feeds.feedburner.com/CrackedRSS) — `http://feeds.feedburner.com/CrackedRSS`
-- [Cricket](https://www.reddit.com/r/Cricket/.rss) — `https://www.reddit.com/r/Cricket/.rss`
-- [Cricket – The Roar](https://www.theroar.com.au/cricket/feed) — `https://www.theroar.com.au/cricket/feed`
-- [Dan Carlin's Hardcore History](https://feeds.feedburner.com/dancarlin/history?format=xml) — `https://feeds.feedburner.com/dancarlin/history?format=xml`
-- [David Lebovitz](https://www.davidlebovitz.com/feed) — `https://www.davidlebovitz.com/feed`
-- [Deadline](https://deadline.com/feed) — `https://deadline.com/feed`
-- [Design MilkArchitecture – Design Milk](https://design-milk.com/category/architecture/feed) — `https://design-milk.com/category/architecture/feed`
-- [Design MilkInterior Design – Design Milk](https://design-milk.com/category/interior-design/feed) — `https://design-milk.com/category/interior-design/feed`
-- [Digital Photography School](https://feeds.feedburner.com/DigitalPhotographySchool) — `https://feeds.feedburner.com/DigitalPhotographySchool`
-- [Doityourself.com](https://www.doityourself.com/feed) — `https://www.doityourself.com/feed`
-- [EDM.com - The Latest Electronic Dance Music News, Reviews & Artists](https://edm.com/.rss/full) — `https://edm.com/.rss/full`
-- [EFL Championship](https://www.reddit.com/r/Championship/.rss?format=xml) — `https://www.reddit.com/r/Championship/.rss?format=xml`
-- [Escapist Magazine](https://www.escapistmagazine.com/v2/feed) — `https://www.escapistmagazine.com/v2/feed`
-- [Eurogamer.net](https://www.eurogamer.net/?format=rss) — `https://www.eurogamer.net/?format=rss`
-- [Explosm.net](http://feeds.feedburner.com/Explosm) — `http://feeds.feedburner.com/Explosm`
-- [FAIL Blog](http://feeds.feedburner.com/failblog) — `http://feeds.feedburner.com/failblog`
-- [Fashion - ELLE](https://www.elle.com/rss/fashion.xml) — `https://www.elle.com/rss/fashion.xml`
-- [Fashion | The Guardian](https://www.theguardian.com/fashion/rss) — `https://www.theguardian.com/fashion/rss`
-- [Fashionista](https://fashionista.com/.rss/excerpt) — `https://fashionista.com/.rss/excerpt`
-- [FirstShowing.net](https://www.firstshowing.net/feed) — `https://www.firstshowing.net/feed`
-- [Food52](http://feeds.feedburner.com/food52-TheAandMBlog) — `http://feeds.feedburner.com/food52-TheAandMBlog`
-- [Football - The People's Sport](https://www.reddit.com/r/football/.rss?format=xml) — `https://www.reddit.com/r/football/.rss?format=xml`
-- [Formula 1](https://www.reddit.com/r/formula1/.rss) — `https://www.reddit.com/r/formula1/.rss`
-- [From Head To Toe](http://feeds.feedburner.com/frmheadtotoe) — `http://feeds.feedburner.com/frmheadtotoe`
-- [GameSpot - All Content](https://www.gamespot.com/feeds/mashup) — `https://www.gamespot.com/feeds/mashup`
-- [Gizmodo](https://gizmodo.com/tag/science/rss) — `https://gizmodo.com/tag/science/rss`
-- [Green Kitchen Stories](https://greenkitchenstories.com/feed) — `https://greenkitchenstories.com/feed`
-- [History in 28-minutes](https://www.historyisnowmagazine.com/blog?format=RSS) — `https://www.historyisnowmagazine.com/blog?format=RSS`
-- [HistoryNet](http://www.historynet.com/feed) — `http://www.historynet.com/feed`
-- [How Sweet Eats](https://www.howsweeteats.com/feed) — `https://www.howsweeteats.com/feed`
-- [How-To Geek](https://www.howtogeek.com/feed) — `https://www.howtogeek.com/feed`
-- [I Can Has Cheezburger?](http://feeds.feedburner.com/icanhascheezburger) — `http://feeds.feedburner.com/icanhascheezburger`
-- [IGN All](http://feeds.ign.com/ign/all) — `http://feeds.ign.com/ign/all`
-- [IKEA Hackers](https://www.ikeahackers.net/feed) — `https://www.ikeahackers.net/feed`
-- [Ideal Home](https://www.idealhome.co.uk/feed) — `https://www.idealhome.co.uk/feed`
-- [In My Own Style](https://inmyownstyle.com/feed) — `https://inmyownstyle.com/feed`
-- [IndieWire](https://www.indiewire.com/feed) — `https://www.indiewire.com/feed`
-- [Interior Design (Interior Architecture)](https://www.reddit.com/r/InteriorDesign/.rss) — `https://www.reddit.com/r/InteriorDesign/.rss`
-- [Interior Design Ideas](http://www.home-designing.com/feed) — `http://www.home-designing.com/feed`
-- [Into The Gloss - Beauty Tips, Trends, And Product Reviews](https://feeds.feedburner.com/intothegloss/oqoU) — `https://feeds.feedburner.com/intothegloss/oqoU`
-- [Jalopnik](https://jalopnik.com/rss) — `https://jalopnik.com/rss`
-- [Joy the Baker](http://joythebaker.com/feed) — `http://joythebaker.com/feed`
-- [Kirkus Reviews](https://www.kirkusreviews.com/feeds/rss) — `https://www.kirkusreviews.com/feeds/rss`
-- [Kitchn | Inspiring cooks, nourishing homes](https://www.thekitchn.com/main.rss) — `https://www.thekitchn.com/main.rss`
-- [Latest Content - Car and Driver](https://www.caranddriver.com/rss/all.xml) — `https://www.caranddriver.com/rss/all.xml`
-- [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) — `https://www.sciencedaily.com/rss/all.xml`
-- [Lifehacker](https://lifehacker.com/rss) — `https://lifehacker.com/rss`
-- [Light Stalking](https://www.lightstalking.com/feed) — `https://www.lightstalking.com/feed`
-- [Lightroom Killer Tips](https://lightroomkillertips.com/feed) — `https://lightroomkillertips.com/feed`
-- [Live Life Travel](https://www.livelifetravel.world/feed) — `https://www.livelifetravel.world/feed`
-- [Liz Marie Blog](https://www.lizmarieblog.com/feed) — `https://www.lizmarieblog.com/feed`
-- [Love and Olive Oil](https://www.loveandoliveoil.com/feed) — `https://www.loveandoliveoil.com/feed`
-- [MUO - Feed](https://www.makeuseof.com/feed) — `https://www.makeuseof.com/feed`
-- [MacRumors: Mac News and Rumors - Mac Blog](http://feeds.macrumors.com/MacRumors-Mac) — `http://feeds.macrumors.com/MacRumors-Mac`
-- [Macworld.com](https://www.macworld.com/index.rss) — `https://www.macworld.com/index.rss`
-- [Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup](https://www.makeupandbeautyblog.com/feed) — `https://www.makeupandbeautyblog.com/feed`
-- [Mashable](http://feeds.mashable.com/Mashable) — `http://feeds.mashable.com/Mashable`
-- [Movie News and Discussion](https://reddit.com/r/movies/.rss) — `https://reddit.com/r/movies/.rss`
-- [Music Business Worldwide](https://www.musicbusinessworldwide.com/feed) — `https://www.musicbusinessworldwide.com/feed`
-- [NASA Breaking News](https://www.nasa.gov/rss/dyn/breaking_news.rss) — `https://www.nasa.gov/rss/dyn/breaking_news.rss`
-- [NDTV Sports - Cricket](http://feeds.feedburner.com/ndtvsports-cricket) — `http://feeds.feedburner.com/ndtvsports-cricket`
-- [NYT > Food](https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml) — `https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml`
-- [NYT > Japan](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) — `https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml`
-- [NYT > Science](https://rss.nytimes.com/services/xml/rss/nyt/Science.xml) — `https://rss.nytimes.com/services/xml/rss/nyt/Science.xml`
-- [NYT > Style](https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml) — `https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml`
-- [NYT > Travel](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml) — `https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml`
-- [Ness Labs](https://nesslabs.com/feed) — `https://nesslabs.com/feed`
-- [Neuroscience News](http://neurosciencenews.com/feed) — `http://neurosciencenews.com/feed`
-- [Neuroscience News -- ScienceDaily](https://sciencedaily.com/rss/mind_brain/neuroscience.xml) — `https://sciencedaily.com/rss/mind_brain/neuroscience.xml`
-- [New Scientist - Space](https://www.newscientist.com/subject/space/feed) — `https://www.newscientist.com/subject/space/feed`
-- [Nomadic Matt's Travel Site](https://www.nomadicmatt.com/travel-blog/feed) — `https://www.nomadicmatt.com/travel-blog/feed`
-- [Oh Happy Day!](http://ohhappyday.com/feed) — `http://ohhappyday.com/feed`
-- [Oh She Glows](https://ohsheglows.com/feed) — `https://ohsheglows.com/feed`
-- [One Big Photo](http://feeds.feedburner.com/OneBigPhoto) — `http://feeds.feedburner.com/OneBigPhoto`
-- [PHD Comics](http://phdcomics.com/gradfeed.php) — `http://phdcomics.com/gradfeed.php`
-- [POPSUGAR Beauty](https://www.popsugar.com/beauty/feed) — `https://www.popsugar.com/beauty/feed`
-- [POPSUGAR Fashion](https://www.popsugar.com/fashion/feed) — `https://www.popsugar.com/fashion/feed`
-- [Page Array – NewInBooks](https://www.newinbooks.com/feed) — `https://www.newinbooks.com/feed`
-- [Penny Arcade](https://www.penny-arcade.com/feed) — `https://www.penny-arcade.com/feed`
-- [PetaPixel](https://petapixel.com/feed) — `https://petapixel.com/feed`
-- [Phys.org - latest science and technology news stories](https://phys.org/rss-feed) — `https://phys.org/rss-feed`
-- [PlayStation.Blog](http://feeds.feedburner.com/psblog) — `http://feeds.feedburner.com/psblog`
-- [Polygon -  All](https://www.polygon.com/rss/index.xml) — `https://www.polygon.com/rss/index.xml`
-- [PsyBlog](http://feeds.feedburner.com/PsychologyBlog) — `http://feeds.feedburner.com/PsychologyBlog`
-- [Psychology Headlines Around the World](http://www.socialpsychology.org/headlines.rss) — `http://www.socialpsychology.org/headlines.rss`
-- [RSS](https://usesthis.com/feed.atom) — `https://usesthis.com/feed.atom`
-- [RSS: News](http://pitchfork.com/rss/news) — `http://pitchfork.com/rss/news`
-- [Rawkblog](http://feeds.feedburner.com/TheRawkingRefusesToStop) — `http://feeds.feedburner.com/TheRawkingRefusesToStop`
-- [Reddit Science](https://reddit.com/r/science/.rss) — `https://reddit.com/r/science/.rss`
-- [Reddit Sports](https://www.reddit.com/r/sports.rss) — `https://www.reddit.com/r/sports.rss`
-- [Refinery29](https://www.refinery29.com/beauty/rss.xml) — `https://www.refinery29.com/beauty/rss.xml`
-- [Refinery29](https://www.refinery29.com/fashion/rss.xml) — `https://www.refinery29.com/fashion/rss.xml`
-- [Rock, Paper, Shotgun](http://feeds.feedburner.com/RockPaperShotgun) — `http://feeds.feedburner.com/RockPaperShotgun`
-- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/comic/rss) — `https://www.smbc-comics.com/comic/rss`
-- [Science Latest](https://www.wired.com/feed/category/science/latest/rss) — `https://www.wired.com/feed/category/science/latest/rss`
-- [Science-Based Medicine](https://sciencebasedmedicine.org/feed) — `https://sciencebasedmedicine.org/feed`
-- [ScienceAlert](https://www.sciencealert.com/rss) — `https://www.sciencealert.com/rss`
-- [Scientific American Content: Global](http://rss.sciam.com/ScientificAmerican-Global) — `http://rss.sciam.com/ScientificAmerican-Global`
-- [Scott H Young](https://feeds.feedburner.com/scotthyoung/HAHx) — `https://feeds.feedburner.com/scotthyoung/HAHx`
-- [Serious Eats: Recipes](http://feeds.feedburner.com/seriouseats/recipes) — `http://feeds.feedburner.com/seriouseats/recipes`
-- [Shutterbean](http://www.shutterbean.com/feed) — `http://www.shutterbean.com/feed`
-- [Skinnytaste](https://www.skinnytaste.com/feed) — `https://www.skinnytaste.com/feed`
-- [Sky & Telescope](https://www.skyandtelescope.com/feed) — `https://www.skyandtelescope.com/feed`
-- [So many books, so little time](https://reddit.com/r/books/.rss) — `https://reddit.com/r/books/.rss`
-- [Soccer News](https://www.soccernews.com/feed) — `https://www.soccernews.com/feed`
-- [Space.com](https://www.space.com/feeds/all) — `https://www.space.com/feeds/all`
-- [Speedhunters](http://feeds.feedburner.com/speedhunters) — `http://feeds.feedburner.com/speedhunters`
-- [Sprouted Kitchen](https://www.sproutedkitchen.com/home?format=rss) — `https://www.sproutedkitchen.com/home?format=rss`
-- [Strobist](http://feeds.feedburner.com/blogspot/WOBq) — `http://feeds.feedburner.com/blogspot/WOBq`
-- [Stuck in Customs](https://stuckincustoms.com/feed) — `https://stuckincustoms.com/feed`
-- [TED Talks Daily (SD video)](https://pa.tedcdn.com/feeds/talks.rss) — `https://pa.tedcdn.com/feeds/talks.rss`
-- [TED Talks Daily (SD video)](http://feeds.feedburner.com/tedtalks_video) — `http://feeds.feedburner.com/tedtalks_video`
-- [TV Fanatic](https://www.tvfanatic.com/rss.xml) — `https://www.tvfanatic.com/rss.xml`
-- [TVLine](https://tvline.com/feed) — `https://tvline.com/feed`
-- [Television News and Discussion](https://reddit.com/r/television/.rss) — `https://reddit.com/r/television/.rss`
-- [Tennis - ATP World Tour](https://www.atptour.com/en/media/rss-feed/xml-feed) — `https://www.atptour.com/en/media/rss-feed/xml-feed`
-- [Tennis News & Discussion](https://www.reddit.com/r/tennis/.rss) — `https://www.reddit.com/r/tennis/.rss`
-- [The Ancient Gaming Noob](http://feeds.feedburner.com/TheAncientGamingNoob) — `http://feeds.feedburner.com/TheAncientGamingNoob`
-- [The Architect’s Newspaper](https://archpaper.com/feed) — `https://archpaper.com/feed`
-- [The Beauty Look Book](https://thebeautylookbook.com/feed) — `https://thebeautylookbook.com/feed`
-- [The Blog of Author Tim Ferriss](https://tim.blog/feed) — `https://tim.blog/feed`
-- [The Bloggess](https://thebloggess.com/feed) — `https://thebloggess.com/feed`
-- [The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.](https://thedesignfiles.net/feed) — `https://thedesignfiles.net/feed`
-- [The Inspired Room](https://theinspiredroom.net/feed) — `https://theinspiredroom.net/feed`
-- [The Onion](https://www.theonion.com/rss) — `https://www.theonion.com/rss`
-- [The Truth About Cars](https://www.thetruthaboutcars.com/feed) — `https://www.thetruthaboutcars.com/feed`
-- [The Verge](http://www.theverge.com/rss/full.xml) — `http://www.theverge.com/rss/full.xml`
-- [The Verge -  All Posts](https://www.theverge.com/rss/index.xml) — `https://www.theverge.com/rss/index.xml`
-- [The best vintage and classic cars for sale online | Bring a Trailer](https://bringatrailer.com/feed) — `https://bringatrailer.com/feed`
-- [Thrifty Decor Chick](http://feeds.feedburner.com/blogspot/ZBcZ) — `http://feeds.feedburner.com/blogspot/ZBcZ`
-- [TouchArcade - iPhone, iPad, Android Games Forum](https://toucharcade.com/community/forums/-/index.rss) — `https://toucharcade.com/community/forums/-/index.rss`
-- [Travel | The Guardian](https://www.theguardian.com/uk/travel/rss) — `https://www.theguardian.com/uk/travel/rss`
-- [Trendir](https://www.trendir.com/feed) — `https://www.trendir.com/feed`
-- [Variety](https://variety.com/feed) — `https://variety.com/feed`
-- [Who What Wear](https://www.whowhatwear.com/rss) — `https://www.whowhatwear.com/rss`
-- [Wired](https://www.wired.com/feed/rss) — `https://www.wired.com/feed/rss`
-- [Wokeread](https://wokeread.home.blog/feed) — `https://wokeread.home.blog/feed`
-- [WonderHowTo](https://www.wonderhowto.com/rss.xml) — `https://www.wonderhowto.com/rss.xml`
-- [Xbox's Major Nelson](https://majornelson.com/feed) — `https://majornelson.com/feed`
-- [Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games](https://sports.yahoo.com/rss) — `https://sports.yahoo.com/rss`
-- [Young House Love](https://www.younghouselove.com/feed) — `https://www.younghouselove.com/feed`
-- [decoist](https://www.decoist.com/feed) — `https://www.decoist.com/feed`
-- [design – designboom | architecture & design magazine](https://www.designboom.com/design/feed) — `https://www.designboom.com/design/feed`
-- [filfre.net](https://www.filfre.net/feed) — `https://www.filfre.net/feed`
-- [r/gaming](https://www.reddit.com/r/gaming.rss) — `https://www.reddit.com/r/gaming.rss`
-- [r/iPhone](https://www.reddit.com/r/iphone/.rss) — `https://www.reddit.com/r/iphone/.rss`
-- [smitten kitchen](http://feeds.feedburner.com/smittenkitchen) — `http://feeds.feedburner.com/smittenkitchen`
-- [the TV addict](http://feeds.feedburner.com/thetvaddict/AXob) — `http://feeds.feedburner.com/thetvaddict/AXob`
-- [www.espn.com - TENNIS](https://www.espn.com/espn/rss/tennis/news) — `https://www.espn.com/espn/rss/tennis/news`
-- [www.espn.com - TOP](https://www.espn.com/espn/rss/news) — `https://www.espn.com/espn/rss/news`
+- [a16z(@a16z)](https://api.xgo.ing/rss/user/f3fedf817599470dbf8d8d11f0872475)
+- [Adam D'Angelo(@adamdangelo)](https://api.xgo.ing/rss/user/3042b6f912b24f64982cc23f7bd59681)
+- [Amjad Masad](https://amasad.me/rss)
+- [Amjad Masad(@amasad)](https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82)
+- [Andrew Chen](http://andrewchen.co/feed)
+- [andrew chen(@andrewchen)](https://api.xgo.ing/rss/user/a3eb6beb2d894da3a9b7ab6d2e46790e)
+- [Anton Osika – eu/acc(@antonosika)](https://api.xgo.ing/rss/user/5f13b32b124a41cfb659f903a84032b1)
+- [AVC](https://avc.com/feed)
+- [Backlinko](http://backlinko.com/feed)
+- [blog – Feld Thoughts](https://feld.com/archives/tag/blog/feed)
+- [Both Sides of the Table](http://feeds.feedburner.com/BothSidesOfTheTable)
+- [Convince and Convert](http://www.convinceandconvert.com/feed)
+- [Coywolf Pro](https://coywolf.pro/feed)
+- [Entrepreneur](http://feeds.feedburner.com/entrepreneur/latest)
+- [Essays - Benedict Evans](http://ben-evans.com/benedictevans?format=rss)
+- [Fast Company](http://feeds.feedburner.com/fastcompany/headlines)
+- [Feld Thoughts](https://feld.com/feed)
+- [Guy Kawasaki](http://guykawasaki.com/feed)
+- [Hacker News](http://news.ycombinator.com/rss)
+- [Hacker News Ask](https://hnrss.org/ask)
+- [Hacker News 最佳](https://hnrss.org/best)
+- [Hacker News: Front Page](https://hnrss.org/frontpage)
+- [Hacker News: Launches](https://hnrss.org/launches)
+- [Hacker News: Show HN](http://hnrss.org/show)
+- [HBR.org](http://feeds.harvardbusiness.org/harvardbusiness)
+- [Hubspot](http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?maxcount=25&moduleid=8441&tabid=6307)
+- [Inc.com](https://www.inc.com/rss)
+- [Jerry Liu(@jerryjliu0)](https://api.xgo.ing/rss/user/b3d904c0d7c446558ef3a1e7f2eb362b)
+- [John Egan](http://jwegan.com/feed/rss)
+- [Justin Welsh(@thejustinwelsh)](https://api.xgo.ing/rss/user/58894bf2934a426ca833c682da2bc810)
+- [Justine Moore(@venturetwins)](https://api.xgo.ing/rss/user/c61046471f174d86bc0eb76cb44a21c3)
+- [Marc Andreessen 🇺🇸(@pmarca)](https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008)
+- [Masters of Scale with Reid Hoffman](https://rss.art19.com/masters-of-scale)
+- [Mike Krieger(@mikeyk)](https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29)
+- [Moz](http://feeds.feedburner.com/seomoz)
+- [MyWifeQuitHerJob.com](https://mywifequitherjob.com/feed)
+- [Naval(@naval)](https://api.xgo.ing/rss/user/b43bc203409e4c5a9c3ae86fe1ac00c9)
+- [Pat Walls](https://patwalls.com/feed)
+- [Paul Graham - Essays](https://rsshub.imlg.co/paulgraham/articles)
+- [Paul Graham(@paulg)](https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc)
+- [Product Hunt — The best new products, every day](http://www.producthunt.com/feed)
+- [Quick Sprout](http://www.quicksprout.com/feed)
+- [Quick Sprout](https://www.quicksprout.com/rss)
+- [Sahil Lavingia(@shl)](https://api.xgo.ing/rss/user/baad3713defe4182844d2756b4c2c9ed)
+- [Sam Altman](http://blog.samaltman.com/posts.atom)
+- [Satya Nadella(@satyanadella)](https://api.xgo.ing/rss/user/baa68dbd9a9e461a96fd9b2e3f35dcbf)
+- [SEO Blog by Ahrefs](https://ahrefs.com/blog/feed)
+- [Show Hacker News](https://news.ycombinator.com/showrss)
+- [Side Hustle Nation](https://www.sidehustlenation.com/feed)
+- [Small Business Trends](https://feeds2.feedburner.com/SmallBusinessTrends)
+- [Social Media Examiner | Social Media Marketing](http://www.socialmediaexaminer.com/feed)
+- [SparkToro](https://sparktoro.com/blog/feed)
+- [Steph Ango](https://stephango.com/feed.xml)
+- [Steve Blank](http://steveblank.com/feed)
+- [Suhail(@Suhail)](https://api.xgo.ing/rss/user/c961547e08df4396b3ab69367a07a1cd)
+- [Tech in Asia](https://feeds2.feedburner.com/PennOlson)
+- [TechCrunch](https://techcrunch.com/feed)
+- [TechCrunch](http://feeds.feedburner.com/TechCrunch)
+- [Techmeme](https://www.techmeme.com/feed.xml)
+- [The Next Web](https://thenextweb.com/feed)
+- [theBlock - Telegram Channel](https://rsshub.imlg.co/telegram/channel/theBlockClub)
+- [VentureBeat](http://venturebeat.com/feed)
+- [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF)
+- [Web3Rover Monthly](https://web3rover.substack.com/feed)
+- [Y Combinator(@ycombinator)](https://api.xgo.ing/rss/user/b1ab109f6afd42ab8ea32e17a19a3a3e)
 
-### 📱 Mobile Development (56)
+## 💰 Finance & Investing (37)
 
-- [9to5Mac](https://9to5mac.com/feed) — `https://9to5mac.com/feed`
-- [Android](https://blog.google/products-and-platforms/platforms/android/rss) — `https://blog.google/products-and-platforms/platforms/android/rss`
-- [Android](https://blog.google/products/android/rss) — `https://blog.google/products/android/rss`
-- [Android](https://www.reddit.com/r/android/.rss) — `https://www.reddit.com/r/android/.rss`
-- [Android Authority](https://www.androidauthority.com/feed) — `https://www.androidauthority.com/feed`
-- [Android Central - Android Forums, News, Reviews, Help and Android Wallpapers](http://feeds.androidcentral.com/androidcentral) — `http://feeds.androidcentral.com/androidcentral`
-- [Android Community](https://androidcommunity.com/feed) — `https://androidcommunity.com/feed`
-- [Android Developers - Medium](https://medium.com/feed/androiddevelopers) — `https://medium.com/feed/androiddevelopers`
-- [Android Developers Blog](https://feeds.feedburner.com/blogspot/hsDu) — `https://feeds.feedburner.com/blogspot/hsDu`
-- [Android Police – Android news, reviews, apps, games, phones, tablets](http://feeds.feedburner.com/AndroidPolice) — `http://feeds.feedburner.com/AndroidPolice`
-- [Android in MindOrks on Medium](https://medium.com/feed/mindorks/tagged/android) — `https://medium.com/feed/mindorks/tagged/android`
-- [Android in The Airbnb Tech Blog on Medium](https://medium.com/feed/airbnb-engineering/tagged/android) — `https://medium.com/feed/airbnb-engineering/tagged/android`
-- [AndroidGuys](https://www.androidguys.com/feed) — `https://www.androidguys.com/feed`
-- [Apple Newsroom](https://www.apple.com/newsroom/rss-feed.rss) — `https://www.apple.com/newsroom/rss-feed.rss`
-- [AppleInsider News](https://appleinsider.com/rss/news) — `https://appleinsider.com/rss/news`
-- [Benoit Pasquier - Swift, Data and more](https://benoitpasquier.com/index.xml) — `https://benoitpasquier.com/index.xml`
-- [Cult of Android](https://www.cultofandroid.com/feed) — `https://www.cultofandroid.com/feed`
-- [Cult of Mac](https://www.cultofmac.com/feed) — `https://www.cultofmac.com/feed`
-- [Cyanogen Mods](https://www.cyanogenmods.org/feed) — `https://www.cyanogenmods.org/feed`
-- [Danny Tuppeny](http://feeds.dantup.com/DanTup) — `http://feeds.dantup.com/DanTup`
-- [Developing Android Apps](https://reddit.com/r/androiddev.rss) — `https://reddit.com/r/androiddev.rss`
-- [Droid Life](https://www.droid-life.com/feed) — `https://www.droid-life.com/feed`
-- [Felix Krause](https://krausefx.com/feed.xml) — `https://krausefx.com/feed.xml`
-- [Flutter - Medium](https://medium.com/feed/flutter) — `https://medium.com/feed/flutter`
-- [GSMArena.com - Latest articles](https://www.gsmarena.com/rss-news-reviews.php3) — `https://www.gsmarena.com/rss-news-reviews.php3`
-- [Handstand Sam](https://handstandsam.com/feed) — `https://handstandsam.com/feed`
-- [Ionic Blog](https://blog.ionicframework.com/feed) — `https://blog.ionicframework.com/feed`
-- [Jake Wharton](https://jakewharton.com/atom.xml) — `https://jakewharton.com/atom.xml`
-- [Joe Birch](https://joebirch.co/feed) — `https://joebirch.co/feed`
-- [Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog](https://blog.jetbrains.com/kotlin/feed) — `https://blog.jetbrains.com/kotlin/feed`
-- [Mobile A11y](https://mobilea11y.com/index.xml) — `https://mobilea11y.com/index.xml`
-- [News - Apple Developer](https://developer.apple.com/news/rss/news.rss) — `https://developer.apple.com/news/rss/news.rss`
-- [Ole Begemann](https://oleb.net/blog/atom.xml) — `https://oleb.net/blog/atom.xml`
-- [Opera Mobile](http://www.opera.com/blogs/mobile/feed) — `http://www.opera.com/blogs/mobile/feed`
-- [Podcast -  Android Developers Backstage](https://feeds.libsyn.com/332855/rss) — `https://feeds.libsyn.com/332855/rss`
-- [Podcast - Now in Android](https://feeds.libsyn.com/244409/rss) — `https://feeds.libsyn.com/244409/rss`
-- [ProAndroidDev - Medium](https://proandroiddev.com/feed) — `https://proandroiddev.com/feed`
-- [Romain Guy](https://www.romainguy.dev/posts/index.xml) — `https://www.romainguy.dev/posts/index.xml`
-- [Saket Narayan](https://saket.me/feed) — `https://saket.me/feed`
-- [Swift by Sundell](https://www.swiftbysundell.com/feed.rss) — `https://www.swiftbysundell.com/feed.rss`
-- [SwiftRocks](https://swiftrocks.com/rss.xml) — `https://swiftrocks.com/rss.xml`
-- [TalkAndroid](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums) — `http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums`
-- [Talking Kotlin](https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss) — `https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss`
-- [The Android Arsenal](https://feeds.feedburner.com/Android_Arsenal) — `https://feeds.feedburner.com/Android_Arsenal`
-- [The Atomic Birdhouse](https://atomicbird.com/index.xml) — `https://atomicbird.com/index.xml`
-- [The Desolation of Blog](https://lapcatsoftware.com/articles/atom.xml) — `https://lapcatsoftware.com/articles/atom.xml`
-- [The Loop](https://www.loopinsight.com/feed) — `https://www.loopinsight.com/feed`
-- [Use Your Loaf - iOS Development News & Tips](https://useyourloaf.com/blog/rss.xml) — `https://useyourloaf.com/blog/rss.xml`
-- [Zac Sweers](https://www.zacsweers.dev/rss) — `https://www.zacsweers.dev/rss`
-- [Zach Klippenstein’s Blog](https://blog.zachklipp.com/rss) — `https://blog.zachklipp.com/rss`
-- [Zarah Dominguez](https://zarah.dev/feed.xml) — `https://zarah.dev/feed.xml`
-- [goobar](https://goobar.io/feed) — `https://goobar.io/feed`
-- [iMore - The #1 iPhone, iPad, and iPod touch blog](http://feeds.feedburner.com/TheiPhoneBlog) — `http://feeds.feedburner.com/TheiPhoneBlog`
-- [inessential.com](https://inessential.com/xml/rss.xml) — `https://inessential.com/xml/rss.xml`
-- [mobiForge](https://mobiforge.com/feed) — `https://mobiforge.com/feed`
-- [ Apple Nuts - Telegram Channel](https://rsshub.imlg.co/telegram/channel/AppleNuts) — `https://rsshub.imlg.co/telegram/channel/AppleNuts`
+- [Afford Anything](https://affordanything.com/feed)
+- [AI Will(@FinanceYF5)](https://api.xgo.ing/rss/user/aa74321087f9405a872fd9a76b743bf8)
+- [All News](https://www.investing.com/rss/news.rss)
+- [Breaking News on Seeking Alpha](https://seekingalpha.com/market_currents.xml)
+- [Budgets Are Sexy](https://feeds2.feedburner.com/budgetsaresexy)
+- [Business Line - Home](https://www.thehindubusinessline.com/feeder/default.rss)
+- [Business News - Latest Headlines](https://www.businessnews.com.au/rssfeed/latest.rss)
+- [BusinessWorld](https://www.bworldonline.com/feed)
+- [Economic Times](https://economictimes.indiatimes.com/rssfeedsdefault.cms)
+- [Fabio Natalucci Post](http://feeds.feedburner.com/FabioNatalucciPost)
+- [Financial Post](https://business.financialpost.com/feed)
+- [Financial Samurai](https://www.financialsamurai.com/feed)
+- [Fortune](https://fortune.com/feed)
+- [Frugalwoods](https://feeds.feedburner.com/Frugalwoods)
+- [Get Rich Slowly](https://www.getrichslowly.org/feed)
+- [HBR IdeaCast](http://feeds.harvardbusiness.org/harvardbusiness/ideacast)
+- [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/feed)
+- [International: Top News And Analysis](https://www.cnbc.com/id/100727362/device/rss/rss.html)
+- [Learn To Trade The Market](https://www.learntotradethemarket.com/feed)
+- [Making Sense Of Cents](https://www.makingsenseofcents.com/feed)
+- [Millennial Money](https://millennialmoney.com/feed)
+- [Money Saving Mom®](https://moneysavingmom.com/feed)
+- [Money Under 30](https://www.moneyunder30.com/feed)
+- [MoneyNing](http://feeds.feedburner.com/MoneyNing)
+- [Moneyweb](https://www.moneyweb.co.za/feed)
+- [Nerd's Eye View | Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1)
+- [NerdWallet](https://www.nerdwallet.com/blog/feed)
+- [Oblivious Investor](https://obliviousinvestor.com/feed)
+- [Personal Finance](https://reddit.com/r/personalfinance/.rss)
+- [Ray Dalio(@RayDalio)](https://api.xgo.ing/rss/user/4838204097ed422eac24ad48e68dc3ff)
+- [SavingAdvice.com Blog](https://www.savingadvice.com/feed)
+- [SEBI RSS Feed](https://www.sebi.gov.in/sebirss.xml)
+- [The College Investor](https://thecollegeinvestor.com/feed)
+- [US Top News and Analysis](https://www.cnbc.com/id/100003114/device/rss/rss.html)
+- [Well Kept Wallet](https://wellkeptwallet.com/feed)
+- [Wise Bread](http://feeds.killeraces.com/wisebread)
+- [Yahoo Finance](https://finance.yahoo.com/news/rssindex)
 
-### 📬 Newsletters (7)
+## ✍️ Essays & Ideas (78)
 
-- [Android Weekly](https://androidweekly.net/rss.xml) — `https://androidweekly.net/rss.xml`
-- [ByteByteGo Newsletter](https://blog.bytebytego.com/feed) — `https://blog.bytebytego.com/feed`
-- [Golang Weekly](https://golangweekly.com/rss) — `https://golangweekly.com/rss`
-- [InfoQ](https://feed.infoq.com/) — `https://feed.infoq.com/`
-- [This Week in Rust](https://this-week-in-rust.org/atom.xml) — `https://this-week-in-rust.org/atom.xml`
-- [dailydevlinks](https://unicornclub.dev/feed) — `https://unicornclub.dev/feed`
-- [tedium.co](https://feed.tedium.co/) — `https://feed.tedium.co/`
+- [Aeon | a world of ideas](https://aeon.co/feed.rss)
+- [Anil Dash](https://www.anildash.com/feed.xml)
+- [Aral Balkan](https://ar.al/index.xml)
+- [berthub.eu](https://berthub.eu/articles/index.xml)
+- [Big Think](https://feeds.feedburner.com/bigthink/main)
+- [Blog John Cook](https://www.johndcook.com/blog/feed)
+- [Chris Cid – Essays](https://www.cjcid.com/feeds/essays.xml)
+- [Coding Horror](https://blog.codinghorror.com/rss)
+- [Commonplace - The Commoncog Blog](https://commoncog.com/blog/rss)
+- [construction-physics.com](https://www.construction-physics.com/feed)
+- [Dan Koe](https://thedankoe.com/feed)
+- [daringfireball.net](https://daringfireball.net/feeds/main)
+- [David Perell](https://perell.com/feed)
+- [derekthompson.org](https://www.theatlantic.com/feed/author/derek-thompson)
+- [Doc Searls Weblog](https://blogs.harvard.edu/doc/feed)
+- [Don Marti](https://blog.zgp.org/feed.xml)
+- [dynomight.net](https://dynomight.net/feed.xml)
+- [Econlib](https://www.econlib.org/feed)
+- [Escaping Flatland](https://www.henrikkarlsson.xyz/feed)
+- [experimental-history.com](https://www.experimental-history.com/feed)
+- [Farnam Street](https://fs.blog/feed)
+- [Flurries of latent creativity - Stripe CTO blog](https://blog.singleton.io/index.xml)
+- [Freedom of Thought](https://jimmywong.bearblog.dev/feed?type=rss)
+- [grantslatton.com](https://grantslatton.com/rss.xml)
+- [gwern.net](https://gwern.substack.com/feed)
+- [Home on howaboutqiu](https://rexarski.com/index.xml)
+- [IEEE Spectrum](https://spectrum.ieee.org/feeds/feed.rss)
+- [Internet Archive Blogs](http://blog.archive.org/feed)
+- [Jack's Space](https://veryjack.com/feed)
+- [Jeff Kaufman's Writing](http://www.jefftk.com/news.rss)
+- [JustBB](https://justbb.fun/atom.xml)
+- [Know Thyself - Telegram Channel](https://rsshub.imlg.co/telegram/channel/master_thyself)
+- [Law Office of Lainey Feingold](http://lflegal.com/feed)
+- [Marco.org](https://marco.org/rss)
+- [Matt Lakeman](https://mattlakeman.org/feed)
+- [Melting Asphalt](http://feeds.feedburner.com/MeltingAsphalt)
+- [Memozine](https://memozine.me/atom.xml)
+- [Micah Lerner](https://www.micahlerner.com/feed.xml)
+- [Microsoft on the Issues](https://blogs.microsoft.com/on-the-issues/feed)
+- [Misc](https://kaimi.io/en/feed)
+- [MIT News](https://news.mit.edu/rss/research)
+- [MIT News - Science, Technology, and Society | Technology and society | Program in STS | History of science | History of MIT](https://news.mit.edu/rss/topic/science-technology-and-society)
+- [Mitchell's Blog](http://blog.lizardwrangler.com/feed)
+- [neverland](https://hsu.cy/feed.xml)
+- [NOEMA](https://www.noemamag.com/?feed=noemarss)
+- [null](https://www.silentrobots.com/rss)
+- [o0o](http://blog.o0o.nu/feeds/posts/default)
+- [ongoing by Tim Bray](http://www.tbray.org/ongoing/ongoing.atom)
+- [Parimal Satyal - Neustadt.fr](https://neustadt.fr/rss.xml)
+- [Paul Graham: Essays](http://www.aaronsw.com/2002/feeds/pgessays.rss)
+- [Pierre-Marie Dartus](https://pm.dartus.fr/feed.xml)
+- [Pixel Envy](https://feedpress.me/pxlnv)
+- [Pixels Commander](https://pixelscommander.com/feed/atom)
+- [pluralistic.net](https://pluralistic.net/feed)
+- [poulpita](http://poulpita.com/feed)
+- [Preet's website](https://shihn.ca/feed.xml)
+- [Privacy International](https://www.privacyinternational.org/rss.xml)
+- [Quanta Magazine](http://www.quantamagazine.org/feed)
+- [refactoringenglish.com](https://refactoringenglish.com/index.xml)
+- [Rest of World -](https://restofworld.org/feed/latest)
+- [Right Bad Code](https://rightbadcode.com/rss.xml)
+- [Ruben Verborgh's blog](http://ruben.verborgh.org/blog/latest.xml)
+- [Scope for business](https://business.scope.org.uk/feed)
+- [Scott H Young](https://www.scotthyoung.com/blog/feed)
+- [seangoedecke.com](https://www.seangoedecke.com/rss.xml)
+- [Sheracaolity](https://sheracaolity.ghost.io/rss)
+- [Stratechery by Ben Thompson](http://stratechery.com/feed)
+- [The Ethically-Trained Programmer](https://blog.carlmjohnson.net/index.xml)
+- [The New Yorker](https://feedx.net/rss/newyorker.xml)
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/rss)
+- [The Sunday Wisdom](https://coffeeandjunk.substack.com/feed)
+- [Two-Bit History](https://twobithistory.org/feed.xml)
+- [Wait But Why](https://waitbutwhy.com/feed?code=c6f56c4214621ab98b86acbcae6b4405)
+- [What's new](https://terrytao.wordpress.com/feed)
+- [wheresyoured.at](https://www.wheresyoured.at/rss)
+- [Working Theorys](https://www.workingtheorys.com/feed)
+- [xkcd.com](https://xkcd.com/rss.xml)
+- [Zsolt's blog](https://www.zsolt.blog/feeds/posts/default)
 
-### 🎧 Podcasts & Audio (77)
+## 🌿 Life & Culture (208)
 
-- [30 For 30 Podcasts](https://feeds.megaphone.fm/ESP5765452710) — `https://feeds.megaphone.fm/ESP5765452710`
-- [6 Minute English](https://www.spreaker.com/show/6007187/episodes/feed) — `https://www.spreaker.com/show/6007187/episodes/feed`
-- [60-Second Science](http://rss.sciam.com/sciam/60secsciencepodcast) — `http://rss.sciam.com/sciam/60secsciencepodcast`
-- [Accidental Tech Podcast](https://atp.fm/rss) — `https://atp.fm/rss`
-- [All About Android (Audio)](https://feeds.twit.tv/aaa.xml) — `https://feeds.twit.tv/aaa.xml`
-- [Analog(ue)](https://www.relay.fm/analogue/feed) — `https://www.relay.fm/analogue/feed`
-- [Android Authority Podcast](https://androidauthority.libsyn.com/rss) — `https://androidauthority.libsyn.com/rss`
-- [Android Authority Podcast](https://rss.libsyn.com/shows/62117/destinations/242501.xml) — `https://rss.libsyn.com/shows/62117/destinations/242501.xml`
-- [Android Central Podcast](http://feeds.feedburner.com/AndroidCentralPodcast) — `http://feeds.feedburner.com/AndroidCentralPodcast`
-- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) — `http://feeds.feedburner.com/blogspot/androiddevelopersbackstage`
-- [Can't Bowl Can't Throw Cricket Show](http://feeds.feedburner.com/cantbowlcantthrow) — `http://feeds.feedburner.com/cantbowlcantthrow`
-- [Clockwise](https://www.relay.fm/clockwise/feed) — `https://www.relay.fm/clockwise/feed`
-- [CodeNewbie](http://feeds.codenewbie.org/cnpodcast.xml) — `http://feeds.codenewbie.org/cnpodcast.xml`
-- [Daily Tech News Show](https://feeds.acast.com/public/shows/61954547cb03c875f7617118) — `https://feeds.acast.com/public/shows/61954547cb03c875f7617118`
-- [Developer Tea](https://feeds.simplecast.com/dLRotFGk) — `https://feeds.simplecast.com/dLRotFGk`
-- [Discovery](https://podcasts.files.bbci.co.uk/p002w557.rss) — `https://podcasts.files.bbci.co.uk/p002w557.rss`
-- [Duct Tape Marketing](https://ducttape.libsyn.com/rss) — `https://ducttape.libsyn.com/rss`
-- [Dwarkesh Patel](https://www.dwarkeshpatel.com/feed) — `https://www.dwarkeshpatel.com/feed`
-- [Essential Tennis Podcast - Instruction, Lessons, Tips](https://feed.podbean.com/essentialtennis/feed.xml) — `https://feed.podbean.com/essentialtennis/feed.xml`
-- [FLOSS Weekly (Audio)](https://feeds.twit.tv/floss.xml) — `https://feeds.twit.tv/floss.xml`
-- [Fragmented - The Software Podcast](https://feeds.simplecast.com/LpAGSLnY) — `https://feeds.simplecast.com/LpAGSLnY`
-- [Gastropod](https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss) — `https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss`
-- [Hanselminutes with Scott Hanselman](https://feeds.simplecast.com/gvtxUiIf) — `https://feeds.simplecast.com/gvtxUiIf`
-- [Hidden Brain](https://feeds.npr.org/510308/podcast.xml) — `https://feeds.npr.org/510308/podcast.xml`
-- [How I Built This with Guy Raz](https://feeds.npr.org/510313/podcast.xml) — `https://feeds.npr.org/510313/podcast.xml`
-- [Invisibilia](https://feeds.npr.org/510307/podcast.xml) — `https://feeds.npr.org/510307/podcast.xml`
-- [Latent Space](https://www.latent.space/feed) — `https://www.latent.space/feed`
-- [Lenny Rachitsky(@lennysan)](https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095) — `https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095`
-- [Lex Fridman(@lexfridman)](https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15) — `https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15`
-- [Paul's Security Weekly](http://podcast.securityweekly.com/rss) — `http://podcast.securityweekly.com/rss`
-- [Podcast - All TWiT.tv Shows](https://feeds.twit.tv/brickhouse.xml) — `https://feeds.twit.tv/brickhouse.xml`
-- [Podcast – Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) — `https://softwareengineeringdaily.com/category/podcast/feed`
-- [Probably Science](https://probablyscience.libsyn.com/rss) — `https://probablyscience.libsyn.com/rss`
-- [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) — `http://feeds.feedburner.com/ProgrammingThrowdown`
-- [RSS](https://changelog.com/gotime/feed) — `https://changelog.com/gotime/feed`
-- [RSS](https://lexfridman.com/feed/podcast) — `https://lexfridman.com/feed/podcast`
-- [RSS](https://pythonbytes.fm/episodes/rss) — `https://pythonbytes.fm/episodes/rss`
-- [RSS](https://rss.art19.com/techmeme-ridehome) — `https://rss.art19.com/techmeme-ridehome`
-- [RSS](https://seradio.libsyn.com/rss) — `https://seradio.libsyn.com/rss`
-- [RSS](https://www.relay.fm/mpu/feed) — `https://www.relay.fm/mpu/feed`
-- [RSS](https://podcasts.files.bbci.co.uk/p02nrtn5.rss) — `https://podcasts.files.bbci.co.uk/p02nrtn5.rss`
-- [RSS](https://pythonhunter.org/episodes/feed.xml) — `https://pythonhunter.org/episodes/feed.xml`
-- [RSS](https://www.disruptingjapan.com/feed/podcast) — `https://www.disruptingjapan.com/feed/podcast`
-- [RSS](https://behindthetech.libsyn.com/rss) — `https://behindthetech.libsyn.com/rss`
-- [RSS](https://armscontrolwonk.libsyn.com/rss) — `https://armscontrolwonk.libsyn.com/rss`
-- [Radiolab](http://feeds.wnyc.org/radiolab) — `http://feeds.wnyc.org/radiolab`
-- [Reply All](https://feeds.megaphone.fm/replyall) — `https://feeds.megaphone.fm/replyall`
-- [Rocket](https://www.relay.fm/rocket/feed) — `https://www.relay.fm/rocket/feed`
-- [Sawbones: A Marital Tour of Misguided Medicine](https://feeds.simplecast.com/y1LF_sn2) — `https://feeds.simplecast.com/y1LF_sn2`
-- [Shirtloads of Science](https://shirtloadsofscience.libsyn.com/rss) — `https://shirtloadsofscience.libsyn.com/rss`
-- [Sky Sports Cricket Podcast](https://www.spreaker.com/show/3387348/episodes/feed) — `https://www.spreaker.com/show/3387348/episodes/feed`
-- [Software Defined Talk](https://feeds.fireside.fm/sdt/rss) — `https://feeds.fireside.fm/sdt/rss`
-- [Software Engineering Radio - The Podcast for Professional Software Developers](http://feeds.feedburner.com/se-radio) — `http://feeds.feedburner.com/se-radio`
-- [Startup Stories - Mixergy](https://feeds.feedburner.com/Mixergy-main-podcast) — `https://feeds.feedburner.com/Mixergy-main-podcast`
-- [Stumped](https://podcasts.files.bbci.co.uk/p02gsrmh.rss) — `https://podcasts.files.bbci.co.uk/p02gsrmh.rss`
-- [Switch Hit Podcast](https://feeds.megaphone.fm/ESP9247246951) — `https://feeds.megaphone.fm/ESP9247246951`
-- [Tailenders](https://podcasts.files.bbci.co.uk/p02pcb4w.rss) — `https://podcasts.files.bbci.co.uk/p02pcb4w.rss`
-- [Test Match Special](https://podcasts.files.bbci.co.uk/p02nrsl2.rss) — `https://podcasts.files.bbci.co.uk/p02nrsl2.rss`
-- [The Cynical Developer](https://cynicaldeveloper.com/feed/podcast) — `https://cynicaldeveloper.com/feed/podcast`
-- [The Data Engineering Show](https://feeds.transistor.fm/the-data-engineering-show) — `https://feeds.transistor.fm/the-data-engineering-show`
-- [The Growth Show](http://thegrowthshow.hubspot.libsynpro.com/) — `http://thegrowthshow.hubspot.libsynpro.com/`
-- [The Infinite Monkey Cage](https://podcasts.files.bbci.co.uk/b00snr0w.rss) — `https://podcasts.files.bbci.co.uk/b00snr0w.rss`
-- [The Knowledge Project](https://feeds.megaphone.fm/FSMI7575968096) — `https://feeds.megaphone.fm/FSMI7575968096`
-- [The PIT Show: Reflections and Interviews in the Tech World](https://feeds.transistor.fm/productivity-in-tech-podcast) — `https://feeds.transistor.fm/productivity-in-tech-podcast`
-- [The Stack Overflow Podcast](https://feeds.simplecast.com/XA_851k3) — `https://feeds.simplecast.com/XA_851k3`
-- [The Startup Junkies Podcast](https://startupjunkie.libsyn.com/rss) — `https://startupjunkie.libsyn.com/rss`
-- [The Tim Ferriss Show](https://rss.art19.com/tim-ferriss-show) — `https://rss.art19.com/tim-ferriss-show`
-- [The Vergecast](https://feeds.megaphone.fm/vergecast) — `https://feeds.megaphone.fm/vergecast`
-- [The Women in Tech Show: A Technical Podcast](https://thewomenintechshow.com/category/podcast/feed) — `https://thewomenintechshow.com/category/podcast/feed`
-- [This Week in Science – The Kickass Science Podcast](http://www.twis.org/feed) — `http://www.twis.org/feed`
-- [This Week in Tech (Audio)](https://feeds.twit.tv/twit.xml) — `https://feeds.twit.tv/twit.xml`
-- [Throughline](https://feeds.npr.org/510333/podcast.xml) — `https://feeds.npr.org/510333/podcast.xml`
-- [Under the Radar](https://www.relay.fm/radar/feed) — `https://www.relay.fm/radar/feed`
-- [Video - All TWiT.tv Shows](https://feeds.twit.tv/brickhouse_video_hd.xml) — `https://feeds.twit.tv/brickhouse_video_hd.xml`
-- [Wisden Cricket Weekly](http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss) — `http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss`
-- [You Must Remember This](https://feeds.megaphone.fm/YMRT7068253588) — `https://feeds.megaphone.fm/YMRT7068253588`
-- [the memory palace](http://feeds.thememorypalace.us/thememorypalace) — `http://feeds.thememorypalace.us/thememorypalace`
+- [/Film](https://feeds2.feedburner.com/slashfilm)
+- [/r/space: news, articles and discussion](https://www.reddit.com/r/space/.rss?format=xml)
+- [101 Cookbooks](https://www.101cookbooks.com/feed)
+- [500px](https://iso.500px.com/feed)
+- [A Beautiful Mess](https://abeautifulmess.com/feed)
+- [A year of reading the world](https://ayearofreadingtheworld.com/feed)
+- [Aestas Book Blog](https://aestasbookblog.com/feed)
+- [Ain't It Cool News Feed](https://www.aintitcool.com/node/feed)
+- [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/design.rss)
+- [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/projects.rss)
+- [Architectural Digest](https://www.architecturaldigest.com/feed/rss)
+- [Ars Technica](https://feeds.arstechnica.com/arstechnica/index)
+- [Atlas Obscura - Latest Articles and Places](https://www.atlasobscura.com/feeds/latest)
+- [Autocar India - All Bike Reviews](https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes)
+- [Autocar RSS Feed](https://www.autocar.co.uk/rss)
+- [AwkwardFamilyPhotos.com](https://awkwardfamilyphotos.com/feed)
+- [Bartosz Ciechanowski](https://ciechanow.ski//atom.xml)
+- [Bartosz Ciechanowski](https://ciechanow.ski/atom.xml)
+- [Basic Apple Guy | Apple Wallpapers, Reviews, and Merch](https://basicappleguy.com/basicappleblog?format=rss)
+- [BBC News - Science & Environment](http://feeds.bbci.co.uk/news/science_and_environment/rss.xml)
+- [BBC Sport - Cricket](http://feeds.bbci.co.uk/sport/cricket/rss.xml)
+- [BBC Sport - Sport](http://feeds.bbci.co.uk/sport/rss.xml)
+- [Beauty - ELLE](https://www.elle.com/rss/beauty.xml)
+- [Beauty - Fashionista](https://fashionista.com/.rss/excerpt/beauty)
+- [Big Picture](https://www.bostonglobe.com/rss/bigpicture)
+- [Bike EXIF](https://www.bikeexif.com/feed)
+- [Blog - decor8](https://www.decor8blog.com/blog?format=rss)
+- [Blog – The Beauty Brains](https://thebeautybrains.com/blog/feed)
+- [BMW BLOG](https://feeds.feedburner.com/BmwBlog)
+- [BOOK RIOT](https://bookriot.com/feed)
+- [Canon Rumors – Your best source for Canon rumors, leaks and gossip](https://www.canonrumors.com/feed)
+- [Carscoops](https://www.carscoops.com/feed)
+- [Centsational Style](https://centsationalstyle.com/feed)
+- [Chocolate & Zucchini](https://cnz.to/feed)
+- [CNET News](https://www.cnet.com/rss/news)
+- [ComingSoon.net](https://www.comingsoon.net/feed)
+- [Consequence](http://consequenceofsound.net/feed)
+- [Cracked: All Posts](http://feeds.feedburner.com/CrackedRSS)
+- [Cricket](https://www.reddit.com/r/Cricket/.rss)
+- [Cricket – The Roar](https://www.theroar.com.au/cricket/feed)
+- [Dan Carlin's Hardcore History](https://feeds.feedburner.com/dancarlin/history?format=xml)
+- [David Lebovitz](https://www.davidlebovitz.com/feed)
+- [Deadline](https://deadline.com/feed)
+- [decoist](https://www.decoist.com/feed)
+- [Design MilkArchitecture – Design Milk](https://design-milk.com/category/architecture/feed)
+- [Design MilkInterior Design – Design Milk](https://design-milk.com/category/interior-design/feed)
+- [design – designboom | architecture & design magazine](https://www.designboom.com/design/feed)
+- [Digital Photography School](https://feeds.feedburner.com/DigitalPhotographySchool)
+- [Doityourself.com](https://www.doityourself.com/feed)
+- [EDM.com - The Latest Electronic Dance Music News, Reviews & Artists](https://edm.com/.rss/full)
+- [EFL Championship](https://www.reddit.com/r/Championship/.rss?format=xml)
+- [Engadget](http://www.engadget.com/rss-full.xml)
+- [Escapist Magazine](https://www.escapistmagazine.com/v2/feed)
+- [Eurogamer.net](https://www.eurogamer.net/?format=rss)
+- [Explosm.net](http://feeds.feedburner.com/Explosm)
+- [FAIL Blog](http://feeds.feedburner.com/failblog)
+- [Fashion - ELLE](https://www.elle.com/rss/fashion.xml)
+- [Fashion | The Guardian](https://www.theguardian.com/fashion/rss)
+- [Fashionista](https://fashionista.com/.rss/excerpt)
+- [filfre.net](https://www.filfre.net/feed)
+- [FirstShowing.net](https://www.firstshowing.net/feed)
+- [Food52](http://feeds.feedburner.com/food52-TheAandMBlog)
+- [Football - The People's Sport](https://www.reddit.com/r/football/.rss?format=xml)
+- [Formula 1](https://www.reddit.com/r/formula1/.rss)
+- [From Head To Toe](http://feeds.feedburner.com/frmheadtotoe)
+- [Fubiz Media](http://feeds.feedburner.com/fubiz)
+- [GameSpot - All Content](https://www.gamespot.com/feeds/mashup)
+- [Gizmodo](https://gizmodo.com/tag/science/rss)
+- [Gizmodo](https://gizmodo.com/rss)
+- [Green Kitchen Stories](https://greenkitchenstories.com/feed)
+- [History in 28-minutes](https://www.historyisnowmagazine.com/blog?format=RSS)
+- [HistoryNet](http://www.historynet.com/feed)
+- [How Sweet Eats](https://www.howsweeteats.com/feed)
+- [How-To Geek](https://www.howtogeek.com/feed)
+- [https://www.engadget.com/](https://www.engadget.com/rss.xml)
+- [I Can Has Cheezburger?](http://feeds.feedburner.com/icanhascheezburger)
+- [Ideal Home](https://www.idealhome.co.uk/feed)
+- [IGN All](http://feeds.ign.com/ign/all)
+- [IKEA Hackers](https://www.ikeahackers.net/feed)
+- [In My Own Style](https://inmyownstyle.com/feed)
+- [Indie Games Plus](https://indiegamesplus.com/feed)
+- [IndieWire](https://www.indiewire.com/feed)
+- [Instapaper: Unread](http://feeds.feedburner.com/rebus)
+- [Interior Design (Interior Architecture)](https://www.reddit.com/r/InteriorDesign/.rss)
+- [Interior Design Ideas](http://www.home-designing.com/feed)
+- [Into The Gloss - Beauty Tips, Trends, And Product Reviews](https://feeds.feedburner.com/intothegloss/oqoU)
+- [Jalopnik](https://jalopnik.com/rss)
+- [Journal](https://architizer.wpengine.com/feed)
+- [Joy the Baker](http://joythebaker.com/feed)
+- [Kirkus Reviews](https://www.kirkusreviews.com/feeds/rss)
+- [Kitchn | Inspiring cooks, nourishing homes](https://www.thekitchn.com/main.rss)
+- [Latest Content - Car and Driver](https://www.caranddriver.com/rss/all.xml)
+- [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml)
+- [LIFE likes a MATRIX](http://baronpan.blogspot.com/feeds/posts/default?alt=rss)
+- [Lifehacker](https://lifehacker.com/rss)
+- [Light Stalking](https://www.lightstalking.com/feed)
+- [Lightroom Killer Tips](https://lightroomkillertips.com/feed)
+- [Live Life Travel](https://www.livelifetravel.world/feed)
+- [Liver Cancer Update - Telegram Channel](https://rsshub.imlg.co/telegram/channel/livercancerupdate)
+- [Liz Marie Blog](https://www.lizmarieblog.com/feed)
+- [Love and Olive Oil](https://www.loveandoliveoil.com/feed)
+- [MacRumors: Mac News and Rumors - Mac Blog](http://feeds.macrumors.com/MacRumors-Mac)
+- [Macworld.com](https://www.macworld.com/index.rss)
+- [Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup](https://www.makeupandbeautyblog.com/feed)
+- [Mashable](http://feeds.mashable.com/Mashable)
+- [Metal Injection](http://feeds.feedburner.com/metalinjection)
+- [Movie News and Discussion](https://reddit.com/r/movies/.rss)
+- [MUO - Feed](https://www.makeuseof.com/feed)
+- [Music Business Worldwide](https://www.musicbusinessworldwide.com/feed)
+- [NASA Breaking News](https://www.nasa.gov/rss/dyn/breaking_news.rss)
+- [NDTV Sports - Cricket](http://feeds.feedburner.com/ndtvsports-cricket)
+- [Ness Labs](https://nesslabs.com/feed)
+- [Neuroscience News](http://neurosciencenews.com/feed)
+- [Neuroscience News -- ScienceDaily](https://sciencedaily.com/rss/mind_brain/neuroscience.xml)
+- [New Scientist - Space](https://www.newscientist.com/subject/space/feed)
+- [News and Events Feed by Topic](https://www.nist.gov/news-events/health/rss.xml)
+- [Nomadic Matt's Travel Site](https://www.nomadicmatt.com/travel-blog/feed)
+- [NYT > Food](https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml)
+- [NYT > Japan](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml)
+- [NYT > Science](https://rss.nytimes.com/services/xml/rss/nyt/Science.xml)
+- [NYT > Style](https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml)
+- [NYT > Travel](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml)
+- [Oh Happy Day!](http://ohhappyday.com/feed)
+- [Oh She Glows](https://ohsheglows.com/feed)
+- [One Big Photo](http://feeds.feedburner.com/OneBigPhoto)
+- [Page Array – NewInBooks](https://www.newinbooks.com/feed)
+- [Penny Arcade](https://www.penny-arcade.com/feed)
+- [peRFect Tennis](https://www.perfect-tennis.com/feed)
+- [PetaPixel](https://petapixel.com/feed)
+- [PHD Comics](http://phdcomics.com/gradfeed.php)
+- [Phys.org - latest science and technology news stories](https://phys.org/rss-feed)
+- [PlayStation.Blog](http://feeds.feedburner.com/psblog)
+- [Polygon -  All](https://www.polygon.com/rss/index.xml)
+- [POPSUGAR Beauty](https://www.popsugar.com/beauty/feed)
+- [POPSUGAR Fashion](https://www.popsugar.com/fashion/feed)
+- [PostSecret](https://postsecret.com/feed?alt=rss)
+- [PsyBlog](http://feeds.feedburner.com/PsychologyBlog)
+- [Psychology Headlines Around the World](http://www.socialpsychology.org/headlines.rss)
+- [r/gaming](https://www.reddit.com/r/gaming.rss)
+- [r/iPhone](https://www.reddit.com/r/iphone/.rss)
+- [Rawkblog](http://feeds.feedburner.com/TheRawkingRefusesToStop)
+- [ReadWrite](https://readwrite.com/feed)
+- [Reddit Science](https://reddit.com/r/science/.rss)
+- [Reddit Sports](https://www.reddit.com/r/sports.rss)
+- [Refinery29](https://www.refinery29.com/beauty/rss.xml)
+- [Refinery29](https://www.refinery29.com/fashion/rss.xml)
+- [Rock, Paper, Shotgun](http://feeds.feedburner.com/RockPaperShotgun)
+- [RSS](https://usesthis.com/feed.atom)
+- [RSS: News](http://pitchfork.com/rss/news)
+- [rtl-sdr.com](http://www.rtl-sdr.com/feed)
+- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/comic/rss)
+- [Science Latest](https://www.wired.com/feed/category/science/latest/rss)
+- [Science-Based Medicine](https://sciencebasedmedicine.org/feed)
+- [ScienceAlert](https://www.sciencealert.com/rss)
+- [Scientific American Content: Global](http://rss.sciam.com/ScientificAmerican-Global)
+- [Scott H Young](https://feeds.feedburner.com/scotthyoung/HAHx)
+- [Serious Eats: Recipes](http://feeds.feedburner.com/seriouseats/recipes)
+- [Shutterbean](http://www.shutterbean.com/feed)
+- [Skinnytaste](https://www.skinnytaste.com/feed)
+- [Sky & Telescope](https://www.skyandtelescope.com/feed)
+- [smitten kitchen](http://feeds.feedburner.com/smittenkitchen)
+- [So many books, so little time](https://reddit.com/r/books/.rss)
+- [Soccer News](https://www.soccernews.com/feed)
+- [Song Exploder](http://songexploder.net/feed)
+- [Space.com](https://www.space.com/feeds/all)
+- [Speedhunters](http://feeds.feedburner.com/speedhunters)
+- [Sports News - Latest Sports and Football News | Sky News](http://feeds.skynews.com/feeds/rss/sports.xml)
+- [Sprouted Kitchen](https://www.sproutedkitchen.com/home?format=rss)
+- [Strobist](http://feeds.feedburner.com/blogspot/WOBq)
+- [Stuck in Customs](https://stuckincustoms.com/feed)
+- [TED Talks Daily (SD video)](https://pa.tedcdn.com/feeds/talks.rss)
+- [TED Talks Daily (SD video)](http://feeds.feedburner.com/tedtalks_video)
+- [Television News and Discussion](https://reddit.com/r/television/.rss)
+- [Tennis - ATP World Tour](https://www.atptour.com/en/media/rss-feed/xml-feed)
+- [Tennis News & Discussion](https://www.reddit.com/r/tennis/.rss)
+- [The Ancient Gaming Noob](http://feeds.feedburner.com/TheAncientGamingNoob)
+- [The Architect’s Newspaper](https://archpaper.com/feed)
+- [The Beauty Look Book](https://thebeautylookbook.com/feed)
+- [The best vintage and classic cars for sale online | Bring a Trailer](https://bringatrailer.com/feed)
+- [The Blog of Author Tim Ferriss](https://tim.blog/feed)
+- [The Bloggess](https://thebloggess.com/feed)
+- [The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.](https://thedesignfiles.net/feed)
+- [The History Reader](https://www.thehistoryreader.com/feed)
+- [The Inspired Room](https://theinspiredroom.net/feed)
+- [The Onion](https://www.theonion.com/rss)
+- [The Truth About Cars](https://www.thetruthaboutcars.com/feed)
+- [the TV addict](http://feeds.feedburner.com/thetvaddict/AXob)
+- [The Verge](http://www.theverge.com/rss/full.xml)
+- [The Verge -  All Posts](https://www.theverge.com/rss/index.xml)
+- [Think Love Share](https://thinkloveshare.com/index.xml)
+- [Thrifty Decor Chick](http://feeds.feedburner.com/blogspot/ZBcZ)
+- [TouchArcade - iPhone, iPad, Android Games Forum](https://toucharcade.com/community/forums/-/index.rss)
+- [Travel | The Guardian](https://www.theguardian.com/uk/travel/rss)
+- [Trendir](https://www.trendir.com/feed)
+- [TV Fanatic](https://www.tvfanatic.com/rss.xml)
+- [TVLine](https://tvline.com/feed)
+- [UNBOX PH](https://www.unbox.ph/feed)
+- [Variety](https://variety.com/feed)
+- [Who What Wear](https://www.whowhatwear.com/rss)
+- [Wired](https://www.wired.com/feed/rss)
+- [Wokeread](https://wokeread.home.blog/feed)
+- [WonderHowTo](https://www.wonderhowto.com/rss.xml)
+- [www.espn.com - TENNIS](https://www.espn.com/espn/rss/tennis/news)
+- [www.espn.com - TOP](https://www.espn.com/espn/rss/news)
+- [Xbox's Major Nelson](https://majornelson.com/feed)
+- [Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games](https://sports.yahoo.com/rss)
+- [Young House Love](https://www.younghouselove.com/feed)
+- [Yu’s Life - Telegram Channel](https://rsshub.imlg.co/telegram/channel/pseudoyulife)
 
-### 🎨 Product Design & UX (49)
+## 🎧 Podcasts & Audio (80)
 
-- [1stwebdesigner](https://1stwebdesigner.com/feed) — `https://1stwebdesigner.com/feed`
-- [A Daily Dose of Architecture Books](http://feeds.feedburner.com/archidose) — `http://feeds.feedburner.com/archidose`
-- [Akshay Kothari(@akothari)](https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b) — `https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b`
-- [ArchDaily](http://feeds.feedburner.com/Archdaily) — `http://feeds.feedburner.com/Archdaily`
-- [Architecture](https://www.reddit.com/r/architecture/.rss) — `https://www.reddit.com/r/architecture/.rss`
-- [Baymard Institute](http://feeds.baymard.com/baymard?_ga=1.110790726.2145183607.1414082693) — `http://feeds.baymard.com/baymard?_ga=1.110790726.2145183607.1414082693`
-- [Binyuan Hui(@huybery)](https://api.xgo.ing/rss/user/f54b2b40185943ce8f48a880110b7bc2) — `https://api.xgo.ing/rss/user/f54b2b40185943ce8f48a880110b7bc2`
-- [Boxes and Arrows](http://boxesandarrows.com/rss) — `http://boxesandarrows.com/rss`
-- [Car Body Design](https://www.carbodydesign.com/feed) — `https://www.carbodydesign.com/feed`
-- [Core77](http://feeds.feedburner.com/core77/blog) — `http://feeds.feedburner.com/core77/blog`
-- [Darin Senneff - UX Designer and Developer](https://www.darins.page/articles/feed) — `https://www.darins.page/articles/feed`
-- [Design in government](https://designnotes.blog.gov.uk/feed) — `https://designnotes.blog.gov.uk/feed`
-- [Figma(@figma)](https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2) — `https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2`
-- [Firefox UX](https://blog.mozilla.org/ux/feed) — `https://blog.mozilla.org/ux/feed`
-- [FlowingData](https://flowingdata.com/feed) — `https://flowingdata.com/feed`
-- [GoodUI Blog Feed](http://goodui.org/blog/feed) — `http://goodui.org/blog/feed`
-- [Hey, designer!](https://heydesigner.com/feed) — `https://heydesigner.com/feed`
-- [Inside Intercom](https://www.intercom.com/blog/feed) — `https://www.intercom.com/blog/feed`
-- [JUST™ Creative](https://feeds.feedburner.com/JustCreativeDesignBlog) — `https://feeds.feedburner.com/JustCreativeDesignBlog`
-- [Kev Quirk](https://kevq.uk/feed) — `https://kevq.uk/feed`
-- [Lireo Designs](http://www.lireo.com/feed) — `http://www.lireo.com/feed`
-- [LukeW | Digital Product Design + Strategy](http://feeds.feedburner.com/FunctioningForm) — `http://feeds.feedburner.com/FunctioningForm`
-- [Manu's Feed](https://manuelmoreale.com/feed/rss) — `https://manuelmoreale.com/feed/rss`
-- [Matthias Ott – User Experience Designer](https://matthiasott.com/rss) — `https://matthiasott.com/rss`
-- [Max Design articles](https://www.maxdesign.com.au/feed.xml) — `https://www.maxdesign.com.au/feed.xml`
-- [Mozilla Open Design](https://blog.mozilla.org/opendesign/feed) — `https://blog.mozilla.org/opendesign/feed`
-- [NN/g latest articles and announcements](https://www.nngroup.com/feed/rss) — `https://www.nngroup.com/feed/rss`
-- [Notion(@NotionHQ)](https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede) — `https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede`
-- [OddBird](http://oddbird.net/feed.atom) — `http://oddbird.net/feed.atom`
-- [Paul Foster Design](https://www.paulfosterdesign.co.uk/feed.xml) — `https://www.paulfosterdesign.co.uk/feed.xml`
-- [Pimp my Type](https://pimpmytype.com/feed) — `https://pimpmytype.com/feed`
-- [Product Life](https://productlife.to/feed) — `https://productlife.to/feed`
-- [Robin Rendle](http://robinrendle.com/feed.xml) — `http://robinrendle.com/feed.xml`
-- [Scott Jenson](https://jenson.org/feed) — `https://jenson.org/feed`
-- [Slack Design](https://slack.design/feed) — `https://slack.design/feed`
-- [The Black Box of Product Management - Medium](https://medium.com/feed/the-black-box-of-product-management) — `https://medium.com/feed/the-black-box-of-product-management`
-- [The Moz Blog](http://feedpress.me/mozblog) — `http://feedpress.me/mozblog`
-- [Tobias Ahlin](http://tobiasahlin.com/feed.xml) — `http://tobiasahlin.com/feed.xml`
-- [UX Collective - Medium](https://uxdesign.cc/feed) — `https://uxdesign.cc/feed`
-- [UX Daily - User Experience Daily](https://interaction-design.org/rss/site_news.xml) — `https://interaction-design.org/rss/site_news.xml`
-- [UX Magazine](https://uxmag.com/feed) — `https://uxmag.com/feed`
-- [UX Movement](http://feeds.feedburner.com/uxmovement) — `http://feeds.feedburner.com/uxmovement`
-- [UX Movement](https://uxmovement.com/feed) — `https://uxmovement.com/feed`
-- [UX Planet](https://uxplanet.org/feed) — `https://uxplanet.org/feed`
-- [UXmatters](https://uxmatters.com/index.xml) — `https://uxmatters.com/index.xml`
-- [User Experience](https://www.reddit.com/r/userexperience/.rss) — `https://www.reddit.com/r/userexperience/.rss`
-- [Wix UX](https://wix-ux.com/feed) — `https://wix-ux.com/feed`
-- [Yanko Design](http://feeds.feedburner.com/yankodesign) — `http://feeds.feedburner.com/yankodesign`
-- [architecture – designboom | architecture & design magazine](https://www.designboom.com/architecture/feed) — `https://www.designboom.com/architecture/feed`
+- [30 For 30 Podcasts](https://feeds.megaphone.fm/ESP5765452710)
+- [6 Minute English](https://www.spreaker.com/show/6007187/episodes/feed)
+- [60-Second Science](http://rss.sciam.com/sciam/60secsciencepodcast)
+- [Accidental Tech Podcast](https://atp.fm/rss)
+- [All About Android (Audio)](https://feeds.twit.tv/aaa.xml)
+- [Analog(ue)](https://www.relay.fm/analogue/feed)
+- [Android Authority Podcast](https://androidauthority.libsyn.com/rss)
+- [Android Authority Podcast](https://rss.libsyn.com/shows/62117/destinations/242501.xml)
+- [Android Central Podcast](http://feeds.feedburner.com/AndroidCentralPodcast)
+- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage)
+- [Can't Bowl Can't Throw Cricket Show](http://feeds.feedburner.com/cantbowlcantthrow)
+- [Clockwise](https://www.relay.fm/clockwise/feed)
+- [CodeNewbie](http://feeds.codenewbie.org/cnpodcast.xml)
+- [Daily Tech News Show](https://feeds.acast.com/public/shows/61954547cb03c875f7617118)
+- [Developer Tea](https://feeds.simplecast.com/dLRotFGk)
+- [Discovery](https://podcasts.files.bbci.co.uk/p002w557.rss)
+- [Duct Tape Marketing](https://ducttape.libsyn.com/rss)
+- [Dwarkesh Patel](https://www.dwarkeshpatel.com/feed)
+- [Essential Tennis Podcast - Instruction, Lessons, Tips](https://feed.podbean.com/essentialtennis/feed.xml)
+- [Fish Audio(@FishAudio)](https://api.xgo.ing/rss/user/4900b3dcd592424687582ff9e0f148ea)
+- [FLOSS Weekly (Audio)](https://feeds.twit.tv/floss.xml)
+- [Fragmented - The Software Podcast](https://feeds.simplecast.com/LpAGSLnY)
+- [Gastropod](https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss)
+- [Hanselminutes with Scott Hanselman](https://feeds.simplecast.com/gvtxUiIf)
+- [Hidden Brain](https://feeds.npr.org/510308/podcast.xml)
+- [How I Built This with Guy Raz](https://feeds.npr.org/510313/podcast.xml)
+- [Invisibilia](https://feeds.npr.org/510307/podcast.xml)
+- [Latent Space](https://www.latent.space/feed)
+- [Latent.Space(@latentspacepod)](https://api.xgo.ing/rss/user/a7be8b61a1264ea7984abfaea3eff686)
+- [Lenny Rachitsky(@lennysan)](https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095)
+- [Lex Fridman(@lexfridman)](https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15)
+- [Paul's Security Weekly](http://podcast.securityweekly.com/rss)
+- [Podcast - All TWiT.tv Shows](https://feeds.twit.tv/brickhouse.xml)
+- [Podcast – Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed)
+- [Probably Science](https://probablyscience.libsyn.com/rss)
+- [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown)
+- [Radiolab](http://feeds.wnyc.org/radiolab)
+- [Reply All](https://feeds.megaphone.fm/replyall)
+- [Rocket](https://www.relay.fm/rocket/feed)
+- [RSS](https://armscontrolwonk.libsyn.com/rss)
+- [RSS](https://behindthetech.libsyn.com/rss)
+- [RSS](https://changelog.com/gotime/feed)
+- [RSS](https://feeds.transistor.fm/techeu)
+- [RSS](https://lexfridman.com/feed/podcast)
+- [RSS](https://podcasts.files.bbci.co.uk/p02nrtn5.rss)
+- [RSS](https://pythonbytes.fm/episodes/rss)
+- [RSS](https://pythonhunter.org/episodes/feed.xml)
+- [RSS](https://rss.art19.com/techmeme-ridehome)
+- [RSS](https://seradio.libsyn.com/rss)
+- [RSS](https://www.disruptingjapan.com/feed/podcast)
+- [RSS](https://www.relay.fm/mpu/feed)
+- [Sawbones: A Marital Tour of Misguided Medicine](https://feeds.simplecast.com/y1LF_sn2)
+- [Shirtloads of Science](https://shirtloadsofscience.libsyn.com/rss)
+- [Sky Sports Cricket Podcast](https://www.spreaker.com/show/3387348/episodes/feed)
+- [Software Defined Talk](https://feeds.fireside.fm/sdt/rss)
+- [Software Engineering Radio - The Podcast for Professional Software Developers](http://feeds.feedburner.com/se-radio)
+- [Startup Stories - Mixergy](https://feeds.feedburner.com/Mixergy-main-podcast)
+- [Stumped](https://podcasts.files.bbci.co.uk/p02gsrmh.rss)
+- [Switch Hit Podcast](https://feeds.megaphone.fm/ESP9247246951)
+- [Tailenders](https://podcasts.files.bbci.co.uk/p02pcb4w.rss)
+- [Test Match Special](https://podcasts.files.bbci.co.uk/p02nrsl2.rss)
+- [The Cynical Developer](https://cynicaldeveloper.com/feed/podcast)
+- [The Data Engineering Show](https://feeds.transistor.fm/the-data-engineering-show)
+- [The Growth Show](http://thegrowthshow.hubspot.libsynpro.com/)
+- [The Infinite Monkey Cage](https://podcasts.files.bbci.co.uk/b00snr0w.rss)
+- [The Knowledge Project](https://feeds.megaphone.fm/FSMI7575968096)
+- [the memory palace](http://feeds.thememorypalace.us/thememorypalace)
+- [The PIT Show: Reflections and Interviews in the Tech World](https://feeds.transistor.fm/productivity-in-tech-podcast)
+- [The Stack Overflow Podcast](https://feeds.simplecast.com/XA_851k3)
+- [The Startup Junkies Podcast](https://startupjunkie.libsyn.com/rss)
+- [The Tim Ferriss Show](https://rss.art19.com/tim-ferriss-show)
+- [The Vergecast](https://feeds.megaphone.fm/vergecast)
+- [The Women in Tech Show: A Technical Podcast](https://thewomenintechshow.com/category/podcast/feed)
+- [This Week in Science – The Kickass Science Podcast](http://www.twis.org/feed)
+- [This Week in Tech (Audio)](https://feeds.twit.tv/twit.xml)
+- [Throughline](https://feeds.npr.org/510333/podcast.xml)
+- [Under the Radar](https://www.relay.fm/radar/feed)
+- [Video - All TWiT.tv Shows](https://feeds.twit.tv/brickhouse_video_hd.xml)
+- [Wisden Cricket Weekly](http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss)
+- [You Must Remember This](https://feeds.megaphone.fm/YMRT7068253588)
 
-### 🚀 Startups & Indie Hackers (58)
+## 📬 Newsletters (11)
 
-- [AVC](https://avc.com/feed) — `https://avc.com/feed`
-- [Adam D'Angelo(@adamdangelo)](https://api.xgo.ing/rss/user/3042b6f912b24f64982cc23f7bd59681) — `https://api.xgo.ing/rss/user/3042b6f912b24f64982cc23f7bd59681`
-- [Amjad Masad](https://amasad.me/rss) — `https://amasad.me/rss`
-- [Amjad Masad(@amasad)](https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82) — `https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82`
-- [Andrew Chen](http://andrewchen.co/feed) — `http://andrewchen.co/feed`
-- [Backlinko](http://backlinko.com/feed) — `http://backlinko.com/feed`
-- [Both Sides of the Table](http://feeds.feedburner.com/BothSidesOfTheTable) — `http://feeds.feedburner.com/BothSidesOfTheTable`
-- [Entrepreneur](http://feeds.feedburner.com/entrepreneur/latest) — `http://feeds.feedburner.com/entrepreneur/latest`
-- [Essays - Benedict Evans](http://ben-evans.com/benedictevans?format=rss) — `http://ben-evans.com/benedictevans?format=rss`
-- [Fast Company](http://feeds.feedburner.com/fastcompany/headlines) — `http://feeds.feedburner.com/fastcompany/headlines`
-- [Feld Thoughts](https://feld.com/feed) — `https://feld.com/feed`
-- [Guy Kawasaki](http://guykawasaki.com/feed) — `http://guykawasaki.com/feed`
-- [HBR.org](http://feeds.harvardbusiness.org/harvardbusiness) — `http://feeds.harvardbusiness.org/harvardbusiness`
-- [Hacker News](http://news.ycombinator.com/rss) — `http://news.ycombinator.com/rss`
-- [Hacker News Best](https://hnrss.org/best) — `https://hnrss.org/best`
-- [Hacker News: Front Page](https://hnrss.org/frontpage) — `https://hnrss.org/frontpage`
-- [Hacker News: Launches](https://hnrss.org/launches) — `https://hnrss.org/launches`
-- [Hacker News: Show HN](http://hnrss.org/show) — `http://hnrss.org/show`
-- [Hubspot](http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?maxcount=25&moduleid=8441&tabid=6307) — `http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?maxcount=25&moduleid=8441&tabid=6307`
-- [Inc.com](https://www.inc.com/rss) — `https://www.inc.com/rss`
-- [Jerry Liu(@jerryjliu0)](https://api.xgo.ing/rss/user/b3d904c0d7c446558ef3a1e7f2eb362b) — `https://api.xgo.ing/rss/user/b3d904c0d7c446558ef3a1e7f2eb362b`
-- [John Egan](http://jwegan.com/feed/rss) — `http://jwegan.com/feed/rss`
-- [Justin Welsh(@thejustinwelsh)](https://api.xgo.ing/rss/user/58894bf2934a426ca833c682da2bc810) — `https://api.xgo.ing/rss/user/58894bf2934a426ca833c682da2bc810`
-- [Justine Moore(@venturetwins)](https://api.xgo.ing/rss/user/c61046471f174d86bc0eb76cb44a21c3) — `https://api.xgo.ing/rss/user/c61046471f174d86bc0eb76cb44a21c3`
-- [Marc Andreessen 🇺🇸(@pmarca)](https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008) — `https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008`
-- [Masters of Scale with Reid Hoffman](https://rss.art19.com/masters-of-scale) — `https://rss.art19.com/masters-of-scale`
-- [Mike Krieger(@mikeyk)](https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29) — `https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29`
-- [Moz](http://feeds.feedburner.com/seomoz) — `http://feeds.feedburner.com/seomoz`
-- [MyWifeQuitHerJob.com](https://mywifequitherjob.com/feed) — `https://mywifequitherjob.com/feed`
-- [Naval(@naval)](https://api.xgo.ing/rss/user/b43bc203409e4c5a9c3ae86fe1ac00c9) — `https://api.xgo.ing/rss/user/b43bc203409e4c5a9c3ae86fe1ac00c9`
-- [Pat Walls](https://patwalls.com/feed) — `https://patwalls.com/feed`
-- [Paul Graham - Essays](https://rsshub.imlg.co/paulgraham/articles) — `https://rsshub.imlg.co/paulgraham/articles`
-- [Paul Graham(@paulg)](https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc) — `https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc`
-- [Product Hunt — The best new products, every day](http://www.producthunt.com/feed) — `http://www.producthunt.com/feed`
-- [Quick Sprout](http://www.quicksprout.com/feed) — `http://www.quicksprout.com/feed`
-- [Quick Sprout](https://www.quicksprout.com/rss) — `https://www.quicksprout.com/rss`
-- [SEO Blog by Ahrefs](https://ahrefs.com/blog/feed) — `https://ahrefs.com/blog/feed`
-- [Sahil Lavingia(@shl)](https://api.xgo.ing/rss/user/baad3713defe4182844d2756b4c2c9ed) — `https://api.xgo.ing/rss/user/baad3713defe4182844d2756b4c2c9ed`
-- [Sam Altman](http://blog.samaltman.com/posts.atom) — `http://blog.samaltman.com/posts.atom`
-- [Satya Nadella(@satyanadella)](https://api.xgo.ing/rss/user/baa68dbd9a9e461a96fd9b2e3f35dcbf) — `https://api.xgo.ing/rss/user/baa68dbd9a9e461a96fd9b2e3f35dcbf`
-- [Show Hacker News](https://news.ycombinator.com/showrss) — `https://news.ycombinator.com/showrss`
-- [Side Hustle Nation](https://www.sidehustlenation.com/feed) — `https://www.sidehustlenation.com/feed`
-- [Small Business Trends](https://feeds2.feedburner.com/SmallBusinessTrends) — `https://feeds2.feedburner.com/SmallBusinessTrends`
-- [SparkToro](https://sparktoro.com/blog/feed) — `https://sparktoro.com/blog/feed`
-- [Steph Ango](https://stephango.com/feed.xml) — `https://stephango.com/feed.xml`
-- [Steve Blank](http://steveblank.com/feed) — `http://steveblank.com/feed`
-- [Tech in Asia](https://feeds2.feedburner.com/PennOlson) — `https://feeds2.feedburner.com/PennOlson`
-- [TechCrunch](http://feeds.feedburner.com/TechCrunch) — `http://feeds.feedburner.com/TechCrunch`
-- [TechCrunch](https://techcrunch.com/feed) — `https://techcrunch.com/feed`
-- [Techmeme](https://www.techmeme.com/feed.xml) — `https://www.techmeme.com/feed.xml`
-- [The Next Web](https://thenextweb.com/feed) — `https://thenextweb.com/feed`
-- [VentureBeat](http://venturebeat.com/feed) — `http://venturebeat.com/feed`
-- [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF) — `https://feeds.feedburner.com/venturebeat/SZYF`
-- [Y Combinator(@ycombinator)](https://api.xgo.ing/rss/user/b1ab109f6afd42ab8ea32e17a19a3a3e) — `https://api.xgo.ing/rss/user/b1ab109f6afd42ab8ea32e17a19a3a3e`
-- [a16z(@a16z)](https://api.xgo.ing/rss/user/f3fedf817599470dbf8d8d11f0872475) — `https://api.xgo.ing/rss/user/f3fedf817599470dbf8d8d11f0872475`
-- [andrew chen(@andrewchen)](https://api.xgo.ing/rss/user/a3eb6beb2d894da3a9b7ab6d2e46790e) — `https://api.xgo.ing/rss/user/a3eb6beb2d894da3a9b7ab6d2e46790e`
-- [blog – Feld Thoughts](https://feld.com/archives/tag/blog/feed) — `https://feld.com/archives/tag/blog/feed`
-- [theBlock - Telegram Channel](https://rsshub.imlg.co/telegram/channel/theBlockClub) — `https://rsshub.imlg.co/telegram/channel/theBlockClub`
-
-### 🏗️ Engineering Team Blogs (50)
-
-- [AMEX Technology](https://americanexpress.io/feed.xml) — `https://americanexpress.io/feed.xml`
-- [BBC Product & Technology](https://medium.com/feed/bbc-design-engineering) — `https://medium.com/feed/bbc-design-engineering`
-- [Code as Craft](https://codeascraft.com/feed/atom) — `https://codeascraft.com/feed/atom`
-- [Code as Craft (Etsy Engineering)](https://www.etsy.com/codeascraft/rss) — `https://www.etsy.com/codeascraft/rss`
-- [Dropbox Tech](https://dropbox.tech/feed) — `https://dropbox.tech/feed`
-- [DuckDuckGo Blog](https://spreadprivacy.com/rss) — `https://spreadprivacy.com/rss`
-- [Engineering Blog – Wealthfront](http://eng.wealthfront.com/feed) — `http://eng.wealthfront.com/feed`
-- [Engineering – The GitHub Blog](http://githubengineering.com/atom.xml) — `http://githubengineering.com/atom.xml`
-- [Facebook Engineering](https://engineering.fb.com/feed) — `https://engineering.fb.com/feed`
-- [Facebook Engineering](https://code.facebook.com/posts/rss) — `https://code.facebook.com/posts/rss`
-- [GitHub Engineering](https://github.blog/engineering.atom) — `https://github.blog/engineering.atom`
-- [Google Developers Blog](http://feeds.feedburner.com/GDBcode) — `http://feeds.feedburner.com/GDBcode`
-- [Google Developers Blog](https://developers.googleblog.com/feeds/posts/default) — `https://developers.googleblog.com/feeds/posts/default`
-- [Google Open Source Blog](http://feeds.feedburner.com/GoogleOpenSourceBlog) — `http://feeds.feedburner.com/GoogleOpenSourceBlog`
-- [Google Search Central Blog](http://feeds.feedburner.com/blogspot/amDG) — `http://feeds.feedburner.com/blogspot/amDG`
-- [Government Digital Service](https://gds.blog.gov.uk/feed) — `https://gds.blog.gov.uk/feed`
-- [Grab Tech](http://engineering.grab.com/feed.xml) — `http://engineering.grab.com/feed.xml`
-- [Irrational Exuberance](https://lethain.com/feeds) — `https://lethain.com/feeds`
-- [JetBrains News | JetBrains Blog](https://blog.jetbrains.com/blog/feed) — `https://blog.jetbrains.com/blog/feed`
-- [KA Engineering](http://engineering.khanacademy.org/rss.xml) — `http://engineering.khanacademy.org/rss.xml`
-- [Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles.atom) — `https://evilmartians.com/chronicles.atom`
-- [Medium Engineering - Medium](https://medium.com/feed/medium-eng) — `https://medium.com/feed/medium-eng`
-- [Mozilla Foundation Blog](https://foundation.mozilla.org/en/blog/atom) — `https://foundation.mozilla.org/en/blog/atom`
-- [Mozilla Services](https://blog.mozilla.org/services/feed) — `https://blog.mozilla.org/services/feed`
-- [Overflow - Buffer Resources](https://buffer.com/resources/overflow/rss) — `https://buffer.com/resources/overflow/rss`
-- [Performance @ Shopify - Blog](https://performance.shopify.com/blogs/blog.atom) — `https://performance.shopify.com/blogs/blog.atom`
-- [Pinterest Engineering Blog - Medium](https://medium.com/feed/pinterest-engineering) — `https://medium.com/feed/pinterest-engineering`
-- [Planet Igalia](http://planet.igalia.com/atom.xml) — `http://planet.igalia.com/atom.xml`
-- [Q42 Engineering](https://engineering.q42.nl/rss) — `https://engineering.q42.nl/rss`
-- [Scott Logic](https://blog.scottlogic.com/atom.xml) — `https://blog.scottlogic.com/atom.xml`
-- [Slack Engineering](https://slack.engineering/feed) — `https://slack.engineering/feed`
-- [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/blog.rss) — `https://developers.soundcloud.com/blog/blog.rss`
-- [Spotify Engineering](https://engineering.atspotify.com/feed) — `https://engineering.atspotify.com/feed`
-- [Spotify Engineering](http://labs.spotify.com/feed) — `http://labs.spotify.com/feed`
-- [Stripe Blog](https://stripe.com/blog/feed.rss) — `https://stripe.com/blog/feed.rss`
-- [Sundar Pichai(@sundarpichai)](https://api.xgo.ing/rss/user/8324d65a63dc42c584a8c08cc8323c9f) — `https://api.xgo.ing/rss/user/8324d65a63dc42c584a8c08cc8323c9f`
-- [Technology + Creativity at the BBC Feed](http://www.bbc.co.uk/blogs/internet/rss) — `http://www.bbc.co.uk/blogs/internet/rss`
-- [Technology in government](https://gdstechnology.blog.gov.uk/feed) — `https://gdstechnology.blog.gov.uk/feed`
-- [The Airbnb Tech Blog - Medium](https://medium.com/feed/airbnb-engineering) — `https://medium.com/feed/airbnb-engineering`
-- [The Airtable Engineering Blog](https://medium.com/feed/airtable-eng) — `https://medium.com/feed/airtable-eng`
-- [The Keyword (blog.google)](https://blog.google/rss) — `https://blog.google/rss`
-- [The PayPal Technology Blog](https://medium.com/feed/paypal-tech) — `https://medium.com/feed/paypal-tech`
-- [The PayPal Technology Blog - Medium](https://medium.com/feed/paypal-engineering) — `https://medium.com/feed/paypal-engineering`
-- [The Telegraph Engineering](https://medium.com/feed/the-telegraph-engineering) — `https://medium.com/feed/the-telegraph-engineering`
-- [The Wikipedia Web team blog](https://phabricator.wikimedia.org/phame/blog/feed/9) — `https://phabricator.wikimedia.org/phame/blog/feed/9`
-- [Widen Engineering](http://engineering.widen.com/feed.xml) — `http://engineering.widen.com/feed.xml`
-- [[[WM:TECHBLOG]]](http://techblog.wikimedia.org/feed) — `http://techblog.wikimedia.org/feed`
-- [about:community](https://blog.mozilla.org/community/feed) — `https://blog.mozilla.org/community/feed`
-- [eBay Tech Blog](http://www.ebaytechblog.com/feed) — `http://www.ebaytechblog.com/feed`
-- [trivago tech blog](https://tech.trivago.com/rss.xml) — `https://tech.trivago.com/rss.xml`
-
-### ⚛️ Web Frontend & Standards (300)
-
-- [/r/css](https://www.reddit.com/r/css.rss) — `https://www.reddit.com/r/css.rss`
-- [/r/javascript](https://www.reddit.com/r/javascript.rss) — `https://www.reddit.com/r/javascript.rss`
-- [/r/reactjs](https://www.reddit.com/r/reactjs.rss) — `https://www.reddit.com/r/reactjs.rss`
-- [/r/vuejs](https://www.reddit.com/r/vuejs.rss) — `https://www.reddit.com/r/vuejs.rss`
-- [24 ways](https://feeds.feedburner.com/24ways) — `https://feeds.feedburner.com/24ways`
-- [2ality – JavaScript and more](https://2ality.com/feeds/posts.atom) — `https://2ality.com/feeds/posts.atom`
-- [A List Apart: The Abridged Feed](https://alistapart.com/main/feed) — `https://alistapart.com/main/feed`
-- [A web performance blog](https://www.alexrp.co.uk/rss.xml) — `https://www.alexrp.co.uk/rss.xml`
-- [A-Frame](https://aframe.io/feed.xml) — `https://aframe.io/feed.xml`
-- [Aaron Gustafson: Posts](https://www.aaron-gustafson.com/feeds/latest-posts.xml) — `https://www.aaron-gustafson.com/feeds/latest-posts.xml`
-- [Aaron T. Grogg](https://aarontgrogg.com/feed) — `https://aarontgrogg.com/feed`
-- [Accessibility in government](https://accessibility.blog.gov.uk/feed/atom) — `https://accessibility.blog.gov.uk/feed/atom`
-- [Adactio: Links](http://adactio.com/links/rss) — `http://adactio.com/links/rss`
-- [Adam Argyle](https://nerdy.dev/rss.xml) — `https://nerdy.dev/rss.xml`
-- [Adam Silver](https://adamsilver.io/atom.xml) — `https://adamsilver.io/atom.xml`
-- [Adam Wathan's Blog](https://adamwathan.me/rss/index.xml) — `https://adamwathan.me/rss/index.xml`
-- [Addy Osmani](https://addyosmani.com/rss.xml) — `https://addyosmani.com/rss.xml`
-- [Adrian Roselli](https://adrianroselli.com/feed) — `https://adrianroselli.com/feed`
-- [Advancing WebRTC](https://blog.mozilla.org/webrtc/feed) — `https://blog.mozilla.org/webrtc/feed`
-- [Aerotwist Blog](http://aerotwist.com/blog/feed) — `http://aerotwist.com/blog/feed`
-- [Ahmed Shadeed](https://ishadeed.com/feed.xml) — `https://ishadeed.com/feed.xml`
-- [AlastairC](https://alastairc.uk/feed) — `https://alastairc.uk/feed`
-- [Allen Wirfs](http://www.wirfs-brock.com/allen/feed) — `http://www.wirfs-brock.com/allen/feed`
-- [Alvaro Montoro's website](https://alvaromontoro.com/feed.rss) — `https://alvaromontoro.com/feed.rss`
-- [Amber: Blog](https://amberwilson.co.uk/rss.xml) — `https://amberwilson.co.uk/rss.xml`
-- [Andy Bell](https://andy-bell.co.uk/feed.xml) — `https://andy-bell.co.uk/feed.xml`
-- [Andy Davies](http://feeds.feedburner.com/andydavies) — `http://feeds.feedburner.com/andydavies`
-- [Angular Blog](https://blog.angular.io/feed) — `https://blog.angular.io/feed`
-- [Anne’s Blog](http://annevankesteren.nl/feeds/weblog) — `http://annevankesteren.nl/feeds/weblog`
-- [Anselm Hannemann’s Writings](https://helloanselm.com/feed/rss) — `https://helloanselm.com/feed/rss`
-- [Artem Sapegin’s Blog](http://blog.sapegin.me/atom.xml) — `http://blog.sapegin.me/atom.xml`
-- [Articles & Experiments by Roman Komarov](http://feeds.feedburner.com/kizuruen) — `http://feeds.feedburner.com/kizuruen`
-- [Articles by Ryan Mulligan](https://ryanmulligan.dev/blog/feed.xml) — `https://ryanmulligan.dev/blog/feed.xml`
-- [Articles on Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/feed) — `https://www.smashingmagazine.com/feed`
-- [Astro Blog](https://astro.build/rss.xml) — `https://astro.build/rss.xml`
-- [Ben Frain](https://benfrain.com/feed) — `https://benfrain.com/feed`
-- [Ben McCormick](https://benmccormick.org/rss) — `https://benmccormick.org/rss`
-- [Ben Myers](https://blog.benmyers.dev/feed.xml) — `https://blog.benmyers.dev/feed.xml`
-- [Benedikt Meurer](http://benediktmeurer.de/feed.xml) — `http://benediktmeurer.de/feed.xml`
-- [Blog – WebKit](http://webkit.org/blog/feed) — `http://webkit.org/blog/feed`
-- [Blog: Web Accessibility tips & tricks - The A11Y Collective](https://www.a11y-collective.com/blog/feed) — `https://www.a11y-collective.com/blog/feed`
-- [Blogccasion](https://blog.tomayac.com/feed/feed.xml) — `https://blog.tomayac.com/feed/feed.xml`
-- [Blogging and All that Malarkey (*)](https://stuffandnonsense.co.uk/blog/feed) — `https://stuffandnonsense.co.uk/blog/feed`
-- [Bootstrap Blog](https://blog.getbootstrap.com/feed.xml) — `https://blog.getbootstrap.com/feed.xml`
-- [Brad Frost](https://feeds.feedburner.com/brad-frosts-blog) — `https://feeds.feedburner.com/brad-frosts-blog`
-- [Bram Van Damme](https://www.bram.us/feed) — `https://www.bram.us/feed`
-- [Brian Birtles’ Blog](https://birtles.blog/feed.xml) — `https://birtles.blog/feed.xml`
-- [Bruce Lawson's  personal site](https://www.brucelawson.co.uk/feed) — `https://www.brucelawson.co.uk/feed`
-- [Bryan Braun - Frontend Developer](https://www.bryanbraun.com/rss.xml) — `https://www.bryanbraun.com/rss.xml`
-- [CSS - Stack Overflow](https://stackoverflow.com/feeds/tag?sort=newest&tagnames=css) — `https://stackoverflow.com/feeds/tag?sort=newest&tagnames=css`
-- [CSS Articles by Temani Afif](https://css-articles.com/feed.xml) — `https://css-articles.com/feed.xml`
-- [CSS In Real Life](https://css-irl.info/rss.xml) — `https://css-irl.info/rss.xml`
-- [CSS WG Blog](https://www.w3.org/blog/CSS/feed/atom) — `https://www.w3.org/blog/CSS/feed/atom`
-- [CSS-Tricks](https://css-tricks.com/feed) — `https://css-tricks.com/feed`
-- [CSS-Tricks](https://feeds.feedburner.com/CssTricks) — `https://feeds.feedburner.com/CssTricks`
-- [Can I Use updates](https://feeds.feedburner.com/WhenCanIUse) — `https://feeds.feedburner.com/WhenCanIUse`
-- [Centre For Accessibility Australia](https://www.accessibility.org.au/feed) — `https://www.accessibility.org.au/feed`
-- [Chip Cullen | Front End Developer](https://chipcullen.com/index.xml) — `https://chipcullen.com/index.xml`
-- [Chris Coyier](http://feeds2.feedburner.com/ChrisCoyier) — `http://feeds2.feedburner.com/ChrisCoyier`
-- [Christian Heilmann](https://christianheilmann.com/feed) — `https://christianheilmann.com/feed`
-- [Chrome Developer Blog](https://developer.chrome.com/blog/feed.xml) — `https://developer.chrome.com/blog/feed.xml`
-- [Chromium Blog](http://blog.chromium.org/feeds/posts/default) — `http://blog.chromium.org/feeds/posts/default`
-- [CodePen Blog](https://blog.codepen.io/feed) — `https://blog.codepen.io/feed`
-- [Codrops](https://tympanus.net/codrops/feed) — `https://tympanus.net/codrops/feed`
-- [Converge Accessibility](https://convergeaccessibility.com/feed) — `https://convergeaccessibility.com/feed`
-- [Dan Abramov's Overreacted Blog RSS Feed](https://overreacted.io/rss.xml) — `https://overreacted.io/rss.xml`
-- [Dan's Blog](http://www.torgo.com/blog/feed) — `http://www.torgo.com/blog/feed`
-- [Dave Ceddia](https://daveceddia.com/feed.xml) — `https://daveceddia.com/feed.xml`
-- [Dave Rupert](https://daverupert.com/atom.xml) — `https://daverupert.com/atom.xml`
-- [David Baron's Weblog](https://dbaron.org/log/atom-feed) — `https://dbaron.org/log/atom-feed`
-- [David Flanagan](https://davidflanagan.com/feed.xml) — `https://davidflanagan.com/feed.xml`
-- [David Walsh](https://davidwalsh.name/feed/atom) — `https://davidwalsh.name/feed/atom`
-- [David Walsh Blog](https://davidwalsh.name/feed) — `https://davidwalsh.name/feed`
-- [David Walsh Blog](http://feeds.feedburner.com/Bludice) — `http://feeds.feedburner.com/Bludice`
-- [Defensive CSS](https://defensivecss.dev/feed/feed.xml) — `https://defensivecss.dev/feed/feed.xml`
-- [Deque Accessibility Blog](https://www.deque.com/feed) — `https://www.deque.com/feed`
-- [Dmitri Pavlutin](https://dmitripavlutin.com/rss.xml) — `https://dmitripavlutin.com/rss.xml`
-- [Dropbox Tech Blog](https://dropbox.tech/frontend/feed) — `https://dropbox.tech/frontend/feed`
-- [ECMAScript Daily](https://ecmascript-daily.github.io/atom.xml) — `https://ecmascript-daily.github.io/atom.xml`
-- [Echo JS](https://www.echojs.com/rss) — `https://www.echojs.com/rss`
-- [Ember.js Blog](https://blog.emberjs.com/rss.xml) — `https://blog.emberjs.com/rss.xml`
-- [Eric Bailey](https://ericwbailey.design/feed/feed.xml) — `https://ericwbailey.design/feed/feed.xml`
-- [Eric Bidelman](https://ericbidelman.com/rss.xml) — `https://ericbidelman.com/rss.xml`
-- [Eric Eggert (@yatil) on web accessibility and more.](https://yatil.net/feed) — `https://yatil.net/feed`
-- [Eric Meyer](https://meyerweb.com/eric/thoughts/category/tech/rss2/full) — `https://meyerweb.com/eric/thoughts/category/tech/rss2/full`
-- [Ethan Marcotte’s website](https://ethanmarcotte.com/wrote/feed.xml) — `https://ethanmarcotte.com/wrote/feed.xml`
-- [Firefox Add-ons Blog (*CORS issue)](https://addons.mozilla.org/blog/feed.xml) — `https://addons.mozilla.org/blog/feed.xml`
-- [Firefox Developer Experience](https://fxdx.dev/feed) — `https://fxdx.dev/feed`
-- [Firefox Nightly News](https://blog.nightly.mozilla.org/feed) — `https://blog.nightly.mozilla.org/feed`
-- [Firefox Nightly Notes](https://www.mozilla.org/en-US/firefox/nightly/notes/feed) — `https://www.mozilla.org/en-US/firefox/nightly/notes/feed`
-- [Flavio Copes](https://flaviocopes.com/rss.xml) — `https://flaviocopes.com/rss.xml`
-- [Florian’s Blog](http://florian.rivoal.net/blog/feed.xml) — `http://florian.rivoal.net/blog/feed.xml`
-- [Frontend Masters Boost RSS Feed](https://frontendmasters.com/blog/feed) — `https://frontendmasters.com/blog/feed`
-- [Future Releases](http://blog.mozilla.com/futurereleases/feed) — `http://blog.mozilla.com/futurereleases/feed`
-- [Go Make Things](https://gomakethings.com/feed/index.xml) — `https://gomakethings.com/feed/index.xml`
-- [Google Chrome](https://blog.google/products/chrome/rss) — `https://blog.google/products/chrome/rss`
-- [HTMHell](https://www.htmhell.dev/feed.xml) — `https://www.htmhell.dev/feed.xml`
-- [HTMHell Tips & Tricks](https://www.htmhell.dev/feed_tips.xml) — `https://www.htmhell.dev/feed_tips.xml`
-- [Harry Roberts](https://feeds.feedburner.com/csswizardry) — `https://feeds.feedburner.com/csswizardry`
-- [Henri Sivonen’s pages](https://hsivonen.fi/feed/atom) — `https://hsivonen.fi/feed/atom`
-- [Heydon Pickering](https://heydonworks.com/feed.xml) — `https://heydonworks.com/feed.xml`
-- [Hidden Variables](https://blog.domenic.me/atom.xml) — `https://blog.domenic.me/atom.xml`
-- [Igalia](https://www.igalia.com/feed.xml) — `https://www.igalia.com/feed.xml`
-- [Igor Minar](https://igor.dev/feed/feed.xml) — `https://igor.dev/feed/feed.xml`
-- [Impressive Webs](http://feeds2.feedburner.com/ImpressiveWebs) — `http://feeds2.feedburner.com/ImpressiveWebs`
-- [Inclusive Components](https://inclusive-components.design/rss) — `https://inclusive-components.design/rss`
-- [Infrequently Noted](https://infrequently.org/feed) — `https://infrequently.org/feed`
-- [Ire Aderinokun](https://bitsofco.de/rss) — `https://bitsofco.de/rss`
-- [Jack Franklin](https://www.jackfranklin.co.uk/feed.xml) — `https://www.jackfranklin.co.uk/feed.xml`
-- [Jake Archibald](https://jakearchibald.com/posts.rss) — `https://jakearchibald.com/posts.rss`
-- [Jens Oliver Meiert](https://meiert.com/en/feed) — `https://meiert.com/en/feed`
-- [Jeremy Keith (Articles)](https://adactio.com/articles/rss) — `https://adactio.com/articles/rss`
-- [Jeremy Keith (Journal)](https://adactio.com/journal/rss) — `https://adactio.com/journal/rss`
-- [Jim Fisher’s blog](https://jameshfisher.com/feed.xml) — `https://jameshfisher.com/feed.xml`
-- [Joe Dolson Web Accessibility](https://www.joedolson.com/feed) — `https://www.joedolson.com/feed`
-- [Jonathan Snook](https://snook.ca/jonathan/index.rdf) — `https://snook.ca/jonathan/index.rdf`
-- [Katz Got Your Tongue](http://yehudakatz.com/rss) — `http://yehudakatz.com/rss`
-- [Kent C. Dodds Blog](https://kentcdodds.com/blog/rss.xml) — `https://kentcdodds.com/blog/rss.xml`
-- [Kilian Valkhof](https://kilianvalkhof.com/feed) — `https://kilianvalkhof.com/feed`
-- [Kirupa](https://www.kirupa.com/modular/kirupa.xml) — `https://www.kirupa.com/modular/kirupa.xml`
-- [Krasimir Tsonev](https://krasimirtsonev.com/blog/rss) — `https://krasimirtsonev.com/blog/rss`
-- [Laura Kalbag (*)](https://laurakalbag.com/posts/index.xml) — `https://laurakalbag.com/posts/index.xml`
-- [Lea Verou](https://lea.verou.me/feed) — `https://lea.verou.me/feed`
-- [Lea Verou’s blog](https://lea.verou.me/feed.xml) — `https://lea.verou.me/feed.xml`
-- [Lit Blog](https://lit.dev/blog/atom.xml) — `https://lit.dev/blog/atom.xml`
-- [Louis Lazaris](https://www.impressivewebs.com/feed) — `https://www.impressivewebs.com/feed`
-- [Lynn Fisher](https://lynnandtonic.com/feed.xml) — `https://lynnandtonic.com/feed.xml`
-- [MDN Blog](https://developer.mozilla.org/en-US/blog/rss.xml) — `https://developer.mozilla.org/en-US/blog/rss.xml`
-- [Marcus Herrmann](https://marcus.io/feed) — `https://marcus.io/feed`
-- [MarcySutton.com RSS Feed](https://marcysutton.com/rss.xml) — `https://marcysutton.com/rss.xml`
-- [Marius Schulz](https://feeds.feedburner.com/mariusschulz) — `https://feeds.feedburner.com/mariusschulz`
-- [Mark Erikson](https://blog.isquaredsoftware.com/index.xml) — `https://blog.isquaredsoftware.com/index.xml`
-- [Marvin Hagemeister](https://marvinh.dev/feed.xml) — `https://marvinh.dev/feed.xml`
-- [Matej Latin](https://betterwebtype.com/feed.xml) — `https://betterwebtype.com/feed.xml`
-- [MathJax](https://www.mathjax.org/feed.xml) — `https://www.mathjax.org/feed.xml`
-- [Mathias Bynens](https://mathiasbynens.be/notes.atom) — `https://mathiasbynens.be/notes.atom`
-- [Max Stoibers (@mxstbr) Thoughts](https://mxstbr.com/rss) — `https://mxstbr.com/rss`
-- [Maxime Heckel's Blog](https://blog.maximeheckel.com/rss.xml) — `https://blog.maximeheckel.com/rss.xml`
-- [Melanie Richards](https://melanie-richards.com/feed.xml) — `https://melanie-richards.com/feed.xml`
-- [Michael Scharnagl](https://justmarkup.com/feed/feed.xml) — `https://justmarkup.com/feed/feed.xml`
-- [Microsoft Edge Blog](https://blogs.windows.com/msedgedev/feed) — `https://blogs.windows.com/msedgedev/feed`
-- [Mike Riethmuller](https://www.madebymike.com.au/feed.xml) — `https://www.madebymike.com.au/feed.xml`
-- [Mike West](https://mikewest.org/rss/index.xml) — `https://mikewest.org/rss/index.xml`
-- [Minko Gechev's blog](http://blog.mgechev.com/feed.xml) — `http://blog.mgechev.com/feed.xml`
-- [Miriam Eric Suzanne](https://www.miriamsuzanne.com/feed.xml) — `https://www.miriamsuzanne.com/feed.xml`
-- [Modern CSS Solutions](https://moderncss.dev/feed) — `https://moderncss.dev/feed`
-- [Mozilla Accessibility](https://blog.mozilla.org/accessibility/feed) — `https://blog.mozilla.org/accessibility/feed`
-- [Mozilla Add-ons Community Blog](https://blog.mozilla.org/addons/feed) — `https://blog.mozilla.org/addons/feed`
-- [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/feed) — `https://hacks.mozilla.org/feed`
-- [News and Blog](https://www.abilitynet.org.uk/news-blogs/feed.rss) — `https://www.abilitynet.org.uk/news-blogs/feed.rss`
-- [Next.js Blog](https://nextjs.org/feed.xml) — `https://nextjs.org/feed.xml`
-- [Nicholas C. Zakas](https://humanwhocodes.com/feeds/blog.xml) — `https://humanwhocodes.com/feeds/blog.xml`
-- [Nicole Sullivan](https://www.stubbornella.org/feed) — `https://www.stubbornella.org/feed`
-- [Now Stable across Chrome, Edge, Firefox, and Safari](https://time-to-stable.deno.dev/when-stable?browser-chrome=on&browser-edge=on&browser-firefox=on&browser-safari=on&feature-api=on&feature-css=on&feature-html=on&feature-javascript=on&type=rss) — `https://time-to-stable.deno.dev/when-stable?browser-chrome=on&browser-edge=on&browser-firefox=on&browser-safari=on&feature-api=on&feature-css=on&feature-html=on&feature-javascript=on&type=rss`
-- [Nuxt Blog](https://nuxt.com/blog/rss.xml) — `https://nuxt.com/blog/rss.xml`
-- [Official jQuery Blog](http://blog.jquery.com/feed) — `http://blog.jquery.com/feed`
-- [Open Web Advocacy posts](https://open-web-advocacy.org/feed.xml) — `https://open-web-advocacy.org/feed.xml`
-- [Open Web Docs blog](https://openwebdocs.org/feed.xml) — `https://openwebdocs.org/feed.xml`
-- [Oriol Brufau’s blog](https://blogs.igalia.com/obrufau/feed.xml) — `https://blogs.igalia.com/obrufau/feed.xml`
-- [PWABuilder Blog](https://blog.pwabuilder.com/feed.xml) — `https://blog.pwabuilder.com/feed.xml`
-- [Patrick Brosset](https://patrickbrosset.com/feed.xml) — `https://patrickbrosset.com/feed.xml`
-- [Paul Irish](http://feeds.feedburner.com/paul-irish) — `http://feeds.feedburner.com/paul-irish`
-- [Paul Kinlan](https://paul.kinlan.me/index.xml) — `https://paul.kinlan.me/index.xml`
-- [Philip Walton](https://feeds.feedburner.com/philipwalton) — `https://feeds.feedburner.com/philipwalton`
-- [Rach Smith's digital garden](https://rachsmith.com/rss) — `https://rachsmith.com/rss`
-- [Rachel Andrew](https://rachelandrew.co.uk/archives/rss.php) — `https://rachelandrew.co.uk/archives/rss.php`
-- [Rachele DiTullio](https://racheleditullio.com/feed) — `https://racheleditullio.com/feed`
-- [Random Notes from kizu.dev](https://blog.kizu.dev/rss.xml) — `https://blog.kizu.dev/rss.xml`
-- [React Blog](https://react.dev/rss.xml) — `https://react.dev/rss.xml`
-- [React Blog](https://reactjs.org/feed.xml) — `https://reactjs.org/feed.xml`
-- [Read the Tea Leaves](http://nolanlawson.com/feed) — `http://nolanlawson.com/feed`
-- [Recent Commits to aom:gh-pages](https://github.com/WICG/aom/commits/gh-pages.atom) — `https://github.com/WICG/aom/commits/gh-pages.atom`
-- [Recent Commits to aria:main](https://github.com/w3c/aria/commits/main.atom) — `https://github.com/w3c/aria/commits/main.atom`
-- [Recent Commits to background-fetch:gh-pages](https://github.com/WICG/background-fetch/commits/gh-pages.atom) — `https://github.com/WICG/background-fetch/commits/gh-pages.atom`
-- [Recent Commits to compat:main](https://github.com/whatwg/compat/commits/main.atom) — `https://github.com/whatwg/compat/commits/main.atom`
-- [Recent Commits to console:main](https://github.com/whatwg/console/commits/main.atom) — `https://github.com/whatwg/console/commits/main.atom`
-- [Recent Commits to css-houdini-drafts:main](https://github.com/w3c/css-houdini-drafts/commits/main.atom) — `https://github.com/w3c/css-houdini-drafts/commits/main.atom`
-- [Recent Commits to csswg-drafts:main](https://github.com/w3c/csswg-drafts/commits/main.atom) — `https://github.com/w3c/csswg-drafts/commits/main.atom`
-- [Recent Commits to design-principles:main](https://github.com/w3ctag/design-principles/commits/main.atom) — `https://github.com/w3ctag/design-principles/commits/main.atom`
-- [Recent Commits to dom:main](https://github.com/whatwg/dom/commits/main.atom) — `https://github.com/whatwg/dom/commits/main.atom`
-- [Recent Commits to ecma262:main](https://github.com/tc39/ecma262/commits/main.atom) — `https://github.com/tc39/ecma262/commits/main.atom`
-- [Recent Commits to fetch:main](https://github.com/whatwg/fetch/commits/main.atom) — `https://github.com/whatwg/fetch/commits/main.atom`
-- [Recent Commits to fs:main](https://github.com/whatwg/fs/commits/main.atom) — `https://github.com/whatwg/fs/commits/main.atom`
-- [Recent Commits to fullscreen:main](https://github.com/whatwg/fullscreen/commits/main.atom) — `https://github.com/whatwg/fullscreen/commits/main.atom`
-- [Recent Commits to fxtf-drafts:main](https://github.com/w3c/fxtf-drafts/commits/main.atom) — `https://github.com/w3c/fxtf-drafts/commits/main.atom`
-- [Recent Commits to html-aria:gh-pages](https://github.com/w3c/html-aria/commits/gh-pages.atom) — `https://github.com/w3c/html-aria/commits/gh-pages.atom`
-- [Recent Commits to html:main](https://github.com/whatwg/html/commits/main.atom) — `https://github.com/whatwg/html/commits/main.atom`
-- [Recent Commits to infra:main](https://github.com/whatwg/infra/commits/main.atom) — `https://github.com/whatwg/infra/commits/main.atom`
-- [Recent Commits to manifest-app-info:main](https://github.com/w3c/manifest-app-info/commits/main.atom) — `https://github.com/w3c/manifest-app-info/commits/main.atom`
-- [Recent Commits to manifest:gh-pages](https://github.com/w3c/manifest/commits/gh-pages.atom) — `https://github.com/w3c/manifest/commits/gh-pages.atom`
-- [Recent Commits to netinfo:gh-pages](https://github.com/WICG/netinfo/commits/gh-pages.atom) — `https://github.com/WICG/netinfo/commits/gh-pages.atom`
-- [Recent Commits to notifications:main](https://github.com/whatwg/notifications/commits/main.atom) — `https://github.com/whatwg/notifications/commits/main.atom`
-- [Recent Commits to picture-in-picture:main](https://github.com/w3c/picture-in-picture/commits/main.atom) — `https://github.com/w3c/picture-in-picture/commits/main.atom`
-- [Recent Commits to proposals:main](https://github.com/tc39/proposals/commits/main.atom) — `https://github.com/tc39/proposals/commits/main.atom`
-- [Recent Commits to resize-observer:master](https://github.com/WICG/ResizeObserver/commits/master.atom) — `https://github.com/WICG/ResizeObserver/commits/master.atom`
-- [Recent Commits to shape-detection-api:gh-pages](https://github.com/WICG/shape-detection-api/commits/gh-pages.atom) — `https://github.com/WICG/shape-detection-api/commits/gh-pages.atom`
-- [Recent Commits to storage:main](https://github.com/whatwg/storage/commits/main.atom) — `https://github.com/whatwg/storage/commits/main.atom`
-- [Recent Commits to url:main](https://github.com/whatwg/url/commits/main.atom) — `https://github.com/whatwg/url/commits/main.atom`
-- [Recent Commits to using-aria:gh-pages](https://github.com/w3c/using-aria/commits/gh-pages.atom) — `https://github.com/w3c/using-aria/commits/gh-pages.atom`
-- [Recent Commits to visual-viewport:gh-pages](https://github.com/WICG/visual-viewport/commits/gh-pages.atom) — `https://github.com/WICG/visual-viewport/commits/gh-pages.atom`
-- [Recent Commits to web-share-target:main](https://github.com/w3c/web-share-target/commits/main.atom) — `https://github.com/w3c/web-share-target/commits/main.atom`
-- [Recent Commits to web-share:main](https://github.com/w3c/web-share/commits/main.atom) — `https://github.com/w3c/web-share/commits/main.atom`
-- [Recent Commits to webappsec-csp:main](https://github.com/w3c/webappsec-csp/commits/main.atom) — `https://github.com/w3c/webappsec-csp/commits/main.atom`
-- [Recent Commits to webappsec-permissions-policy:main](https://github.com/w3c/webappsec-permissions-policy/commits/main.atom) — `https://github.com/w3c/webappsec-permissions-policy/commits/main.atom`
-- [Recent Commits to webidl:main](https://github.com/whatwg/webidl/commits/main.atom) — `https://github.com/whatwg/webidl/commits/main.atom`
-- [Recent Commits to xhr:main](https://github.com/whatwg/xhr/commits/main.atom) — `https://github.com/whatwg/xhr/commits/main.atom`
-- [Release notes from autoprefixer](https://github.com/postcss/autoprefixer/releases.atom) — `https://github.com/postcss/autoprefixer/releases.atom`
-- [Release notes from html5-boilerplate](https://github.com/h5bp/html5-boilerplate/releases.atom) — `https://github.com/h5bp/html5-boilerplate/releases.atom`
-- [Robert Nyman](https://feeds.feedburner.com/robertnyman) — `https://feeds.feedburner.com/robertnyman`
-- [Robin Berjon](https://berjon.com/feed.atom) — `https://berjon.com/feed.atom`
-- [Robin Wieruch](https://www.robinwieruch.de/index.xml) — `https://www.robinwieruch.de/index.xml`
-- [Ryan Seddon](https://thecssninja.com/index.xml) — `https://thecssninja.com/index.xml`
-- [Samsung Internet Developers](https://medium.com/feed/samsung-internet-dev) — `https://medium.com/feed/samsung-internet-dev`
-- [Sara Soueidan – Blog](https://www.sarasoueidan.com/blog/index.xml) — `https://www.sarasoueidan.com/blog/index.xml`
-- [Sass Blog](https://sass-lang.com/feed.xml) — `https://sass-lang.com/feed.xml`
-- [Scott O'Hara](https://www.scottohara.me/feed.xml) — `https://www.scottohara.me/feed.xml`
-- [Search](https://search.googleblog.com/feeds/posts/default) — `https://search.googleblog.com/feeds/posts/default`
-- [Servo Blog](https://servo.org/blog/feed.xml) — `https://servo.org/blog/feed.xml`
-- [Sia Karamalegos, Web Performance](https://sia.codes/feed/feed.xml) — `https://sia.codes/feed/feed.xml`
-- [SitePoint](https://www.sitepoint.com/feed) — `https://www.sitepoint.com/feed`
-- [SitePoint](https://www.sitepoint.com/sitepoint.rss) — `https://www.sitepoint.com/sitepoint.rss`
-- [Smashing Magazine](http://rss1.smashingmagazine.com/feed) — `http://rss1.smashingmagazine.com/feed`
-- [Sophie Alpert](https://sophiebits.com/atom.xml) — `https://sophiebits.com/atom.xml`
-- [StackBlitz Blog](https://blog.stackblitz.com/rss.xml) — `https://blog.stackblitz.com/rss.xml`
-- [Stefan Judis Web Development](https://www.stefanjudis.com/rss.xml) — `https://www.stefanjudis.com/rss.xml`
-- [Stories by Addy Osmani on Medium](https://medium.com/feed/@addyosmani) — `https://medium.com/feed/@addyosmani`
-- [Stories by Nicholas C. Zakas on Medium](https://medium.com/feed/@slicknet) — `https://medium.com/feed/@slicknet`
-- [Stoyan Stefanov](https://www.phpied.com/feed) — `https://www.phpied.com/feed`
-- [Svelte Blog](https://svelte.dev/blog/rss.xml) — `https://svelte.dev/blog/rss.xml`
-- [Tab Atkins](https://www.xanthir.com/blog/atom) — `https://www.xanthir.com/blog/atom`
-- [Tailwind CSS Blog](https://tailwindcss.com/feeds/feed.xml) — `https://tailwindcss.com/feeds/feed.xml`
-- [Tan Li Hau's Blog](https://lihautan.com/rss.xml) — `https://lihautan.com/rss.xml`
-- [Tania Rascia | RSS Feed](https://www.taniarascia.com/rss.xml) — `https://www.taniarascia.com/rss.xml`
-- [Terrill Thompson](https://terrillthompson.com/feed) — `https://terrillthompson.com/feed`
-- [Testing Accessibility](https://testingaccessibility.com/rss.xml) — `https://testingaccessibility.com/rss.xml`
-- [TetraLogical Blog](https://tetralogical.com/feed.xml) — `https://tetralogical.com/feed.xml`
-- [That HTML Blog](https://thathtml.blog/feed.xml) — `https://thathtml.blog/feed.xml`
-- [The A11Y Project](https://www.a11yproject.com/feed/feed.xml) — `https://www.a11yproject.com/feed/feed.xml`
-- [The AMP Blog](https://blog.amp.dev/feed) — `https://blog.amp.dev/feed`
-- [The Every Layout Blog](https://every-layout.dev/feed.xml) — `https://every-layout.dev/feed.xml`
-- [The Mozilla Blog](https://blog.mozilla.org/feed) — `https://blog.mozilla.org/feed`
-- [The Spicy Web](https://www.spicyweb.dev/feed.xml) — `https://www.spicyweb.dev/feed.xml`
-- [The Unicode Blog](http://blog.unicode.org/feeds/posts/default) — `http://blog.unicode.org/feeds/posts/default`
-- [Theresa O’Connor](https://tess.oconnor.cx/feed) — `https://tess.oconnor.cx/feed`
-- [Thomas Park](https://thomaspark.co/feed) — `https://thomaspark.co/feed`
-- [Tim Kadlec](https://timkadlec.com/remembers/atom.xml) — `https://timkadlec.com/remembers/atom.xml`
-- [Trent Walton](https://trentwalton.com/feed.xml) — `https://trentwalton.com/feed.xml`
-- [Trys Mudford's Blog](https://www.trysmudford.com/blog/index.xml) — `https://www.trysmudford.com/blog/index.xml`
-- [TypeScript Blog](https://devblogs.microsoft.com/typescript/feed) — `https://devblogs.microsoft.com/typescript/feed`
-- [Una Kravets Online](https://una.im/rss.xml) — `https://una.im/rss.xml`
-- [User Agent Man](http://www.useragentman.com/blog/feed) — `http://www.useragentman.com/blog/feed`
-- [Utopia](https://utopia.fyi/feed.xml) — `https://utopia.fyi/feed.xml`
-- [V8 Blog](https://v8.dev/blog.atom) — `https://v8.dev/blog.atom`
-- [Vadim Makeev](https://pepelsbey.dev/feed) — `https://pepelsbey.dev/feed`
-- [Vercel News](https://vercel.com/atom) — `https://vercel.com/atom`
-- [Vincent De Oliveira - CSS, SVG, UI & Maps](https://iamvdo.me/en/rss) — `https://iamvdo.me/en/rss`
-- [Virtual Reality](https://blogs.igalia.com/svillar/index.xml) — `https://blogs.igalia.com/svillar/index.xml`
-- [Vue Blog](https://blog.vuejs.org/feed.rss) — `https://blog.vuejs.org/feed.rss`
-- [Vue Blog](https://medium.com/feed/the-vue-point) — `https://medium.com/feed/the-vue-point`
-- [Vue News](https://news.vuejs.org/feed.xml) — `https://news.vuejs.org/feed.xml`
-- [W3C Blog](https://www.w3.org/blog/feed) — `https://www.w3.org/blog/feed`
-- [W3C News](https://www.w3.org/blog/news/feed) — `https://www.w3.org/blog/news/feed`
-- [WHATWG Blog](https://blog.whatwg.org/feed) — `https://blog.whatwg.org/feed`
-- [WPEwebkit.org](https://wpewebkit.org/feed.xml) — `https://wpewebkit.org/feed.xml`
-- [Web - Engineering at Meta](https://engineering.fb.com/category/web/feed) — `https://engineering.fb.com/category/web/feed`
-- [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/feed.xml) — `https://www.w3.org/WAI/feed.xml`
-- [Web Axe](http://www.webaxe.org/feed) — `http://www.webaxe.org/feed`
-- [Web Performance Calendar](https://calendar.perfplanet.com/feed) — `https://calendar.perfplanet.com/feed`
-- [Web Performance Tips](https://www.webperf.tips/rss.xml) — `https://www.webperf.tips/rss.xml`
-- [Web Platform News](https://webplatform.news/feed.xml) — `https://webplatform.news/feed.xml`
-- [Web Reflection](http://webreflection.blogspot.com/feeds/posts/default) — `http://webreflection.blogspot.com/feeds/posts/default`
-- [WebAIM Blog](https://webaim.org/blog/feed) — `https://webaim.org/blog/feed`
-- [WebGL Fundamentals](https://webglfundamentals.org/atom.xml) — `https://webglfundamentals.org/atom.xml`
-- [WebKit Blog](https://webkit.org/feed) — `https://webkit.org/feed`
-- [WordPress Developer Blog](https://developer.wordpress.org/news/feed) — `https://developer.wordpress.org/news/feed`
-- [Working in the open with W3C and Studio 24](https://w3c.studio24.net/feeds/updates.xml) — `https://w3c.studio24.net/feeds/updates.xml`
-- [Zach Leatherman](https://www.zachleat.com/web/feed) — `https://www.zachleat.com/web/feed`
-- [Zeldman on Web and Interaction Design](https://www.zeldman.com/feed) — `https://www.zeldman.com/feed`
-- [Zell Liew](https://zellwk.com/rss.xml) — `https://zellwk.com/rss.xml`
-- [Ziran Sun’s blog](https://blogs.igalia.com/zsun/feed) — `https://blogs.igalia.com/zsun/feed`
-- [article on Herding Lions](https://benmccormick.org/categories/article/feed.xml) — `https://benmccormick.org/categories/article/feed.xml`
-- [blog.jim-nielsen.com](https://blog.jim-nielsen.com/feed.xml) — `https://blog.jim-nielsen.com/feed.xml`
-- [bryanlrobinson.com](https://bryanlrobinson.com/feed.xml) — `https://bryanlrobinson.com/feed.xml`
-- [developer.chrome.com: Blog](https://developer.chrome.com/static/blog/feed.xml) — `https://developer.chrome.com/static/blog/feed.xml`
-- [fantasai: Weblog](https://fantasai.inkedblade.net/weblog/all/rss2) — `https://fantasai.inkedblade.net/weblog/all/rss2`
-- [fettblog.eu | TypeScript, JavaScript, Jamstack](https://fettblog.eu/feed.xml) — `https://fettblog.eu/feed.xml`
-- [hayato](https://hayatoito.github.io/feed.xml) — `https://hayatoito.github.io/feed.xml`
-- [in progress](http://cwilso.com/feed) — `http://cwilso.com/feed`
-- [mariospr.org](https://mariospr.org/feed) — `https://mariospr.org/feed`
-- [mark nottingham](http://www.mnot.net/blog/index.atom) — `http://www.mnot.net/blog/index.atom`
-- [rachelnabors.github.io](http://feeds.feedburner.com/RachelNabors) — `http://feeds.feedburner.com/RachelNabors`
-- [remy sharp's b:log](https://remysharp.com/feed.xml) — `https://remysharp.com/feed.xml`
-- [remy sharp's l:inks](https://feeds.remysharp.com/links.xml) — `https://feeds.remysharp.com/links.xml`
-- [swyx.io blog](https://www.swyx.io/rss.xml) — `https://www.swyx.io/rss.xml`
-- [the frontendian](https://frontendian.co/feed.xml) — `https://frontendian.co/feed.xml`
-- [web.dev](https://web.dev/feed.xml) — `https://web.dev/feed.xml`
-- [web.dev: Articles](https://web.dev/static/articles/feed.xml) — `https://web.dev/static/articles/feed.xml`
-- [web.dev: Blog](https://web.dev/static/blog/feed.xml) — `https://web.dev/static/blog/feed.xml`
-- [webrtcHacks](http://www.webrtchacks.com/?feed=atom) — `http://www.webrtchacks.com/?feed=atom`
-- [📚 Nitay Neeman's Blog | JavaScript • Angular • RxJS](https://nitayneeman.com/index.xml) — `https://nitayneeman.com/index.xml`
+- [Android Weekly](https://androidweekly.net/rss.xml)
+- [ByteByteGo Newsletter](https://blog.bytebytego.com/feed)
+- [dailydevlinks](https://unicornclub.dev/feed)
+- [Everything Is Amazing](https://everythingisamazing.substack.com/feed)
+- [Firefox Archives - gHacks Tech News](https://www.ghacks.net/category/firefox/feed)
+- [Golang Weekly](https://golangweekly.com/rss)
+- [InfoQ](https://feed.infoq.com/)
+- [Tech TLDR;](http://www.alexkras.com/feed)
+- [tedium.co](https://feed.tedium.co/)
+- [This Week in Rust](https://this-week-in-rust.org/atom.xml)
+- [Yangyi(@Yangyixxxx)](https://api.xgo.ing/rss/user/66c40de71a9842fda4853b7d9d1d20da)
