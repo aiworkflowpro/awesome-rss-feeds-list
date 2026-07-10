@@ -2,10 +2,10 @@
 
 # 🌐 awesome-rss-feeds
 
-> 💎 **8905+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
+> 💎 **8910+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-8905+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-8905-2188FF?style=for-the-badge)](#-quick-start)
+[![Live feeds](https://img.shields.io/badge/live_feeds-8910+-brightgreen?style=for-the-badge)](LIST.md)
+[![English only](https://img.shields.io/badge/English_only-8910-2188FF?style=for-the-badge)](#-quick-start)
 [![Categories](https://img.shields.io/badge/categories-21-orange?style=for-the-badge)](#-quick-start)
 [![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
 
@@ -15,7 +15,7 @@
 
 > 🎯 **Algorithms wrap you in a filter bubble, platforms chain you to a timeline, and AI-generated content is destroying the signal-to-noise ratio — RSS is the last pillar for taking back control of what you read.**
 >
-> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8905+ live feeds** across **21 categories**, with AI as a first-class focus.
+> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8910+ live feeds** across **21 categories**, with AI as a first-class focus.
 
 <div align="center">
 
@@ -30,12 +30,12 @@
 | What you want to read | Category | Feeds |
 |---|---|---:|
 | 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **242** |
-| ⚙️ AI Engineering & LLM | [feeds/en-ai-eng.opml](feeds/en-ai-eng.opml) | **215** |
+| ⚙️ AI Engineering & LLM | [feeds/en-ai-eng.opml](feeds/en-ai-eng.opml) | **223** |
 | 📡 AI News & Insights | [feeds/en-ai-news.opml](feeds/en-ai-news.opml) | **15** |
-| 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **480** |
+| 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **479** |
 | ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **1159** |
 | 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **35** |
-| 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **281** |
+| 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **279** |
 | ☁️ DevOps & Data | [feeds/en-devops-data.opml](feeds/en-devops-data.opml) | **78** |
 | 📱 Mobile Development | [feeds/en-mobile.opml](feeds/en-mobile.opml) | **75** |
 | 🏗️ Engineering Team Blogs | [feeds/en-tech-teams.opml](feeds/en-tech-teams.opml) | **275** |

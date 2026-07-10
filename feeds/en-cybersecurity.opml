@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Cybersecurity</title>
-    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
+    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="&quot;Having Birth&quot;: What Florida's New Security Law Is Actually For" title="&quot;Having Birth&quot;: What Florida's New Security Law Is Actually For" xmlUrl="https://www.hackingbutlegal.com/feed" htmlUrl=""/>
@@ -200,7 +200,6 @@
     <outline type="rss" text="hexlab Feed" title="hexlab Feed" xmlUrl="https://hexlab.xyz/feed.xml" htmlUrl="https://hexlab.xyz"/>
     <outline type="rss" text="Ho1y_Sunny's blog" title="Ho1y_Sunny's blog" xmlUrl="http://ho1ysunny.blogspot.com/feeds/posts/default" htmlUrl="http://ho1ysunny.blogspot.com/"/>
     <outline type="rss" text="Hoang Nguyen" title="Hoang Nguyen" xmlUrl="https://hngnh.com/feed.xml" htmlUrl="https://hngnh.com"/>
-    <outline type="rss" text="Horizon3.ai" title="Horizon3.ai" xmlUrl="https://www.horizon3.ai/feed" htmlUrl="https://www.horizon3.ai/"/>
     <outline type="rss" text="How Hackers Can Control Anything Remotely Using LoRa Modules" title="How Hackers Can Control Anything Remotely Using LoRa Modules" xmlUrl="https://null-byte.wonderhowto.com/rss.xml" htmlUrl=""/>
     <outline type="rss" text="How One Woman Is Using the UN to Attack Trans Rights Worldwide" title="How One Woman Is Using the UN to Attack Trans Rights Worldwide" xmlUrl="https://www.erininthemorning.com/feed" htmlUrl=""/>
     <outline type="rss" text="How Trump and Congress Are Attacking the Endangered Species Act – and What You Can Do" title="How Trump and Congress Are Attacking the Endangered Species Act – and What You Can Do" xmlUrl="https://earthjustice.org/feed" htmlUrl=""/>

@@ -1,6 +1,6 @@
 # awesome-rss-feeds · Full Feed Index
 
-> Auto-generated 2026-07-10T19:12:09Z · **8905 live English feeds** across 21 categories. Every feed is HTTP-validated.
+> Auto-generated 2026-07-10T19:15:17Z · **8910 live English feeds** across 21 categories. Every feed is HTTP-validated.
 
 ## 🧠 AI Research & Labs (242)
 
@@ -247,7 +247,7 @@
 - [World-class UK research organisations launch new group](https://www.bas.ac.uk/feed?post_type=news)
 - [Your Advocacy in Action: The Road to Increased Federal Research Funding](https://pancan.org/feed)
 
-## ⚙️ AI Engineering & LLM (215)
+## ⚙️ AI Engineering & LLM (223)
 
 - [#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies](https://mixergy.com/?feed=mixergy_feed)
 - [(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, & DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak](https://braddelong.substack.com/feed)
@@ -271,6 +271,7 @@
 - [Anthropic’s Most Powerful AI Models Just Got Killed by the US Government Here’s the Full Story Behind the 72-Hour Takedown](https://thundroid.co/feed)
 - [Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount](https://wccftech.com/feed)
 - [AppSec-Labs | Application Security](https://appsec-labs.com/blog/feed)
+- [ArkDesign.ai: the new frontier of AI for schematic design](https://www.archiobjects.org/feed)
 - [Artificial Intelligence for Climate Risk Prediction and Adaptation](https://fii-institute.org/industry/ai-robotics/feed)
 - [Artificial Intelligence News — Newsletter on Deep Learning & AI](http://aiweekly.co/issues.rss)
 - [Artificial Intelligence Resources](http://airesources.blogspot.com/feeds/posts/default?alt=rss)
@@ -338,6 +339,7 @@
 - [GPT-5.6](https://hn.algolia.com/rss)
 - [GPT-5.6 launches, Meta EU design breach, reading crisis](https://newslit.substack.com/feed)
 - [Hacking Dream](https://www.hackingdream.net/feeds/posts/default?alt=rss)
+- [Horizon3.ai](https://www.horizon3.ai/feed)
 - [How OpenAI Builds Infrastructure Teams](https://newsletter.eng-leadership.com/feed)
 - [How to Activate ChatGPT Voice (2026): Enable GPT-Live on Android, iPhone & Web](https://www.izoate.com/feed)
 - [How to automate Fabric data agent testing with promptfoo and GitHub Actions](https://www.red-gate.com/simple-talk/feed)
@@ -347,6 +349,8 @@
 - [Hugging Face(@huggingface)](https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f)
 - [idiallo.com](https://idiallo.com/feed.rss)
 - [idoubi(@idoubicc)](https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65)
+- [Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT](https://www.presidioeuropa.net/blog/feed)
+- [Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT](https://www.presidioeuropa.net/blog/feed/atom)
 - [Information Security](http://www.reddit.com/r/Information_Security/.rss)
 - [infosecurity-magazine.com:443](http://www.infosecurity-magazine.com/rss/news)
 - [Introducing Clips: An open-source, agent-native Loom alternative](https://www.builder.io/blog/feed.xml)
@@ -365,6 +369,7 @@
 - [Latent.Space(@latentspacepod)](https://api.xgo.ing/rss/user/a7be8b61a1264ea7984abfaea3eff686)
 - [Lions Sign Free Agent Defensive Back Deontai Williams](https://www.bclions.com/2025/02/11/lions-sign-free-agent-defensive-back-deontai-williams/feed)
 - [LlamaIndex 🦙(@llama_index)](https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2)
+- [lmarena.ai(@lmarena_ai)](https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5)
 - [Maak je eigen AI-collega met Gems en GPT’s](https://rss.beehiiv.com/feeds/6ErsgpBBP3.xml)
 - [Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/feed)
 - [Magnifica Humanitas: Doin’ the Vatican RAG](https://astickadogandaboxwithsomethinginit.com/feed)
@@ -372,6 +377,7 @@
 - [Marketing Artificial Intelligence Institute](http://www.marketingaiinstitute.com/blog/rss.xml)
 - [martinalderson.com](https://martinalderson.com/feed.xml)
 - [Mary Oliver: Saved by the Beauty of the World Review – Observing a World of Poetry](https://povmagazine.com/feed)
+- [MathGPT.ai™ Adds Seamless Moodle Integration, Expanding Its Support Across Leading Higher Education LMS Platforms](https://www.mathgpt.ai/feed)
 - [MCP, Microsoft Graph, and Copilot connectors in GitHub Copilot agent mode](https://briantjackett.com/feed)
 - [Meaning and Understanding in the Mind of A Language Model](https://inferencemagazine.substack.com/feed)
 - [Medium - Artificial Intelligence Magazine](https://becominghuman.ai/feed)
@@ -400,6 +406,7 @@
 - [OpenAI's Stargate Data Centers Are Taking Longer and Costing More Than Its Competitors'](https://www.distilled.earth/feed)
 - [OpenAI(@OpenAI)](https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049)
 - [Oral statement at the Global Dialogue on Artificial Intelligence Governance](https://www.accessnow.org/feed)
+- [orange.ai(@oran_ge)](https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7)
 - [Palo Alto Networks Blog](http://researchcenter.paloaltonetworks.com/feed)
 - [Paul Couvert(@itsPaulAi)](https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f)
 - [Perplexity(@perplexity_ai)](https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c)
@@ -462,6 +469,7 @@
 - [wheresyoured.at](https://www.wheresyoured.at/rss)
 - [Windsurf(@windsurf_ai)](https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf)
 - [xeiaso.net](https://xeiaso.net/blog.rss)
+- [you just don't understand how ai works, bro](https://teasmith.au/feed)
 - [Yummy 😋 - Telegram Channel](https://rsshub.imlg.co/telegram/channel/GodlyNews1)
 - [💥 Issue 112: How to build an AI agent, How k8s Networking Works, The Future of Software Engineering, The AI Code Review Problem](https://www.techtalksweekly.io/feed)
 
@@ -483,7 +491,7 @@
 - [VentureBeat AI](https://venturebeat.com/category/ai/feed)
 - [Why easyJet Prefers Apollo Over Castlelake](https://airinsight.com/feed)
 
-## 🔐 Cybersecurity (480)
+## 🔐 Cybersecurity (479)
 
 - ["Having Birth": What Florida's New Security Law Is Actually For](https://www.hackingbutlegal.com/feed)
 - [#1 - Montreal Canadiens Reportedly Sign Defensive Prospect, KHL All-Star Bogdan Konyushkov to ELC🔥](https://canadiensaggr.com/feed/trending)
@@ -680,7 +688,6 @@
 - [hexlab Feed](https://hexlab.xyz/feed.xml)
 - [Ho1y_Sunny's blog](http://ho1ysunny.blogspot.com/feeds/posts/default)
 - [Hoang Nguyen](https://hngnh.com/feed.xml)
-- [Horizon3.ai](https://www.horizon3.ai/feed)
 - [How Hackers Can Control Anything Remotely Using LoRa Modules](https://null-byte.wonderhowto.com/rss.xml)
 - [How One Woman Is Using the UN to Attack Trans Rights Worldwide](https://www.erininthemorning.com/feed)
 - [How Trump and Congress Are Attacking the Endangered Species Act – and What You Can Do](https://earthjustice.org/feed)
@@ -2166,7 +2173,7 @@
 - [WRTC 2026](https://www.dx-world.net/feed)
 - [‘Buddy’ Teaser Trailer – First Look at Casper Kelly’s Twisted Horror Nightmare Starring Topher Grace, Keegan-Michael Key, Michael Shannon](https://vimooz.com/feed)
 
-## 💻 Backend & Systems (281)
+## 💻 Backend & Systems (279)
 
 - [(Slightly) Random Broken Thoughts](http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default)
 - [128 nops and counting](https://carstein.github.io/feed.xml)
@@ -2324,7 +2331,6 @@
 - [Lex Fridman(@lexfridman)](https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15)
 - [Liberty Avenue shows how Bloomfield changed — and where it could go next](https://www.publicsource.org/feed)
 - [Lilian Weng(@lilianweng)](https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498)
-- [lmarena.ai(@lmarena_ai)](https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5)
 - [Logan Kilpatrick(@OfficialLoganK)](https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe)
 - [Los Valientes with Christopher Guerrero and Robert Allarte](https://api.substack.com/feed/podcast/3079970.rss)
 - [Lovable(@lovable_dev)](https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767)
@@ -2362,7 +2368,6 @@
 - [Offshore business setup in Dubai: A simpler way to go global](https://www.3shconsultancy.com/feed)
 - [ollama(@ollama)](https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2)
 - [OpenRouter(@OpenRouterAI)](https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4)
-- [orange.ai(@oran_ge)](https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7)
 - [Patrick Loeber(@patloeber)](https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f)
 - [Paul Graham(@paulg)](https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc)
 - [Paul's Security Weekly](http://podcast.securityweekly.com/rss)

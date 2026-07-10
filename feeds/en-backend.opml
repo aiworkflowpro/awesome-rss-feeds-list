@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Backend &amp; Systems</title>
-    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
+    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="(Slightly) Random Broken Thoughts" title="(Slightly) Random Broken Thoughts" xmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default" htmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/"/>
@@ -161,7 +161,6 @@
     <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
     <outline type="rss" text="Liberty Avenue shows how Bloomfield changed — and where it could go next" title="Liberty Avenue shows how Bloomfield changed — and where it could go next" xmlUrl="https://www.publicsource.org/feed" htmlUrl=""/>
     <outline type="rss" text="Lilian Weng(@lilianweng)" title="Lilian Weng(@lilianweng)" xmlUrl="https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498" htmlUrl=""/>
-    <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" htmlUrl=""/>
     <outline type="rss" text="Logan Kilpatrick(@OfficialLoganK)" title="Logan Kilpatrick(@OfficialLoganK)" xmlUrl="https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe" htmlUrl=""/>
     <outline type="rss" text="Los Valientes with Christopher Guerrero and Robert Allarte" title="Los Valientes with Christopher Guerrero and Robert Allarte" xmlUrl="https://api.substack.com/feed/podcast/3079970.rss" htmlUrl=""/>
     <outline type="rss" text="Lovable(@lovable_dev)" title="Lovable(@lovable_dev)" xmlUrl="https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767" htmlUrl=""/>
@@ -199,7 +198,6 @@
     <outline type="rss" text="Offshore business setup in Dubai: A simpler way to go global" title="Offshore business setup in Dubai: A simpler way to go global" xmlUrl="https://www.3shconsultancy.com/feed" htmlUrl=""/>
     <outline type="rss" text="ollama(@ollama)" title="ollama(@ollama)" xmlUrl="https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2" htmlUrl=""/>
     <outline type="rss" text="OpenRouter(@OpenRouterAI)" title="OpenRouter(@OpenRouterAI)" xmlUrl="https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4" htmlUrl=""/>
-    <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" htmlUrl=""/>
     <outline type="rss" text="Patrick Loeber(@patloeber)" title="Patrick Loeber(@patloeber)" xmlUrl="https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f" htmlUrl=""/>
     <outline type="rss" text="Paul Graham(@paulg)" title="Paul Graham(@paulg)" xmlUrl="https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc" htmlUrl=""/>
     <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/"/>

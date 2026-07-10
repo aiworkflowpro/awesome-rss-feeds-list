@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · The most complete English RSS feed library</title>
-    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
+    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
   </head>
   <body>
     <outline text="🧠 AI Research &amp; Labs" title="🧠 AI Research &amp; Labs">
@@ -272,6 +272,7 @@
       <outline type="rss" text="Anthropic’s Most Powerful AI Models Just Got Killed by the US Government Here’s the Full Story Behind the 72-Hour Takedown" title="Anthropic’s Most Powerful AI Models Just Got Killed by the US Government Here’s the Full Story Behind the 72-Hour Takedown" xmlUrl="https://thundroid.co/feed" htmlUrl=""/>
       <outline type="rss" text="Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount" title="Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount" xmlUrl="https://wccftech.com/feed" htmlUrl=""/>
       <outline type="rss" text="AppSec-Labs | Application Security" title="AppSec-Labs | Application Security" xmlUrl="https://appsec-labs.com/blog/feed" htmlUrl="https://appsec-labs.com"/>
+      <outline type="rss" text="ArkDesign.ai: the new frontier of AI for schematic design" title="ArkDesign.ai: the new frontier of AI for schematic design" xmlUrl="https://www.archiobjects.org/feed" htmlUrl=""/>
       <outline type="rss" text="Artificial Intelligence for Climate Risk Prediction and Adaptation" title="Artificial Intelligence for Climate Risk Prediction and Adaptation" xmlUrl="https://fii-institute.org/industry/ai-robotics/feed" htmlUrl=""/>
       <outline type="rss" text="Artificial Intelligence News — Newsletter on Deep Learning &amp; AI" title="Artificial Intelligence News — Newsletter on Deep Learning &amp; AI" xmlUrl="http://aiweekly.co/issues.rss" htmlUrl="http://aiweekly.co/"/>
       <outline type="rss" text="Artificial Intelligence Resources" title="Artificial Intelligence Resources" xmlUrl="http://airesources.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://airesources.blogspot.com/"/>
@@ -339,6 +340,7 @@
       <outline type="rss" text="GPT-5.6" title="GPT-5.6" xmlUrl="https://hn.algolia.com/rss" htmlUrl=""/>
       <outline type="rss" text="GPT-5.6 launches, Meta EU design breach, reading crisis" title="GPT-5.6 launches, Meta EU design breach, reading crisis" xmlUrl="https://newslit.substack.com/feed" htmlUrl=""/>
       <outline type="rss" text="Hacking Dream" title="Hacking Dream" xmlUrl="https://www.hackingdream.net/feeds/posts/default?alt=rss" htmlUrl="https://www.hackingdream.net/"/>
+      <outline type="rss" text="Horizon3.ai" title="Horizon3.ai" xmlUrl="https://www.horizon3.ai/feed" htmlUrl="https://www.horizon3.ai/"/>
       <outline type="rss" text="How OpenAI Builds Infrastructure Teams" title="How OpenAI Builds Infrastructure Teams" xmlUrl="https://newsletter.eng-leadership.com/feed" htmlUrl=""/>
       <outline type="rss" text="How to Activate ChatGPT Voice (2026): Enable GPT-Live on Android, iPhone &amp; Web" title="How to Activate ChatGPT Voice (2026): Enable GPT-Live on Android, iPhone &amp; Web" xmlUrl="https://www.izoate.com/feed" htmlUrl=""/>
       <outline type="rss" text="How to automate Fabric data agent testing with promptfoo and GitHub Actions" title="How to automate Fabric data agent testing with promptfoo and GitHub Actions" xmlUrl="https://www.red-gate.com/simple-talk/feed" htmlUrl=""/>
@@ -348,6 +350,8 @@
       <outline type="rss" text="Hugging Face(@huggingface)" title="Hugging Face(@huggingface)" xmlUrl="https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f" htmlUrl=""/>
       <outline type="rss" text="idiallo.com" title="idiallo.com" xmlUrl="https://idiallo.com/feed.rss" htmlUrl="https://idiallo.com"/>
       <outline type="rss" text="idoubi(@idoubicc)" title="idoubi(@idoubicc)" xmlUrl="https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65" htmlUrl=""/>
+      <outline type="rss" text="Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT" title="Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT" xmlUrl="https://www.presidioeuropa.net/blog/feed" htmlUrl=""/>
+      <outline type="rss" text="Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT" title="Il Deputato della Savoia Jean-Francois Coulomme in visita ai cantieri della Torino-Lione denuncia la mancanza di trasparenza di TELT" xmlUrl="https://www.presidioeuropa.net/blog/feed/atom" htmlUrl=""/>
       <outline type="rss" text="Information Security" title="Information Security" xmlUrl="http://www.reddit.com/r/Information_Security/.rss" htmlUrl="https://www.reddit.com/r/Information_Security/"/>
       <outline type="rss" text="infosecurity-magazine.com:443" title="infosecurity-magazine.com:443" xmlUrl="http://www.infosecurity-magazine.com/rss/news" htmlUrl=""/>
       <outline type="rss" text="Introducing Clips: An open-source, agent-native Loom alternative" title="Introducing Clips: An open-source, agent-native Loom alternative" xmlUrl="https://www.builder.io/blog/feed.xml" htmlUrl=""/>
@@ -366,6 +370,7 @@
       <outline type="rss" text="Latent.Space(@latentspacepod)" title="Latent.Space(@latentspacepod)" xmlUrl="https://api.xgo.ing/rss/user/a7be8b61a1264ea7984abfaea3eff686" htmlUrl=""/>
       <outline type="rss" text="Lions Sign Free Agent Defensive Back Deontai Williams" title="Lions Sign Free Agent Defensive Back Deontai Williams" xmlUrl="https://www.bclions.com/2025/02/11/lions-sign-free-agent-defensive-back-deontai-williams/feed" htmlUrl=""/>
       <outline type="rss" text="LlamaIndex 🦙(@llama_index)" title="LlamaIndex 🦙(@llama_index)" xmlUrl="https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2" htmlUrl=""/>
+      <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" htmlUrl=""/>
       <outline type="rss" text="Maak je eigen AI-collega met Gems en GPT’s" title="Maak je eigen AI-collega met Gems en GPT’s" xmlUrl="https://rss.beehiiv.com/feeds/6ErsgpBBP3.xml" htmlUrl=""/>
       <outline type="rss" text="Machine Learning Blog" title="Machine Learning Blog" xmlUrl="https://blogs.technet.microsoft.com/machinelearning/feed" htmlUrl="https://blogs.technet.microsoft.com/machinelearning/"/>
       <outline type="rss" text="Magnifica Humanitas: Doin’ the Vatican RAG" title="Magnifica Humanitas: Doin’ the Vatican RAG" xmlUrl="https://astickadogandaboxwithsomethinginit.com/feed" htmlUrl=""/>
@@ -373,6 +378,7 @@
       <outline type="rss" text="Marketing Artificial Intelligence Institute" title="Marketing Artificial Intelligence Institute" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
       <outline type="rss" text="martinalderson.com" title="martinalderson.com" xmlUrl="https://martinalderson.com/feed.xml" htmlUrl="https://martinalderson.com"/>
       <outline type="rss" text="Mary Oliver: Saved by the Beauty of the World Review – Observing a World of Poetry" title="Mary Oliver: Saved by the Beauty of the World Review – Observing a World of Poetry" xmlUrl="https://povmagazine.com/feed" htmlUrl=""/>
+      <outline type="rss" text="MathGPT.ai™ Adds Seamless Moodle Integration, Expanding Its Support Across Leading Higher Education LMS Platforms" title="MathGPT.ai™ Adds Seamless Moodle Integration, Expanding Its Support Across Leading Higher Education LMS Platforms" xmlUrl="https://www.mathgpt.ai/feed" htmlUrl=""/>
       <outline type="rss" text="MCP, Microsoft Graph, and Copilot connectors in GitHub Copilot agent mode" title="MCP, Microsoft Graph, and Copilot connectors in GitHub Copilot agent mode" xmlUrl="https://briantjackett.com/feed" htmlUrl=""/>
       <outline type="rss" text="Meaning and Understanding in the Mind of A Language Model" title="Meaning and Understanding in the Mind of A Language Model" xmlUrl="https://inferencemagazine.substack.com/feed" htmlUrl=""/>
       <outline type="rss" text="Medium - Artificial Intelligence Magazine" title="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
@@ -401,6 +407,7 @@
       <outline type="rss" text="OpenAI's Stargate Data Centers Are Taking Longer and Costing More Than Its Competitors'" title="OpenAI's Stargate Data Centers Are Taking Longer and Costing More Than Its Competitors'" xmlUrl="https://www.distilled.earth/feed" htmlUrl=""/>
       <outline type="rss" text="OpenAI(@OpenAI)" title="OpenAI(@OpenAI)" xmlUrl="https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049" htmlUrl=""/>
       <outline type="rss" text="Oral statement at the Global Dialogue on Artificial Intelligence Governance" title="Oral statement at the Global Dialogue on Artificial Intelligence Governance" xmlUrl="https://www.accessnow.org/feed" htmlUrl=""/>
+      <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" htmlUrl=""/>
       <outline type="rss" text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" xmlUrl="http://researchcenter.paloaltonetworks.com/feed" htmlUrl=""/>
       <outline type="rss" text="Paul Couvert(@itsPaulAi)" title="Paul Couvert(@itsPaulAi)" xmlUrl="https://api.xgo.ing/rss/user/b9912ac9a29042cf8c834419dc44cb1f" htmlUrl=""/>
       <outline type="rss" text="Perplexity(@perplexity_ai)" title="Perplexity(@perplexity_ai)" xmlUrl="https://api.xgo.ing/rss/user/fdd601ea751949e7bec9e4cdad7c8e6c" htmlUrl=""/>
@@ -463,6 +470,7 @@
       <outline type="rss" text="wheresyoured.at" title="wheresyoured.at" xmlUrl="https://www.wheresyoured.at/rss" htmlUrl="https://wheresyoured.at"/>
       <outline type="rss" text="Windsurf(@windsurf_ai)" title="Windsurf(@windsurf_ai)" xmlUrl="https://api.xgo.ing/rss/user/4a8273800ed34a069eecdb6c5c1b9ccf" htmlUrl=""/>
       <outline type="rss" text="xeiaso.net" title="xeiaso.net" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net"/>
+      <outline type="rss" text="you just don't understand how ai works, bro" title="you just don't understand how ai works, bro" xmlUrl="https://teasmith.au/feed" htmlUrl=""/>
       <outline type="rss" text="Yummy 😋 - Telegram Channel" title="Yummy 😋 - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/GodlyNews1" htmlUrl="https://t.me/s/GodlyNews1"/>
       <outline type="rss" text="💥 Issue 112: How to build an AI agent, How k8s Networking Works, The Future of Software Engineering, The AI Code Review Problem" title="💥 Issue 112: How to build an AI agent, How k8s Networking Works, The Future of Software Engineering, The AI Code Review Problem" xmlUrl="https://www.techtalksweekly.io/feed" htmlUrl=""/>
     </outline>
@@ -679,7 +687,6 @@
       <outline type="rss" text="hexlab Feed" title="hexlab Feed" xmlUrl="https://hexlab.xyz/feed.xml" htmlUrl="https://hexlab.xyz"/>
       <outline type="rss" text="Ho1y_Sunny's blog" title="Ho1y_Sunny's blog" xmlUrl="http://ho1ysunny.blogspot.com/feeds/posts/default" htmlUrl="http://ho1ysunny.blogspot.com/"/>
       <outline type="rss" text="Hoang Nguyen" title="Hoang Nguyen" xmlUrl="https://hngnh.com/feed.xml" htmlUrl="https://hngnh.com"/>
-      <outline type="rss" text="Horizon3.ai" title="Horizon3.ai" xmlUrl="https://www.horizon3.ai/feed" htmlUrl="https://www.horizon3.ai/"/>
       <outline type="rss" text="How Hackers Can Control Anything Remotely Using LoRa Modules" title="How Hackers Can Control Anything Remotely Using LoRa Modules" xmlUrl="https://null-byte.wonderhowto.com/rss.xml" htmlUrl=""/>
       <outline type="rss" text="How One Woman Is Using the UN to Attack Trans Rights Worldwide" title="How One Woman Is Using the UN to Attack Trans Rights Worldwide" xmlUrl="https://www.erininthemorning.com/feed" htmlUrl=""/>
       <outline type="rss" text="How Trump and Congress Are Attacking the Endangered Species Act – and What You Can Do" title="How Trump and Congress Are Attacking the Endangered Species Act – and What You Can Do" xmlUrl="https://earthjustice.org/feed" htmlUrl=""/>
@@ -2320,7 +2327,6 @@
       <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
       <outline type="rss" text="Liberty Avenue shows how Bloomfield changed — and where it could go next" title="Liberty Avenue shows how Bloomfield changed — and where it could go next" xmlUrl="https://www.publicsource.org/feed" htmlUrl=""/>
       <outline type="rss" text="Lilian Weng(@lilianweng)" title="Lilian Weng(@lilianweng)" xmlUrl="https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498" htmlUrl=""/>
-      <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" htmlUrl=""/>
       <outline type="rss" text="Logan Kilpatrick(@OfficialLoganK)" title="Logan Kilpatrick(@OfficialLoganK)" xmlUrl="https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe" htmlUrl=""/>
       <outline type="rss" text="Los Valientes with Christopher Guerrero and Robert Allarte" title="Los Valientes with Christopher Guerrero and Robert Allarte" xmlUrl="https://api.substack.com/feed/podcast/3079970.rss" htmlUrl=""/>
       <outline type="rss" text="Lovable(@lovable_dev)" title="Lovable(@lovable_dev)" xmlUrl="https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767" htmlUrl=""/>
@@ -2358,7 +2364,6 @@
       <outline type="rss" text="Offshore business setup in Dubai: A simpler way to go global" title="Offshore business setup in Dubai: A simpler way to go global" xmlUrl="https://www.3shconsultancy.com/feed" htmlUrl=""/>
       <outline type="rss" text="ollama(@ollama)" title="ollama(@ollama)" xmlUrl="https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2" htmlUrl=""/>
       <outline type="rss" text="OpenRouter(@OpenRouterAI)" title="OpenRouter(@OpenRouterAI)" xmlUrl="https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4" htmlUrl=""/>
-      <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" htmlUrl=""/>
       <outline type="rss" text="Patrick Loeber(@patloeber)" title="Patrick Loeber(@patloeber)" xmlUrl="https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f" htmlUrl=""/>
       <outline type="rss" text="Paul Graham(@paulg)" title="Paul Graham(@paulg)" xmlUrl="https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc" htmlUrl=""/>
       <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/"/>
