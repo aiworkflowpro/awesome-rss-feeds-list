@@ -84,7 +84,7 @@ Most RSS collections are one-time link dumps that rot as feeds go dark. This one
 Hand an OPML file from this repo to Claude Code or Codex and a couple of sentences, and you have an information pipeline with zero deployment:
 
 ```text
-Download https://raw.githubusercontent.com/aiworkflowpro/awesome-rss-feeds/main/feeds/en-ai-research.opml,
+Download https://raw.githubusercontent.com/aiworkflowpro/awesome-rss-feeds-list/main/feeds/en-ai-research.opml,
 parse every feed with feedparser, fetch the article bodies from the last 24 hours,
 and write a 500-word digest grouped by topic to my notes.
 ```
@@ -99,7 +99,7 @@ Every feed is validated over HTTP (status 200 + a feed content-type + at least o
 
 ## 🤝 Contributing
 
-Open an [issue](https://github.com/aiworkflowpro/awesome-rss-feeds/issues) to suggest a new feed, report a dead link, or propose a category. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Open an [issue](https://github.com/aiworkflowpro/awesome-rss-feeds-list/issues) to suggest a new feed, report a dead link, or propose a category. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
