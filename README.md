@@ -4,10 +4,12 @@
 
 > 💎 **8936+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-8936+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-8936-2188FF?style=for-the-badge)](#-quick-start)
-[![Categories](https://img.shields.io/badge/categories-21-orange?style=for-the-badge)](#-quick-start)
-[![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](LICENSE)
+[![Live feeds](https://img.shields.io/badge/Live_feeds-8936+-10B981?style=flat)](LIST.md)
+[![Categories](https://img.shields.io/badge/Categories-21-blue?style=flat)](#-quick-start)
+
+[🚀 Quick Start](#-quick-start) · [📚 Full List](LIST.md) · [🤝 Contribute](#-contributing) · [🌐 AI Workflow Pro](https://aiworkflowpro.com)
 
 </div>
 
@@ -17,11 +19,19 @@
 >
 > The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8936+ live feeds** across **21 categories**, with AI as a first-class focus.
 
-<div align="center">
+---
 
-[🚀 Quick Start](#-quick-start) · [📚 Full List](LIST.md) · [🤝 Contribute](#-contributing) · [🌐 AI Workflow Pro](https://aiworkflowpro.com)
+## Why This List
 
-</div>
+Most RSS collections are one-time link dumps that rot as feeds go dark. This one is maintained:
+
+- **HTTP-validated** — every feed returns a live status and at least one parseable item before it lands here, and is re-checked periodically
+- **English-only, topic-classified** — feeds are sorted by their *actual content*, not just their upstream source, so each category stays on-topic
+- **AI as a first-class focus** — split into Research & Labs, Engineering & LLM, and News & Insights instead of buried in a generic "tech" bucket
+- **Source-preserved** — every upstream list is credited, and the full validation funnel is published in [stats.json](stats.json)
+
+> [!TIP]
+> Import [feeds.opml](feeds.opml) to grab all 8936+ feeds at once, or pick a single category below.
 
 ---
 
@@ -119,7 +129,7 @@ MIT License © 2026 AI Workflow Pro. Feed data is aggregated from public open-so
 
 | Project | What it is |
 |---|---|
-| ✅ [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 8936+ curated English RSS feeds across 21 categories |
+| **[awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list)** | **8936+ curated English RSS feeds across 21 categories** |
 | [awesome-ai-practices-list](https://github.com/aiworkflowpro/awesome-ai-practices-list) | AI best practices, auto-curated every 6h by DigestOps |
 | [awp-workflow-agent-spec](https://github.com/aiworkflowpro/awp-workflow-agent-spec) | Specification for production-grade Claude Code Skills |
 | [awp-video-editing-skill](https://github.com/aiworkflowpro/awp-video-editing-skill) | Claude Code Skill for automated video editing |
